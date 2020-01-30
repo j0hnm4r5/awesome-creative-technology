@@ -2,6 +2,8 @@
 
 > Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
+Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art and the humanities.
+
 Creative technologists by definition have a breadth of skills, as opposed to a specific specialty — so it's difficult to categorize them. While this isn't a perfect organization, each group below generally specializes in the area to which they've been assigned.
 
 ## Contents
@@ -17,19 +19,60 @@ Creative technologists by definition have a breadth of skills, as opposed to a s
 
 
 ## Creative Technology
-- [1024 Architecture](https://www.1024architecture.net/) - [Paris] - 
-- [Aesop](http://taxonomyofdesign.com/en-us/) - [] - 
-- [Art + Com](https://artcom.de/en/) - [Berlin] - 
-- [Augmented Magic](https://www.augmented-magic.com/en/home) - [Paris] - 
-- [AV Controls](https://www.av-controls.com/) - [] - 
-- [BREAKFAST](https://breakfastny.com/) - [NYC] - 
-- [Bridge Studios](https://www.brdg.co/) - [] - 
-- [Creative Theory](http://creativetheory.agency/) - [] - 
-- [Dave + Gabe](https://www.daveandgabe.care/) - [] - 
-- [Deeplocal](https://www.deeplocal.com/) - [Pittsburgh, PA] - 
-- [Deralee](http://www.deralee.com/) - [] - 
-- [Extrapolation Factory](https://extrapolationfactory.com/) - [] - 
-- [fuse*](https://www.fuseworks.it/en/) - [Modena, Italy] - 
+- [1024 Architecture](https://www.1024architecture.net/) 
+
+	[Paris]
+
+	architectural and digital works, orchestrated sound and light scores
+
+- [Art + Com](https://artcom.de/en/)
+
+	[Berlin]
+	
+	media sculptures, data installations, new media
+
+- [Augmented Magic](https://www.augmented-magic.com/en/home)
+	
+	[Paris]
+
+	augmented magic shows, digital installations
+
+- [AV Controls](https://www.av-controls.com/)
+
+	[NYC]
+
+	site-specific technology installations, digital landmarks
+
+- [BREAKFAST](https://breakfastny.com/)
+	
+	[NYC]
+
+	software-/hardware-driven artworks, flip discs
+
+- [BRDG Studios](https://www.brdg.co/)
+
+	[Philadelphia]
+
+	digital moments in physical spaces, retail environments, art galleries, events
+
+- [Deeplocal](https://www.deeplocal.com/)
+
+	[Pittsburgh, PA]
+
+	creative engineers, inventors, interactive experiences, human stories
+
+- [Extrapolation Factory](https://extrapolationfactory.com/)
+
+	[NYC]
+
+	research studio, futures studies, collaborative prototyping
+
+- [fuse*](https://www.fuseworks.it/en/)
+	
+	[Modena, Italy]
+
+	live-media performances, experimentation, electronic music, digital arts
+
 - [Game Seven](https://www.gamesevenmktg.com/) - [] - 
 - [Giant Spoon](https://www.giantspoon.com/) - [] - 
 - [Google](https://careers.google.com/jobs/) - [] - 
@@ -59,7 +102,6 @@ Creative technologists by definition have a breadth of skills, as opposed to a s
 - [Random International](https://www.random-international.com/) - [] - 
 - [Red Paper Hearts](https://redpaperheart.com/work) - [] - 
 - [Rosie Lee Creative](https://rosieleecreative.com/) - [London] [Amsterdam] [NYC] - 
-- [Sagmeister & Walsh](https://sagmeisterwalsh.com/) - [] - 
 - [Scholz & Friends](https://s-f.com/en/) - [] - 
 - [Second Story](https://secondstory.com/) - [Atlanta] [Portland] [NYC] - 
 - [Sparks](https://wearesparks.com/) - [] - 
@@ -80,17 +122,18 @@ Creative technologists by definition have a breadth of skills, as opposed to a s
 - [Yoke](https://yoke.com.au/studio/) - [] - 
 
 
-## Collectives
+## Collectives & Practices
 
-Artist collectives
+Established artist collectives that work with creative technology (and generally don't hire).
 
 - [teamLab](https://www.teamlab.art/) - [Tokyo] [Global] - 
 - [panGenerator](https://pangenerator.com/) - [Warsaw, Poland] - 
+- [Dave + Gabe](https://www.daveandgabe.care/) - [NYC] - 
 
 
 ## Fabricators
 
-Groups that mostly fabricate pieces for other companies.
+Groups that mostly fabricate pieces for other creative technology companies.
 
 - [BEDNARK](https://builtbybednark.com/) - [] - 
 - [Pink Sparrow](https://www.pinksparrow.com/) - [] - 
@@ -98,7 +141,7 @@ Groups that mostly fabricate pieces for other companies.
 
 ## Themed Entertainment
 
-Groups that design things for stage and amusement parks.
+Groups that design things for stage and amusement parks using creative technology.
 
 - [Adirondack Studios](https://www.adkstudios.com/) - [Glens Falls, NY] - 
 - [Hettema Group](http://thehettemagroup.com/) - [LA] - 
@@ -106,12 +149,23 @@ Groups that design things for stage and amusement parks.
 
 ## Experiential Pop-Ups
 
-Groups that create experential pop-up experiences.
+Groups that create experential pop-up experiences full of creative technology.
 
 - [29 Rooms](https://www.29rooms.com/) - [] - 
 - [Color Factory](https://www.colorfactory.co/) - [] - 
 - [Meow Wolf](https://meowwolf.com/) - [] - 
 - [Museum of Ice Cream](https://www.museumoficecream.com/) - [] - 
+
+
+## Event Production
+
+Groups that specialize in event production, often with a creative technology twist.
+
+- [Deralee](http://www.deralee.com/)
+
+	[NYC]
+
+	woman-owned, theatre arts, story-telling
 
 
 ## Architecture
@@ -126,11 +180,13 @@ Groups that generally design architecture with a leaning toward creative technol
 Groups that are have a more general focus, but have a knack for projects imbued with creative technology.
 
 - [Media Monks](https://www.mediamonks.com/) - [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [Sao Paulo] [Buenos Aires] [Shanghai] [Singapore] - 
-
+- [R/GA](https://www.rga.com/) - [Austin] [Chicago] [LA] [NYC] [Portland, OR] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [Sao Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] - 
+- [Sagmeister & Walsh](https://sagmeisterwalsh.com/) - [NYC] - 
+- [Creative Theory](http://creativetheory.agency/) - [] - 
 
 ## Museums
 
-Groups that generally focus on designing museums and similar experiences.
+Groups that generally focus on designing museums and similar experiences using creative technology.
 
 - [Exploratorium](https://www.exploratorium.edu/) - [] - 
 
