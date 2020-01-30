@@ -6,7 +6,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 All submissions must take the form of:
 
-- [Name](url)
+- **[Name](url)**
 
 	[Location] [Location] ... [Location]
 	
