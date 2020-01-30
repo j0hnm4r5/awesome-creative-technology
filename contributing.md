@@ -6,11 +6,9 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+All submissions must take the form of:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- [Name](url) - [Location] [Location] ... [Location] - Description of what group does.
 
 Thank you for your suggestions!
 
