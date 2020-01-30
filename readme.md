@@ -73,88 +73,376 @@ Creative technologists by definition have a breadth of skills, as opposed to a s
 
 	live-media performances, experimentation, electronic music, digital arts
 
-- [Game Seven](https://www.gamesevenmktg.com/) - [] - 
-- [Giant Spoon](https://www.giantspoon.com/) - [] - 
-- [Google](https://careers.google.com/jobs/) - [] - 
-- [GPJ](https://www.gpj.com/) - [] - 
-- [GSM Project](https://gsmproject.com/en/) - [] - 
-- [Hotel Creative](https://hotelcreative.com/) - [London] - 
-- [Hovercraft](https://www.hovercraftstudio.com/) - [] - 
-- [Hush Studios](https://heyhush.com/) - [NYC] - 
-- [Iglhaut + von Grote](http://iglhaut-vongrote.de/en/) - [] - 
-- [Invisible North](https://www.invisiblenorth.com/) - [] - 
-- [Kamp Grizzly](https://kampgrizzly.com/) - [] - 
-- [Leviathan](https://www.lvthn.com/) - [Chicago] [LA] [San Diego] - 
-- [Listen](https://wearelisten.com/) - [] - 
-- [Local Projects](https://localprojects.com/) - [] - 
-- [Magnetic](https://weremagnetic.com/) - [] - 
-- [Manifold](https://www.wearemanifold.com/) - [] - 
-- [ManvsMachine](https://mvsm.com/) - [] - 
-- [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) - [London] - 
-- [mgmt](http://www.mgmtdesign.com/) - [] - 
-- [Moment Factory](https://momentfactory.com/home) - [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] - 
-- [Mother](https://mothernewyork.com/) - [] - 
-- [NONOTAK Studio](https://www.nonotak.com/) - [Paris] - 
-- [Olson Kundig](https://olsonkundig.com/) - [] - 
-- [Optimist](https://optimistinc.com/) - [] - 
-- [Patten Studio](https://www.pattenstudio.com/) - [] - 
-- [PopUpMob](https://popupmob.com/) - [] - 
-- [Random International](https://www.random-international.com/) - [] - 
-- [Red Paper Hearts](https://redpaperheart.com/work) - [] - 
-- [Rosie Lee Creative](https://rosieleecreative.com/) - [London] [Amsterdam] [NYC] - 
-- [Scholz & Friends](https://s-f.com/en/) - [] - 
-- [Second Story](https://secondstory.com/) - [Atlanta] [Portland] [NYC] - 
-- [Sparks](https://wearesparks.com/) - [] - 
-- [Staat](https://www.staat.com/) - [] - 
-- [StoreyStudio](https://www.storeystudio.com/) - [] - 
-- [Team Epiphany](https://www.teamepiphany.com/) - [] - 
-- [Tellart](https://www.tellart.com/) - [Providence] [Amsterdam] [San Francisco] - 
-- [The Gathery](http://www.thegathery.com/) - [] - 
-- [The Mill](https://www.themill.com/) - [London] [NYC] [LA] [Chicago] [Bangalore] [Berlin] - 
-- [The Projects](http://theprojects.com/) - [] - 
-- [UNIT9](https://www.unit9.com/) - [London] [LA] [NYC] [Berlin] - 
-- [United Visual Artists](https://www.uva.co.uk/) - [London] - 
-- [Visionary Effects](http://www.visionaryeffects.com/) - [] - 
-- [Volvox Labs](https://volvoxlabs.com/) - [] - 
-- [VTProDesign](https://vtprodesign.com/) - [] - 
-- [WHYIXD](https://www.whyixd.com/) - [Taiwan] - 
-- [Yellow Studio](https://yellowstudio.com/) - [] - 
-- [Yoke](https://yoke.com.au/studio/) - [] - 
+- [Game Seven](https://www.gamesevenmktg.com/)
+
+	[]
+
+	...
+
+- [Giant Spoon](https://www.giantspoon.com/)
+
+	[]
+
+	...
+
+- [Google](https://careers.google.com/jobs/)
+
+	[]
+
+	...
+
+- [GPJ](https://www.gpj.com/)
+
+	[]
+
+	...
+
+- [GSM Project](https://gsmproject.com/en/)
+
+	[]
+
+	...
+
+- [Hotel Creative](https://hotelcreative.com/)
+
+	[London]
+
+	...
+
+- [Hovercraft](https://www.hovercraftstudio.com/)
+
+	[]
+
+	...
+
+- [Hush Studios](https://heyhush.com/)
+
+	[NYC]
+
+	...
+
+- [Iglhaut + von Grote](http://iglhaut-vongrote.de/en/)
+
+	[]
+
+	...
+
+- [Invisible North](https://www.invisiblenorth.com/)
+
+	[]
+
+	...
+
+- [Kamp Grizzly](https://kampgrizzly.com/)
+
+	[]
+
+	...
+
+- [Leviathan](https://www.lvthn.com/)
+
+	[Chicago] [LA] [San Diego]
+
+	...
+
+- [Listen](https://wearelisten.com/)
+
+	[]
+
+	...
+
+- [Local Projects](https://localprojects.com/)
+
+	[]
+
+	...
+
+- [Magnetic](https://weremagnetic.com/)
+
+	[]
+
+	...
+
+- [Manifold](https://www.wearemanifold.com/)
+
+	[]
+
+	...
+
+- [ManvsMachine](https://mvsm.com/)
+
+	[]
+
+	...
+
+- [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)
+
+	[London]
+
+	...
+
+- [mgmt](http://www.mgmtdesign.com/)
+
+	[]
+
+	...
+
+- [Moment Factory](https://momentfactory.com/home)
+
+	[Montreal] [LA] [London] [Tokyo] [Paris] [NYC]
+
+	...
+
+- [Mother](https://mothernewyork.com/)
+
+	[]
+
+	...
+
+- [NONOTAK Studio](https://www.nonotak.com/)
+
+	[Paris]
+
+	...
+
+- [Olson Kundig](https://olsonkundig.com/)
+
+	[]
+
+	...
+
+- [Optimist](https://optimistinc.com/)
+
+	[]
+
+	...
+
+- [Patten Studio](https://www.pattenstudio.com/)
+
+	[]
+
+	...
+
+- [PopUpMob](https://popupmob.com/)
+
+	[]
+
+	...
+
+- [Random International](https://www.random-international.com/)
+
+	[]
+
+	...
+
+- [Red Paper Hearts](https://redpaperheart.com/work)
+
+	[]
+
+	...
+
+- [Rosie Lee Creative](https://rosieleecreative.com/)
+
+	[London] [Amsterdam] [NYC]
+
+	...
+
+- [Scholz & Friends](https://s-f.com/en/)
+
+	[]
+
+	...
+
+- [Second Story](https://secondstory.com/)
+
+	[Atlanta] [Portland] [NYC]
+
+	...
+
+- [Sparks](https://wearesparks.com/)
+
+	[]
+
+	...
+
+- [Staat](https://www.staat.com/)
+
+	[]
+
+	...
+
+- [StoreyStudio](https://www.storeystudio.com/)
+
+	[]
+
+	...
+
+- [Team Epiphany](https://www.teamepiphany.com/)
+
+	[]
+
+	...
+
+- [Tellart](https://www.tellart.com/)
+
+	[Providence] [Amsterdam] [San Francisco]
+
+	...
+
+- [The Gathery](http://www.thegathery.com/)
+
+	[]
+
+	...
+
+- [The Mill](https://www.themill.com/)
+
+	[London] [NYC] [LA] [Chicago] [Bangalore] [Berlin]
+
+	...
+
+- [The Projects](http://theprojects.com/)
+
+	[]
+
+	...
+
+- [UNIT9](https://www.unit9.com/)
+
+	[London] [LA] [NYC] [Berlin]
+
+	...
+
+- [United Visual Artists](https://www.uva.co.uk/)
+
+	[London]
+	
+	...
+
+- [Volvox Labs](https://volvoxlabs.com/)
+
+	[]
+
+	...
+
+- [VTProDesign](https://vtprodesign.com/)
+
+	[]
+
+	...
+
+- [WHYIXD](https://www.whyixd.com/)
+
+	[Taiwan]
+
+	...
+
+- [Yellow Studio](https://yellowstudio.com/)
+
+	[]
+
+	...
+
+- [Yoke](https://yoke.com.au/studio/)
+
+	[]
+
+	...
+
 
 
 ## Collectives & Practices
 
 Established artist collectives that work with creative technology (and generally don't hire).
 
-- [teamLab](https://www.teamlab.art/) - [Tokyo] [Global] - 
-- [panGenerator](https://pangenerator.com/) - [Warsaw, Poland] - 
-- [Dave + Gabe](https://www.daveandgabe.care/) - [NYC] - 
+- [teamLab](https://www.teamlab.art/)
+	
+	[Tokyo]
+
+	...
+
+- [panGenerator](https://pangenerator.com/)
+
+	[Warsaw, Poland]
+
+	...
+
+- [Dave + Gabe](https://www.daveandgabe.care/)
+
+	[NYC]
+
+	...
 
 
 ## Fabricators
 
 Groups that mostly fabricate pieces for other creative technology companies.
 
-- [BEDNARK](https://builtbybednark.com/) - [] - 
-- [Pink Sparrow](https://www.pinksparrow.com/) - [] - 
+- [BEDNARK](https://builtbybednark.com/)
+
+	[]
+
+	...
+
+- [Pink Sparrow](https://www.pinksparrow.com/)
+
+	[]
+
+	...
+
+- [Visionary Effects](http://www.visionaryeffects.com/)
+
+	[]
+
+	...
+
 
 
 ## Themed Entertainment
 
 Groups that design things for stage and amusement parks using creative technology.
 
-- [Adirondack Studios](https://www.adkstudios.com/) - [Glens Falls, NY] - 
-- [Hettema Group](http://thehettemagroup.com/) - [LA] - 
+- [Adirondack Studios](https://www.adkstudios.com/)
+	
+	[Glens Falls, NY]
+
+	...
+
+- [Hettema Group](http://thehettemagroup.com/)
+
+	[LA]
+
+	...
 
 
 ## Experiential Pop-Ups
 
 Groups that create experential pop-up experiences full of creative technology.
 
-- [29 Rooms](https://www.29rooms.com/) - [] - 
-- [Color Factory](https://www.colorfactory.co/) - [] - 
-- [Meow Wolf](https://meowwolf.com/) - [] - 
-- [Museum of Ice Cream](https://www.museumoficecream.com/) - [] - 
+- [29 Rooms](https://www.29rooms.com/)
+
+	[]
+
+	...
+
+- [Color Factory](https://www.colorfactory.co/)
+
+	[]
+
+	...
+
+- [Meow Wolf](https://meowwolf.com/)
+
+	[]
+
+	...
+
+- [Museum of Ice Cream](https://www.museumoficecream.com/)
+
+	[]
+
+	...
+
 
 
 ## Event Production
@@ -165,30 +453,58 @@ Groups that specialize in event production, often with a creative technology twi
 
 	[NYC]
 
-	woman-owned, theatre arts, story-telling
+	theatre arts, story-telling
 
 
 ## Architecture
 
 Groups that generally design architecture with a leaning toward creative technology.
 
-- [Carlo Ratti Associatti](https://carloratti.com/) - [Torino, Italy] [NYC] [UK] - 
+- [Carlo Ratti Associatti](https://carloratti.com/)
+
+	[Torino, Italy] [NYC] [UK]
+
+	...
 
 
 ## Agencies
 
 Groups that are have a more general focus, but have a knack for projects imbued with creative technology.
 
-- [Media Monks](https://www.mediamonks.com/) - [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [Sao Paulo] [Buenos Aires] [Shanghai] [Singapore] - 
-- [R/GA](https://www.rga.com/) - [Austin] [Chicago] [LA] [NYC] [Portland, OR] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [Sao Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] - 
-- [Sagmeister & Walsh](https://sagmeisterwalsh.com/) - [NYC] - 
-- [Creative Theory](http://creativetheory.agency/) - [] - 
+- [Media Monks](https://www.mediamonks.com/)
+
+	[Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [Sao Paulo] [Buenos Aires] [Shanghai] [Singapore]
+
+	...
+
+- [R/GA](https://www.rga.com/)
+	
+	[Austin] [Chicago] [LA] [NYC] [Portland, OR] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [Sao Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo]
+
+	...
+
+- [Sagmeister & Walsh](https://sagmeisterwalsh.com/)
+
+	[NYC]
+
+	...
+
+- [Creative Theory](http://creativetheory.agency/)
+
+	[]
+
+	...
 
 ## Museums
 
 Groups that generally focus on designing museums and similar experiences using creative technology.
 
-- [Exploratorium](https://www.exploratorium.edu/) - [] - 
+- [Exploratorium](https://www.exploratorium.edu/)
+
+	[]
+
+	...
+
 
 
 ## Contribute
