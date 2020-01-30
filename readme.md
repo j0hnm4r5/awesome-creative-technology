@@ -2,30 +2,32 @@
 
 > Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
+Creative technologists by definition have a breadth of skills, as opposed to a specific specialty — so it's difficult to categorize them. While this isn't a perfect organization, each group below generally specializes in the area to which they've been assigned.
+
 ## Contents
 
-- [Companies](#companies)
+- [Creative Technology](#creative-technology)
 - [Collectives](#collectives)
+- [Fabricators](#fabricators)
+- [Themed Entertainment](#themed-entertainment)
+- [Experiential Pop-Ups](#experiential-pop-ups)
+- [Architecture](#architecture)
+- [Agencies](#agencies)
+- [Museums](#museums)
 
 
-## Companies
+## Creative Technology
 - [1024 Architecture](https://www.1024architecture.net/) - [Paris] - 
-- [29 Rooms](https://www.29rooms.com/) - [] - 
-- [Adirondack Studios](https://www.adkstudios.com/) - [Glens Falls, NY] - 
 - [Aesop](http://taxonomyofdesign.com/en-us/) - [] - 
 - [Art + Com](https://artcom.de/en/) - [Berlin] - 
 - [Augmented Magic](https://www.augmented-magic.com/en/home) - [Paris] - 
 - [AV Controls](https://www.av-controls.com/) - [] - 
-- [BEDNARK](https://builtbybednark.com/) - [] - 
 - [BREAKFAST](https://breakfastny.com/) - [NYC] - 
 - [Bridge Studios](https://www.brdg.co/) - [] - 
-- [Carlo Ratti Associatti](https://carloratti.com/) - [Torino, Italy] [NYC] [UK] - 
-- [Color Factory](https://www.colorfactory.co/) - [] - 
 - [Creative Theory](http://creativetheory.agency/) - [] - 
 - [Dave + Gabe](https://www.daveandgabe.care/) - [] - 
 - [Deeplocal](https://www.deeplocal.com/) - [Pittsburgh, PA] - 
 - [Deralee](http://www.deralee.com/) - [] - 
-- [Exploratorium](https://www.exploratorium.edu/) - [] - 
 - [Extrapolation Factory](https://extrapolationfactory.com/) - [] - 
 - [fuse*](https://www.fuseworks.it/en/) - [Modena, Italy] - 
 - [Game Seven](https://www.gamesevenmktg.com/) - [] - 
@@ -33,7 +35,6 @@
 - [Google](https://careers.google.com/jobs/) - [] - 
 - [GPJ](https://www.gpj.com/) - [] - 
 - [GSM Project](https://gsmproject.com/en/) - [] - 
-- [Hettema Group](http://thehettemagroup.com/) - [LA] - 
 - [Hotel Creative](https://hotelcreative.com/) - [London] - 
 - [Hovercraft](https://www.hovercraftstudio.com/) - [] - 
 - [Hush Studios](https://heyhush.com/) - [NYC] - 
@@ -47,17 +48,13 @@
 - [Manifold](https://www.wearemanifold.com/) - [] - 
 - [ManvsMachine](https://mvsm.com/) - [] - 
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) - [London] - 
-- [Media Monks](https://www.mediamonks.com/home) - [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [Sao Paulo] [Buenos Aires] [Shanghai] [Singapore] - 
-- [Meow Wolf](https://meowwolf.com/) - [] - 
 - [mgmt](http://www.mgmtdesign.com/) - [] - 
 - [Moment Factory](https://momentfactory.com/home) - [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] - 
 - [Mother](https://mothernewyork.com/) - [] - 
-- [Museum of Ice Cream](https://www.museumoficecream.com/) - [] - 
 - [NONOTAK Studio](https://www.nonotak.com/) - [Paris] - 
 - [Olson Kundig](https://olsonkundig.com/) - [] - 
 - [Optimist](https://optimistinc.com/) - [] - 
 - [Patten Studio](https://www.pattenstudio.com/) - [] - 
-- [Pink Sparrow](https://www.pinksparrow.com/) - [] - 
 - [PopUpMob](https://popupmob.com/) - [] - 
 - [Random International](https://www.random-international.com/) - [] - 
 - [Red Paper Hearts](https://redpaperheart.com/work) - [] - 
@@ -85,8 +82,57 @@
 
 ## Collectives
 
+Artist collectives
+
 - [teamLab](https://www.teamlab.art/) - [Tokyo] [Global] - 
 - [panGenerator](https://pangenerator.com/) - [Warsaw, Poland] - 
+
+
+## Fabricators
+
+Groups that mostly fabricate pieces for other companies.
+
+- [BEDNARK](https://builtbybednark.com/) - [] - 
+- [Pink Sparrow](https://www.pinksparrow.com/) - [] - 
+
+
+## Themed Entertainment
+
+Groups that design things for stage and amusement parks.
+
+- [Adirondack Studios](https://www.adkstudios.com/) - [Glens Falls, NY] - 
+- [Hettema Group](http://thehettemagroup.com/) - [LA] - 
+
+
+## Experiential Pop-Ups
+
+Groups that create experential pop-up experiences.
+
+- [29 Rooms](https://www.29rooms.com/) - [] - 
+- [Color Factory](https://www.colorfactory.co/) - [] - 
+- [Meow Wolf](https://meowwolf.com/) - [] - 
+- [Museum of Ice Cream](https://www.museumoficecream.com/) - [] - 
+
+
+## Architecture
+
+Groups that generally design architecture with a leaning toward creative technology.
+
+- [Carlo Ratti Associatti](https://carloratti.com/) - [Torino, Italy] [NYC] [UK] - 
+
+
+## Agencies
+
+Groups that are have a more general focus, but have a knack for projects imbued with creative technology.
+
+- [Media Monks](https://www.mediamonks.com/) - [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [Sao Paulo] [Buenos Aires] [Shanghai] [Singapore] - 
+
+
+## Museums
+
+Groups that generally focus on designing museums and similar experiences.
+
+- [Exploratorium](https://www.exploratorium.edu/) - [] - 
 
 
 ## Contribute
