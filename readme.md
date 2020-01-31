@@ -42,14 +42,10 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Invisible North](https://www.invisiblenorth.com/)** | [NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
 | **[Leviathan](https://www.lvthn.com/)** | [Chicago] [LA] [San Diego] | _transform environments into exceptional experiences_ |
 | **[Listen](https://wearelisten.com/)** | [NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
-| **[Magnetic](https://weremagnetic.com/)** | [] | _..._ |
-| **[Manifold](https://www.wearemanifold.com/)** | [] | _..._ |
-| **[ManvsMachine](https://mvsm.com/)** | [] | _..._ |
-| **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | [London] | _..._ |
-| **[mgmt](http://www.mgmtdesign.com/)** | [] | _..._ |
-| **[Moment Factory](https://momentfactory.com/home)** | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | _..._ |
-| **[Mother](https://mothernewyork.com/)** | [] | _..._ |
-| **[NONOTAK Studio](https://www.nonotak.com/)** | [Paris] | _..._ |
+| **[Magnetic](https://weremagnetic.com/)** | [NYC] [London] [LA] | _immersive, authentic, culturally relevant experiences_ |
+| **[Manifold](https://www.wearemanifold.com/)** | [San Francisco] [LA] [Portland] | _we hire smart people and get out of their way_ |
+| **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | [London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
+| **[Moment Factory](https://momentfactory.com/home)** | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | _shows, destinations, content, interactive, scenography_ |
 | **[Olson Kundig](https://olsonkundig.com/)** | [] | _..._ |
 | **[Optimist](https://optimistinc.com/)** | [] | _..._ |
 | **[Patten Studio](https://www.pattenstudio.com/)** | [] | _..._ |
@@ -82,6 +78,7 @@ Established artist collectives/practices that work with creative technology (her
 | Name | Locations | Keywords |
 |---|:---:|---|
 | **[Dave + Gabe](https://www.daveandgabe.care/)** | [NYC] | _interactive installation studio, real-time animation, generative 3D sound_ |
+| **[NONOTAK Studio](https://www.nonotak.com/)** | [Paris] | _light and sound installations, ethereal, immersive, dreamlike_ |
 | **[panGenerator](https://pangenerator.com/)** | [Warsaw, Poland] | _new media art and design collective, mixing bits & atoms_ |
 | **[teamLab](https://www.teamlab.art/)** | [Tokyo] | _full-room interactive projection mapping, interdisciplinary group of ultratechnologists_ |
 
@@ -144,6 +141,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 
 | Name | Locations | Keywords |
 |---|:---:|---|
+| **[ManvsMachine](https://mvsm.com/)** | [London] [LA] | _multidimensional creative studio_ |
 | **[Media Monks](https://www.mediamonks.com/)** | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [São Paulo] [Buenos Aires] [Shanghai] [Singapore] | _creative production_ |
 | **[R/GA](https://www.rga.com/)** | [Austin] [Chicago] [LA] [NYC] [Portland] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [São Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | _business, experience, and marketing transformation_ |
 | **[&Walsh](https://andwalsh.com/)** | [NYC] | _brand strategy, art direction, design and production across all platforms_ |
