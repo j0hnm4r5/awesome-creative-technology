@@ -149,8 +149,8 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 
 | Name | Locations | Keywords |
 |---|---|---|
-| **[Media Monks](https://www.mediamonks.com/)** | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [Sao Paulo] [Buenos Aires] [Shanghai] [Singapore] | _..._ |
-| **[R/GA](https://www.rga.com/)** | [Austin] [Chicago] [LA] [NYC] [Portland, OR] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [Sao Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | _..._ |
+| **[Media Monks](https://www.mediamonks.com/)** | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [São Paulo] [Buenos Aires] [Shanghai] [Singapore] | _..._ |
+| **[R/GA](https://www.rga.com/)** | [Austin] [Chicago] [LA] [NYC] [Portland, OR] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [São Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | _..._ |
 | **[Sagmeister & Walsh](https://sagmeisterwalsh.com/)** | [NYC] | _..._ |
 | **[Creative Theory](http://creativetheory.agency/)** | [] | _..._ |
 
