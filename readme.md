@@ -4,7 +4,7 @@
 
 Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art and the humanities.
 
-This list hopes to compile the best creative technology groups across the world, both as reference and as potential employers to creative technologists.
+This list hopes to compile the best creative technology groups across the world, both as a source of inspiration and as a reference point for potential employers of creative technologists.
 
 Creative technologists by definition have a breadth of skills as opposed to a specific specialty, so it's difficult to categorize them. While this isn't a perfect organization, each group below generally specializes in the area to which they've been assigned.
 
@@ -137,6 +137,7 @@ Groups that specialize in event production, often with a creative technology twi
 ## Architecture
 
 Groups that generally design architecture with a leaning toward creative technology.
+
 | Name | Locations | Keywords |
 |---|---|---|
 | **[Carlo Ratti Associatti](https://carloratti.com/)** | [Torino, Italy] [NYC] [UK] | _..._ |
@@ -157,6 +158,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 ## Museums
 
 Groups that generally focus on designing museums and similar experiences using creative technology.
+
 | Name | Locations | Keywords |
 |---|---|---|
 | **[Exploratorium](https://www.exploratorium.edu/)** | [] | _..._ |
