@@ -81,9 +81,9 @@ Established artist collectives/practices that work with creative technology (her
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[teamLab](https://www.teamlab.art/)** | [Tokyo] | _..._ |
-| **[panGenerator](https://pangenerator.com/)** | [Warsaw, Poland] | _..._ |
-| **[Dave + Gabe](https://www.daveandgabe.care/)** | [NYC] | _..._ |
+| **[Dave + Gabe](https://www.daveandgabe.care/)** | [NYC] | _interactive installation studio, real-time animation, generative 3D sound_ |
+| **[panGenerator](https://pangenerator.com/)** | [Warsaw, Poland] | _new media art and design collective, mixing bits & atoms_ |
+| **[teamLab](https://www.teamlab.art/)** | [Tokyo] | _full-room interactive projection mapping, interdisciplinary group of ultratechnologists_ |
 
 ## Fabricators
 
@@ -91,9 +91,9 @@ Groups that mostly fabricate pieces for other creative technology companies.
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[BEDNARK](https://builtbybednark.com/)** | [] | _..._ |
-| **[Pink Sparrow](https://www.pinksparrow.com/)** | [] | _..._ |
-| **[Visionary Effects](http://www.visionaryeffects.com/)** | [] | _..._ |
+| **[BEDNARK](https://builtbybednark.com/)** | [NYC] | _full-service fabrication, production, install_ |
+| **[Pink Sparrow](https://www.pinksparrow.com/)** | [NYC] [LA] | _environmental design, project management_ |
+| **[Visionary Effects](http://www.visionaryeffects.com/)** | [Pittsburgh] | _old-school manufacturing processes with digital design and fabrication_ |
 
 
 ## Themed Entertainment
@@ -102,8 +102,8 @@ Groups that design things for stage and amusement parks using creative technolog
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[Adirondack Studios](https://www.adkstudios.com/)** | [Glens Falls, NY] | _..._ |
-| **[Hettema Group](http://thehettemagroup.com/)** | [LA] | _..._ |
+| **[Adirondack Studios](https://www.adkstudios.com/)** | [Glens Falls, NY] [Dubai] [Orlando] [Shanghai] [LA] [Singapore] | _concept, schematic, design, construction, fabrication, installation, support_ |
+| **[Hettema Group](http://thehettemagroup.com/)** | [LA] | _experiential, exhibit, live shows, theme parks, retail, dining, museums_ |
 
 
 ## Experiential Pop-Ups
@@ -112,10 +112,10 @@ Groups that create experential pop-up experiences full of creative technology.
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[29 Rooms](https://www.29rooms.com/)** | [] | _..._ |
-| **[Color Factory](https://www.colorfactory.co/)** | [] | _..._ |
-| **[Meow Wolf](https://meowwolf.com/)** | [] | _..._ |
-| **[Museum of Ice Cream](https://www.museumoficecream.com/)** | [] | _..._ |
+| **[29 Rooms](https://www.29rooms.com/)** | - | _multi-sensory installations, performances, and workshops_ |
+| **[Color Factory](https://www.colorfactory.co/)** | [NYC] [Houston] | _collaborative interactive exhibit_ |
+| **[Meow Wolf](https://meowwolf.com/)** | [Santa Fe] | _immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration_ |
+| **[Museum of Ice Cream](https://www.museumoficecream.com/)** | [San Francisco] [NYC] | _transforms concepts and dreams into spaces that provoke imagination and creativity_ |
 
 
 ## Event Production
@@ -124,9 +124,9 @@ Groups that specialize in event production, often with a creative technology twi
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[Deralee](http://www.deralee.com/)** | [NYC] | theatre arts, story-telling |
-| **[GPJ](https://www.gpj.com/)** | [] | _..._ |
-| **[Sparks](https://wearesparks.com/)** | [] | _..._ |
+| **[Dera Lee Productions](http://www.deralee.com/)** | [NYC] | theatre arts, story-telling |
+| **[GPJ](https://www.gpj.com/)** | [Austin] [Boston] [Dallas] [Detroit] [LA] [Nashville] [NYC] [San Francisco] [Silicon Valley] | _immersive events and experiences_ |
+| **[Sparks](https://wearesparks.com/)** | [Philadelphia] [Detroit] [Connecticut] [Atlanta] [LA] [Las Vegas] [NYC] [San Francisco] [Shanghai] | _trade show, experiential, retail_ |
 
 
 ## Architecture
@@ -135,7 +135,7 @@ Groups that generally design architecture with a leaning toward creative technol
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[Carlo Ratti Associatti](https://carloratti.com/)** | [Torino, Italy] [NYC] [UK] | _..._ |
+| **[Carlo Ratti Associatti](https://carloratti.com/)** | [Torino, Italy] [NYC] [UK] | _design and innovation office, MIT Media Lab: Senseable City Lab_ |
 
 
 ## Agencies
@@ -144,10 +144,9 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[Media Monks](https://www.mediamonks.com/)** | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [São Paulo] [Buenos Aires] [Shanghai] [Singapore] | _..._ |
-| **[R/GA](https://www.rga.com/)** | [Austin] [Chicago] [LA] [NYC] [Portland] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [São Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | _..._ |
-| **[Sagmeister & Walsh](https://sagmeisterwalsh.com/)** | [NYC] | _..._ |
-| **[Creative Theory](http://creativetheory.agency/)** | [] | _..._ |
+| **[Media Monks](https://www.mediamonks.com/)** | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [São Paulo] [Buenos Aires] [Shanghai] [Singapore] | _creative production_ |
+| **[R/GA](https://www.rga.com/)** | [Austin] [Chicago] [LA] [NYC] [Portland] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [São Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | _business, experience, and marketing transformation_ |
+| **[&Walsh](https://andwalsh.com/)** | [NYC] | _brand strategy, art direction, design and production across all platforms_ |
 
 
 ## Museums
