@@ -49,6 +49,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Midnight Commercial](http://midnightcommercial.com/)** | [NYC] | _unite the disparate digital and physical worlds_ |
 | **[Moment Factory](https://momentfactory.com/home)** | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | _shows, destinations, content, interactive, scenography_ |
 | **[Oat Foundry](https://www.oatfoundry.com/)** | [Philadelphia] | _split-flap displays, electromechanical stuff, think tank, products, experiences_ |
+| **[Onformative](https://onformative.com/)** | [Berlin] | _studio for digital art and design, challenge the boundaries between art and design and technology_ |
 | **[Optimist](https://optimistinc.com/)** | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | _architects of subculture, creative, design, strategy, production, content, brand experience_ |
 | **[Patten Studio](https://www.pattenstudio.com/)** | [NYC] | _informed by research at the MIT Media Lab, experiences that connect people_ |
 | **[Red Paper Hearts](https://redpaperheart.com/work)** | [NYC] | _art from real world interaction_ |
