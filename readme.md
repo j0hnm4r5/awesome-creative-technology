@@ -1,6 +1,19 @@
-# Awesome Creative Technology Groups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+	<div>
+		<img width="500" src="./logo.gif" alt="Awesome Creative Technology Groups">
+	</div>
+	<br>
+	<p>
+		Curated list of Creative Technology groups, companies, studios, collectives, etc.
+	</p>
+	<br>
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
+	<hr>
+</div>
 
-> Curated list of Creative Technology groups, companies, studios, collectives, etc.
+
 
 Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art and the humanities.
 
