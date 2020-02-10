@@ -61,6 +61,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | [London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
 | **[Midnight Commercial](http://midnightcommercial.com/)** | [NYC] | _unite the disparate digital and physical worlds_ |
 | **[Moment Factory](https://momentfactory.com/home)** | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | _shows, destinations, content, interactive, scenography_ |
+| **[MSCHF](https://mschf.xyz/)** | [NYC] | _viral stunts and products, trying to do stuff that the world can't even define_ |
 | **[Oat Foundry](https://www.oatfoundry.com/)** | [Philadelphia] | _split-flap displays, electromechanical stuff, think tank, products, experiences_ |
 | **[Onformative](https://onformative.com/)** | [Berlin] | _studio for digital art and design, challenge the boundaries between art and design and technology_ |
 | **[Optimist](https://optimistinc.com/)** | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | _architects of subculture, creative, design, strategy, production, content, brand experience_ |
