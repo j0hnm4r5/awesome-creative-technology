@@ -48,6 +48,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | [NYC] | _research studio, futures studies, collaborative prototyping_ |
 | **[FIELD](https://www.field.io/)** | [London] | _future aesthetics for design, motion, experiential_ |
 | **[fuse*](https://www.fuseworks.it/en/)** | [Modena, Italy] | _live-media performances, experimentation, electronic music, digital arts_ |
+| **[Future Colossal](https://www.futurecolossal.com/)** | [NYC] | _experiential technologies in advertising and entertainment and art_ |
 | **[Game Seven](https://www.gamesevenmktg.com/)** | [NYC] [LA] | _intersection of sport and culture, brand stories_ |
 | **[Giant Spoon](https://www.giantspoon.com/)** | [NYC] [LA] | _translate cultural trends into big ideas, experiential, gaming_ |
 | **[Hotel Creative](https://hotelcreative.com/)** | [London] | _retail, branding, exhibitions, events_ |
