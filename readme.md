@@ -44,6 +44,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[AV Controls](https://www.av-controls.com/)** | [NYC] | _site-specific technology installations, digital landmarks_ |
 | **[BREAKFAST](https://breakfastny.com/)** | [NYC] | _software-/hardware-driven artworks, flip discs_ |
 | **[BRDG Studios](https://www.brdg.co/)** | [Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
+| **[Comuzi](https://www.comuzi.xyz/)** | [London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | [Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | [NYC] | _research studio, futures studies, collaborative prototyping_ |
 | **[FIELD](https://www.field.io/)** | [London] | _future aesthetics for design, motion, experiential_ |
