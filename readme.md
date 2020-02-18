@@ -67,6 +67,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Onformative](https://onformative.com/)** | [Berlin] | _studio for digital art and design, challenge the boundaries between art and design and technology_ |
 | **[Optimist](https://optimistinc.com/)** | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | _architects of subculture, creative, design, strategy, production, content, brand experience_ |
 | **[Patten Studio](https://www.pattenstudio.com/)** | [NYC] | _informed by research at the MIT Media Lab, experiences that connect people_ |
+| **[Rare Volume](https://rarevolume.com/)** | [NYC] | _design and technology studio, interactive video walls_ |
 | **[Red Paper Hearts](https://redpaperheart.com/work)** | [NYC] | _art from real world interaction_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/)** | [London] [Amsterdam] [NYC] | _design, creative, digital and consultancy_ |
 | **[Second Story](https://secondstory.com/)** | [Atlanta] [Portland] [NYC] | _exhibition, interactive, software, experience, hardware, VR, AR, projection_ |
