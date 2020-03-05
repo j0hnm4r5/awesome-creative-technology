@@ -60,6 +60,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Listen](https://wearelisten.com/)** | [NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
 | **[Magnetic](https://weremagnetic.com/)** | [NYC] [London] [LA] | _immersive, authentic, culturally relevant experiences_ |
 | **[Manifold](https://www.wearemanifold.com/)** | [San Francisco] [LA] [Portland] | _we hire smart people and get out of their way_ |
+| **[Map](http://mapprojectoffice.com/)** | [London] | _industrial designers who believe great design can solve problems_ |
 | **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | [London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
 | **[Midnight Commercial](http://midnightcommercial.com/)** | [NYC] | _unite the disparate digital and physical worlds_ |
 | **[Moment Factory](https://momentfactory.com/home)** | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | _shows, destinations, content, interactive, scenography_ |
@@ -152,6 +153,7 @@ Groups that generally design architecture with a leaning toward creative technol
 |---|:---:|---|
 | **[Carlo Ratti Associatti](https://carloratti.com/)** | [Torino, Italy] [NYC] [UK] | _design and innovation office, MIT Media Lab: Senseable City Lab_ |
 | **[Olson Kundig](https://olsonkundig.com/)** | [Seattle] [NYC] | _architecture, vessel that supports specific art installations, seamless spatial experience_ |
+| **[Universal Design Studio](http://www.universaldesignstudio.com/)** | [London] [NYC] | _driven by a deeply held belief in the transformative power of well designed and finely crafted spaces_ |
 
 
 ## Agencies
