@@ -153,6 +153,7 @@ Groups that generally design architecture with a leaning toward creative technol
 |---|:---:|---|
 | **[Carlo Ratti Associatti](https://carloratti.com/)** | [Torino, Italy] [NYC] [UK] | _design and innovation office, MIT Media Lab: Senseable City Lab_ |
 | **[Olson Kundig](https://olsonkundig.com/)** | [Seattle] [NYC] | _architecture, vessel that supports specific art installations, seamless spatial experience_ |
+| **[SOFTlab](https://softlabnyc.com/)** | [NYC] | _mixes research and creativity and technology with a strong desire to make working fun_ |
 | **[Universal Design Studio](http://www.universaldesignstudio.com/)** | [London] [NYC] | _driven by a deeply held belief in the transformative power of well designed and finely crafted spaces_ |
 
 
