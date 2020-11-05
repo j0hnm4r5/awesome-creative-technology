@@ -1,6 +1,8 @@
 <div align="center">
 	<div>
-		<img width="500" src="./logo.gif" alt="Awesome Creative Technology Groups">
+		<a href="https://github.com/j0hnm4r5/awesome-creative-technology">
+			<img width="500" src="./logo.gif" alt="Awesome Creative Technology Groups">
+		</a>
 	</div>
 	<br>
 	<p>
