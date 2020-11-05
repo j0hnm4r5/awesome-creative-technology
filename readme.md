@@ -58,7 +58,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Invisible North](https://www.invisiblenorth.com/)** | [NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
 | **[Leviathan](https://www.lvthn.com/)** | [Chicago] [LA] [San Diego] | _transform environments into exceptional experiences_ |
 | **[Listen](https://wearelisten.com/)** | [NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
-| **[Magnetic](https://weremagnetic.com/)** | [NYC] [London] [LA] | _immersive, authentic, culturally relevant experiences_ |
 | **[Manifold](https://www.wearemanifold.com/)** | [San Francisco] [LA] [Portland] | _we hire smart people and get out of their way_ |
 | **[Map](http://mapprojectoffice.com/)** | [London] | _industrial designers who believe great design can solve problems_ |
 | **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | [London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
@@ -181,6 +180,15 @@ Groups that generally focus on designing museums and similar experiences using c
 | **[GSM Project](https://gsmproject.com/en/)** | [Montreal] [Singapore] [Dubai] | _content first, exhibitions_ |
 | **[Iglhaut + von Grote](http://iglhaut-vongrote.de/en/)** | [Berlin] | _scenography, spatial mise-en-scène_ |
 | **[Local Projects](https://localprojects.com/)** | [NYC] | _experience Designers pushing the boundaries of human interaction_ |
+
+
+## Closed
+
+Groups that have closed their doors, but (hopefully) still have active sites for reference.
+
+| Name | Locations | Keywords |
+|---|:---:|---|
+| **[Magnetic](https://weremagnetic.com/)** | [NYC] [London] [LA] | _immersive, authentic, culturally relevant experiences_ |
 
 
 ## Contribute
