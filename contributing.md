@@ -1,13 +1,9 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
----
-
 All submissions must take the form of:
 
 ```
-| **[Name](website)** | [Location1] [Location2] ... [Location N] | _comma-separated, lowercase, keyword description, usually grabbed from website_ |
+| **[Name](website)** | \[Location1] \[Location2] ... \[Location N] | _comma-separated, lowercase, keyword description, usually grabbed from website_ |
 ```
 
 And must be in alphabetical order per section.
