@@ -13,18 +13,18 @@
 	<hr>
 </div>
 
+# Awesome Creative Technology
 
+Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art, and user experience.
 
-Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art and the humanities.
-
-This list hopes to compile the best creative technology groups across the world, both as a source of inspiration and as a reference point for potential employers of creative technologists.
+This list hopes to compile the best creative technology businesses & groups across the world, both as a source of inspiration and as a reference point for potential employers of creative technologists.
 
 Creative technologists by definition have a breadth of skills as opposed to a specific specialty, so it's difficult to categorize them. While this isn't a perfect organization, each group below generally specializes in the area to which they've been assigned.
 
 ## Contents
 
 - **[Creative Technology](#creative-technology)**
-- **[Collectives](#collectives)**
+- **[Collectives & Practices](#collectives)**
 - **[Fabricators](#fabricators)**
 - **[Themed Entertainment](#themed-entertainment)**
 - **[Experiential Pop-Ups](#experiential-pop-ups)**
@@ -194,10 +194,3 @@ Groups that have closed their doors, but (hopefully) still have active sites for
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, John Mars has waived all copyright and related or neighboring rights to this work.
