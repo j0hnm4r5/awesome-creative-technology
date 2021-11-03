@@ -63,6 +63,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Hovercraft](https://www.hovercraftstudio.com/)** | \[Denver] \[Portland] | _interactive installations, site-specific content, retail, sports_ |
 | **[Hush Studios](https://heyhush.com/)** | \[NYC] | _marketing and advertising, retail and DTC, archtecture_ |
 | **[Invisible North](https://www.invisiblenorth.com/)** | \[NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
+| **[Jam3](https://www.jam3.com)** | \[Toronto] \[LA] \[Montevideo] \[Amsterdam] | _create modern experiences for tomorrow’s brands_ |
 | **[Leviathan](https://www.lvthn.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences_ |
 | **[Listen](https://wearelisten.com/)** | \[NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
 | **[Manifold](https://www.wearemanifold.com/)** | \[San Francisco] \[LA] \[Portland] | _we hire smart people and get out of their way_ |
