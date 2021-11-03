@@ -53,6 +53,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
+| **[Envoy](https://www.weareenvoy.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences, formerly Leviathan_ |
 | **[ESI Design](https://esidesign.nbbj.com/)** | \[NYC] | _transforms places into experiences, immersive deisgn, architectural scale_ |
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | \[NYC] | _research studio, futures studies, collaborative prototyping_ |
 | **[FIELD](https://www.field.io/)** | \[London] | _future aesthetics for design, motion, experiential_ |
@@ -65,7 +66,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Hush Studios](https://heyhush.com/)** | \[NYC] | _marketing and advertising, retail and DTC, archtecture_ |
 | **[Invisible North](https://www.invisiblenorth.com/)** | \[NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
 | **[Jam3](https://www.jam3.com)** | \[Toronto] \[LA] \[Montevideo] \[Amsterdam] | _create modern experiences for tomorrow’s brands_ |
-| **[Leviathan](https://www.lvthn.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences_ |
 | **[Listen](https://wearelisten.com/)** | \[NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
 | **[Manifold](https://www.wearemanifold.com/)** | \[San Francisco] \[LA] \[Portland] | _we hire smart people and get out of their way_ |
 | **[Map](http://mapprojectoffice.com/)** | \[London] | _industrial designers who believe great design can solve problems_ |
