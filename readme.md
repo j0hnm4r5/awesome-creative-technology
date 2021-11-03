@@ -79,6 +79,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Potion Design](https://www.potiondesign.com/)** | \[NYC] | _design and technology studio, interactive, musuems_ |
 | **[Rare Volume](https://rarevolume.com/)** | \[NYC] | _design and technology studio, interactive video walls_ |
 | **[Red Paper Heart](https://redpaperheart.com)** | \[NYC] | _art from real world interaction_ |
+| **[Rockwell Group Lab](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/)** | \[London] \[Amsterdam] \[NYC] | _design, creative, digital and consultancy_ |
 | **[Second Story](https://secondstory.com/)** | \[Atlanta] \[Portland] \[NYC] | _exhibition, interactive, software, experience, hardware, VR, AR, projection_ |
 | **[Staat](https://www.staat.com/)** | \[Amsterdam] | _branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail_ |
