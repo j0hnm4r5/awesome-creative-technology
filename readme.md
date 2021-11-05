@@ -58,6 +58,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Envoy](https://www.weareenvoy.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences, formerly Leviathan_ |
 | **[ESI Design](https://esidesign.nbbj.com/)** | \[NYC] | _transforms places into experiences, immersive deisgn, architectural scale_ |
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | \[NYC] | _research studio, futures studies, collaborative prototyping_ |
+| **[Fast Horse](https://www.fasthorseinc.com/)** | \[Minneapolis] | _a truly integrated creative agency_ |
 | **[FIELD](https://www.field.io/)** | \[London] | _future aesthetics for design, motion, experiential_ |
 | **[fuse*](https://www.fuseworks.it/en/)** | \[Modena, Italy] | _live-media performances, experimentation, electronic music, digital arts_ |
 | **[Future Colossal](https://www.futurecolossal.com/)** | \[NYC] | _experiential technologies in advertising and entertainment and art_ |
