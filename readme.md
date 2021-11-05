@@ -47,10 +47,14 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Art + Com](https://artcom.de/en/)** | \[Berlin] | _media sculptures, data installations, new media_ |
 | **[Augmented Magic](https://www.augmented-magic.com/)** | \[Paris] | _augmented magic shows, digital installations_ |
 | **[AV Controls](https://www.av-controls.com/)** | \[NYC] | _site-specific technology installations, digital landmarks_ |
+| **[Barbarian](https://wearebarbarian.com/)** | \[NYC] | _marketing and advertising, new media_ |
+| **[Blue Cadet](https://www.bluecadet.com/)** | \[Philadelphia] \[NYC] | _experience design across digital and physical environments, visitor centers_ |
 | **[BREAKFAST](https://breakfastny.com/)** | \[NYC] | _software-/hardware-driven artworks, flip discs_ |
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
+| **[Envoy](https://www.weareenvoy.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences, formerly Leviathan_ |
+| **[ESI Design](https://esidesign.nbbj.com/)** | \[NYC] | _transforms places into experiences, immersive deisgn, architectural scale_ |
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | \[NYC] | _research studio, futures studies, collaborative prototyping_ |
 | **[FIELD](https://www.field.io/)** | \[London] | _future aesthetics for design, motion, experiential_ |
 | **[fuse*](https://www.fuseworks.it/en/)** | \[Modena, Italy] | _live-media performances, experimentation, electronic music, digital arts_ |
@@ -61,7 +65,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Hovercraft](https://www.hovercraftstudio.com/)** | \[Denver] \[Portland] | _interactive installations, site-specific content, retail, sports_ |
 | **[Hush Studios](https://heyhush.com/)** | \[NYC] | _marketing and advertising, retail and DTC, archtecture_ |
 | **[Invisible North](https://www.invisiblenorth.com/)** | \[NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
-| **[Leviathan](https://www.lvthn.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences_ |
+| **[Jam3](https://www.jam3.com)** | \[Toronto] \[LA] \[Montevideo] \[Amsterdam] | _create modern experiences for tomorrow’s brands_ |
 | **[Listen](https://wearelisten.com/)** | \[NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
 | **[Manifold](https://www.wearemanifold.com/)** | \[San Francisco] \[LA] \[Portland] | _we hire smart people and get out of their way_ |
 | **[Map](http://mapprojectoffice.com/)** | \[London] | _industrial designers who believe great design can solve problems_ |
@@ -72,8 +76,10 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Onformative](https://onformative.com/)** | \[Berlin] | _studio for digital art and design, challenge the boundaries between art and design and technology_ |
 | **[Optimist](https://optimistinc.com/)** | \[LA] \[NYC] \[London] \[Amsterdam] \[Hamburg] \[Berlin] \[Prague] | _architects of subculture, creative, design, strategy, production, content, brand experience_ |
 | **[Patten Studio](https://www.pattenstudio.com/)** | \[NYC] | _informed by research at the MIT Media Lab, experiences that connect people_ |
+| **[Potion Design](https://www.potiondesign.com/)** | \[NYC] | _design and technology studio, interactive, musuems_ |
 | **[Rare Volume](https://rarevolume.com/)** | \[NYC] | _design and technology studio, interactive video walls_ |
-| **[Red Paper Hearts](https://redpaperheart.com/work)** | \[NYC] | _art from real world interaction_ |
+| **[Red Paper Heart](https://redpaperheart.com)** | \[NYC] | _art from real world interaction_ |
+| **[Rockwell Group Lab](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/)** | \[London] \[Amsterdam] \[NYC] | _design, creative, digital and consultancy_ |
 | **[Second Story](https://secondstory.com/)** | \[Atlanta] \[Portland] \[NYC] | _exhibition, interactive, software, experience, hardware, VR, AR, projection_ |
 | **[Staat](https://www.staat.com/)** | \[Amsterdam] | _branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail_ |
@@ -82,6 +88,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Tellart](https://www.tellart.com/)** | \[Providence] \[Amsterdam] \[San Francisco] | _transformative experiences, invention, physical & digital experiences, new technologies_ |
 | **[The Gathery](http://www.thegathery.com/)** | \[NYC] | _editorially-born creative agency specializing in brand marketing and content creation_ |
 | **[The Projects](http://theprojects.com/)** | \[London] \[LA] \[NYC] \[Sydney] | _brand consultancy, meaningful experiences, tell stories_ |
+| **[Two Goats](https://www.twogoats.us/)** | \[NYC] \[LA] \[London] | _AR, interactive branded experiences_ |
 | **[UNIT9](https://www.unit9.com/)** | \[London] \[LA] \[NYC] \[Berlin] | _innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors_ |
 | **[VVOX](https://volvoxlabs.com/)** | \[NYC] \[LA] | _high-end design, code, fabrication, sound_ |
 | **[VTProDesign](https://vtprodesign.com/)** | \[LA] | _high tech robotics and projection mapping_ |
