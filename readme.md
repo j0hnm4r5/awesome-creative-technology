@@ -83,6 +83,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Rockwell Group Lab](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/)** | \[London] \[Amsterdam] \[NYC] | _design, creative, digital and consultancy_ |
 | **[Second Story](https://secondstory.com/)** | \[Atlanta] \[Portland] \[NYC] | _exhibition, interactive, software, experience, hardware, VR, AR, projection_ |
+| **[space150](https://www.space150.com/)** | \[Minneapolis] \[LA] \[NYC] | _a tech-driven creative agency_ |
 | **[Staat](https://www.staat.com/)** | \[Amsterdam] | _branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail_ |
 | **[StoreyStudio](https://www.storeystudio.com/)** | \[London] | _spatial design, set design, window displays, moving image_ |
 | **[Team Epiphany](https://www.teamepiphany.com/)** | \[NYC] \[LA] | _influencer marketing, IRL, vertical integration_ |
