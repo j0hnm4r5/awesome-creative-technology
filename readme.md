@@ -54,9 +54,12 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
 | **[Dimensional Innovations](https://dimin.com/)** | \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[Los Angeles] \[Pittsburgh] | _experience design, interactive experiences, brand activation_ |
+| **[dotdotdash](https://dotdotdash.io/)** | \[Portland] \[LA] \[NYC] | _innovation agency that seamlessly blends the physical and digital_ |
+| **[Downstream](https://downstream.com/)** | \[Portland] \[Amsterdam] \[Melbourne] | _strategy + design + content + technology_ |
 | **[Envoy](https://www.weareenvoy.com/)** | \[Chicago] \[LA] \[San Diego] | _transform environments into exceptional experiences, formerly Leviathan_ |
 | **[ESI Design](https://esidesign.nbbj.com/)** | \[NYC] | _transforms places into experiences, immersive deisgn, architectural scale_ |
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | \[NYC] | _research studio, futures studies, collaborative prototyping_ |
+| **[Fast Horse](https://www.fasthorseinc.com/)** | \[Minneapolis] | _a truly integrated creative agency_ |
 | **[FIELD](https://www.field.io/)** | \[London] | _future aesthetics for design, motion, experiential_ |
 | **[fuse*](https://www.fuseworks.it/en/)** | \[Modena, Italy] | _live-media performances, experimentation, electronic music, digital arts_ |
 | **[Future Colossal](https://www.futurecolossal.com/)** | \[NYC] | _experiential technologies in advertising and entertainment and art_ |
@@ -72,6 +75,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Map](http://mapprojectoffice.com/)** | \[London] | _industrial designers who believe great design can solve problems_ |
 | **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | \[London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
 | **[Midnight Commercial](http://midnightcommercial.com/)** | \[NYC] | _unite the disparate digital and physical worlds_ |
+| **[MindBuffer](https://mindbuffer.net/)** | \[Berlin] | _audiovisual research and digital design studio_ |
 | **[Moment Factory](https://momentfactory.com/home)** | \[Montreal] \[LA] \[London] \[Tokyo] \[Paris] \[NYC] | _shows, destinations, content, interactive, scenography_ |
 | **[Oat Foundry](https://www.oatfoundry.com/)** | \[Philadelphia] | _split-flap displays, electromechanical stuff, think tank, products, experiences_ |
 | **[Onformative](https://onformative.com/)** | \[Berlin] | _studio for digital art and design, challenge the boundaries between art and design and technology_ |
@@ -83,6 +87,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Rockwell Group Lab](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/)** | \[London] \[Amsterdam] \[NYC] | _design, creative, digital and consultancy_ |
 | **[Second Story](https://secondstory.com/)** | \[Atlanta] \[Portland] \[NYC] | _exhibition, interactive, software, experience, hardware, VR, AR, projection_ |
+| **[space150](https://www.space150.com/)** | \[Minneapolis] \[LA] \[NYC] | _a tech-driven creative agency_ |
 | **[Staat](https://www.staat.com/)** | \[Amsterdam] | _branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail_ |
 | **[StoreyStudio](https://www.storeystudio.com/)** | \[London] | _spatial design, set design, window displays, moving image_ |
 | **[Team Epiphany](https://www.teamepiphany.com/)** | \[NYC] \[LA] | _influencer marketing, IRL, vertical integration_ |
@@ -129,8 +134,9 @@ Groups that design things for stage and amusement parks using creative technolog
 | Name | Locations | Keywords |
 |---|:---:|---|
 | **[Adirondack Studios](https://www.adkstudios.com/)** | \[Glens Falls, NY] \[Dubai] \[Orlando] \[Shanghai] \[LA] \[Singapore] | _concept, schematic, design, construction, fabrication, installation, support_ |
-| **[Hettema Group](http://thehettemagroup.com/)** | \[LA] | _experiential, exhibit, live shows, theme parks, retail, dining, museums_ |
-| **[Jason Sherwood Design](http://jasonsherwooddesign.com/)** | \[NYC] | _television and broadway and concert stage design_ |
+| **[Charcoalblue](https://www.charcoalblue.com/)** | \[NYC] \[Melbourne] \[Chicago] \[UK] \[London] | _amazing spaces where stories are told and experiences are shared_ |
+| **[Hettema Group](https://thehettemagroup.com/)** | \[LA] | _experiential, exhibit, live shows, theme parks, retail, dining, museums_ |
+| **[Jason Sherwood Design](https://jasonsherwooddesign.com/)** | \[NYC] | _television and broadway and concert stage design_ |
 
 
 ## Experiential Pop-Ups
