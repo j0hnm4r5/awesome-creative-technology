@@ -82,6 +82,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Optimist](https://optimistinc.com/)** | \[LA] \[NYC] \[London] \[Amsterdam] \[Hamburg] \[Berlin] \[Prague] | _architects of subculture, creative, design, strategy, production, content, brand experience_ |
 | **[Patten Studio](https://www.pattenstudio.com/)** | \[NYC] | _informed by research at the MIT Media Lab, experiences that connect people_ |
 | **[Potion Design](https://www.potiondesign.com/)** | \[NYC] | _design and technology studio, interactive, musuems_ |
+| **[pretty bloody simple](https://www.prettybloodysimple.com)** | \[Munich] | _interactive experiences, analog and digital, musuems_ |
 | **[Rare Volume](https://rarevolume.com/)** | \[NYC] | _design and technology studio, interactive video walls_ |
 | **[Red Paper Heart](https://redpaperheart.com)** | \[NYC] | _art from real world interaction_ |
 | **[Rockwell Group Lab](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
