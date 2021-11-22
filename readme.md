@@ -99,6 +99,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[UNIT9](https://www.unit9.com/)** | \[London] \[LA] \[NYC] \[Berlin] | _innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors_ |
 | **[VVOX](https://volvoxlabs.com/)** | \[NYC] \[LA] | _high-end design, code, fabrication, sound_ |
 | **[VTProDesign](https://vtprodesign.com/)** | \[LA] | _high tech robotics and projection mapping_ |
+| **[XORXOR](https://www.xorxor.hu)** | \[Budapest] | _collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design_ |
 | **[Yellow Studio](https://yellowstudio.com/)** | \[NYC] | _artistically-minded design, tv/concert/event production design, set design_ |
 
 
