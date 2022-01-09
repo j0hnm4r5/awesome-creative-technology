@@ -207,6 +207,7 @@ Groups that generally focus on designing museums and similar experiences using c
 | **[Ideum](https://www.ideum.com/)** | \[albuquerque] | _interactive exhibits and exhibitions, integrated hardware products_ |
 | **[Iglhaut + von Grote](http://iglhaut-vongrote.de/en/)** | \[Berlin] | _scenography, spatial mise-en-scène_ |
 | **[Local Projects](https://localprojects.com/)** | \[NYC] | _experience Designers pushing the boundaries of human interaction_ |
+| **[Roto](https://roto.com/)** | \[Columbus] | _experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking._ |
 
 
 ## Closed
