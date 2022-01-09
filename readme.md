@@ -72,6 +72,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Invisible North](https://www.invisiblenorth.com/)** | \[NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
 | **[Jam3](https://www.jam3.com)** | \[Toronto] \[LA] \[Montevideo] \[Amsterdam] | _create modern experiences for tomorrow’s brands_ |
 | **[Listen](https://wearelisten.com/)** | \[NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
+| **[Lorem Ipsum](https://loremipsumcorp.com/)** | \[NYC] \[Moscow] \[London] | _experience design, narrative, physical and digital environments_ |
 | **[Manifold](https://www.wearemanifold.com/)** | \[San Francisco] \[LA] \[Portland] | _we hire smart people and get out of their way_ |
 | **[Map](http://mapprojectoffice.com/)** | \[London] | _industrial designers who believe great design can solve problems_ |
 | **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | \[London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
