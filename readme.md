@@ -53,7 +53,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
 | **[Cinimod Studio](https://www.cinimodstudio.com)** | \[London] | _location based work where technology, environment, content and real life interaction meet_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
-| **[Cuttefish](https://www.thecuttlefish.com/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
 | **[Dimensional Innovations](https://dimin.com/)** | \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[Los Angeles] \[Pittsburgh] | _experience design, interactive experiences, brand activation_ |
 | **[dotdotdash](https://dotdotdash.io/)** | \[Portland] \[LA] \[NYC] | _innovation agency that seamlessly blends the physical and digital_ |
@@ -112,6 +111,7 @@ Established artist collectives/practices that work with creative technology (her
 
 | Name | Locations | Keywords |
 |---|:---:|---|
+| **[Cuttefish](https://www.thecuttlefish.com/)** | \[United States] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Dave + Gabe](https://www.daveandgabe.care/)** | \[NYC] | _interactive installation studio, real-time animation, generative 3D sound_ |
 | **[MSCHF](https://mschf.xyz/)** | \[NYC] | _viral stunts and products, trying to do stuff that the world can't even define_ |
 | **[NONOTAK Studio](https://www.nonotak.com/)** | \[Paris] | _light and sound installations, ethereal, immersive, dreamlike_ |
