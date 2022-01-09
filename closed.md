@@ -5,3 +5,4 @@ Groups that have closed their doors, but (hopefully) still have active sites for
 | Name | Website Status | Locations | Keywords | Reason for Closure |
 |---|---|:---:|---|---|
 | **[We're Magnetic](https://weremagnetic.com/)** | ![status](https://img.shields.io/website?down_color=lightgray&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fweremagnetic.com%2F) | \[NYC] \[London] \[LA] | _immersive, authentic, culturally relevant experiences_ | COVID-19 |
+| **[Fake Love](https://www.linkedin.com/company/fake-love/)** | ![status](https://img.shields.io/website?down_color=lightgray&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Ffakelove.tv%2F) | \[NYC] | _experiential design, real emotional connections, marketing_ | COVID-19 |
