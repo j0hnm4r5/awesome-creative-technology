@@ -51,8 +51,9 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Blue Cadet](https://www.bluecadet.com/)** | \[Philadelphia] \[NYC] | _experience design across digital and physical environments, visitor centers_ |
 | **[BREAKFAST](https://breakfastny.com/)** | \[NYC] | _software-/hardware-driven artworks, flip discs_ |
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
-| **[Cinimod Studio](https://www.cinimodstudio.com)** | \[London] | _immersive and interactive experiences, physical and digita, retail and entertainment_ |
+| **[Cinimod Studio](https://www.cinimodstudio.com)** | \[London] | _location based work where technology, environment, content and real life interaction meet_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
+| **[Cuttefish](https://www.thecuttlefish.com/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
 | **[Dimensional Innovations](https://dimin.com/)** | \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[Los Angeles] \[Pittsburgh] | _experience design, interactive experiences, brand activation_ |
 | **[dotdotdash](https://dotdotdash.io/)** | \[Portland] \[LA] \[NYC] | _innovation agency that seamlessly blends the physical and digital_ |
