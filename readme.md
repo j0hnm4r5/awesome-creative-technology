@@ -205,7 +205,7 @@ Groups that generally focus on designing museums and similar experiences using c
 |---|:---:|---|
 | **[Exploratorium](https://www.exploratorium.edu/)** | \[San Francisco] | _exhibits made in-house, public-facing workshop_ |
 | **[GSM Project](https://gsmproject.com/en/)** | \[Montreal] \[Singapore] \[Dubai] | _content first, exhibitions_ |
-| **[Ideum](https://www.ideum.com/)** | \[albuquerque] | _interactive exhibits and exhibitions, integrated hardware products_ |
+| **[Ideum](https://www.ideum.com/)** | \[Albuquerque] | _interactive exhibits and exhibitions, integrated hardware products_ |
 | **[Iglhaut + von Grote](http://iglhaut-vongrote.de/en/)** | \[Berlin] | _scenography, spatial mise-en-scène_ |
 | **[Local Projects](https://localprojects.com/)** | \[NYC] | _experience Designers pushing the boundaries of human interaction_ |
 | **[Roto](https://roto.com/)** | \[Columbus] | _experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking._ |
