@@ -50,6 +50,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Barbarian](https://wearebarbarian.com/)** | \[NYC] | _marketing and advertising, new media_ |
 | **[Blue Cadet](https://www.bluecadet.com/)** | \[Philadelphia] \[NYC] | _experience design across digital and physical environments, visitor centers_ |
 | **[BREAKFAST](https://breakfastny.com/)** | \[NYC] | _software-/hardware-driven artworks, flip discs_ |
+| **[Breeze Creative](https://www.breezecreative.com/)** | \[NYC] \[Miami] | _interactive experience design, family entertainment, museums, playgrounds, educational institutions_ |
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
 | **[Cinimod Studio](https://www.cinimodstudio.com)** | \[London] | _location based work where technology, environment, content and real life interaction meet_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
