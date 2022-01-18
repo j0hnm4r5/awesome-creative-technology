@@ -204,6 +204,7 @@ Groups that generally focus on designing museums and similar experiences using c
 
 | Name | Locations | Keywords |
 |---|:---:|---|
+| **[Art Processors](https://www.artprocessors.net/)** | \[Melbourne] | _specialist interactive media and exhibition design_ |
 | **[Exploratorium](https://www.exploratorium.edu/)** | \[San Francisco] | _exhibits made in-house, public-facing workshop_ |
 | **[GSM Project](https://gsmproject.com/en/)** | \[Montreal] \[Singapore] \[Dubai] | _content first, exhibitions_ |
 | **[Ideum](https://www.ideum.com/)** | \[Albuquerque] | _interactive exhibits and exhibitions, integrated hardware products_ |
