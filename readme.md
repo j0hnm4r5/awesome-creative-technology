@@ -121,6 +121,7 @@ Established artist collectives/practices that work with creative technology (her
 | **[NONOTAK Studio](https://www.nonotak.com/)** | \[Paris] | _light and sound installations, ethereal, immersive, dreamlike_ |
 | **[panGenerator](https://pangenerator.com/)** | \[Warsaw, Poland] | _new media art and design collective, mixing bits & atoms_ |
 | **[Random International](https://www.random-international.com/)** | \[London] \[Berlin] | _experimental practice within contemporary art, human condition in an increasingly mechanised world_ |
+| **[Smooth Technology](https://smooth.technology/)** | \[NYC] | _cutting-edge technology and artistic sensibility, wireless wearables, create the impossible_ |
 | **[teamLab](https://www.teamlab.art/)** | \[Tokyo] | _full-room interactive projection mapping, interdisciplinary group of ultratechnologists_ |
 | **[United Visual Artists](https://www.uva.co.uk/)** | \[London] | _new technologies with traditional media, site-specific, instruments that manipulate perception_ |
 | **[WHYIXD](https://www.whyixd.com/)** | \[Taiwan] | _cross-disciplinary art installations, dance, architecture, music_ |
