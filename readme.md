@@ -58,6 +58,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Cinimod Studio](https://www.cinimodstudio.com)** | \[London] | _location based work where technology, environment, content and real life interaction meet_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
+| **[Design I/O](https://www.design-io.com/)** | \[New York] \[Bay Area] | _immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space_ |
 | **[Dimensional Innovations](https://dimin.com/)** | \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[Los Angeles] \[Pittsburgh] | _experience design, interactive experiences, brand activation_ |
 | **[Digifun](http://www.digitalfun.net/)** | \[Shanghai] | _projection mapping, new media art education_ |
 | **[dotdotdash](https://dotdotdash.io/)** | \[Portland] \[LA] \[NYC] | _innovation agency that seamlessly blends the physical and digital_ |
