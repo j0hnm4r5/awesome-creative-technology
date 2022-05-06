@@ -44,6 +44,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | Name | Locations | Keywords |
 |---|:---:|---|
 | **[1024 Architecture](https://www.1024architecture.net/)** | \[Paris] | _architectural and digital works, orchestrated sound and light scores_ |
+| **[Alt Ethos](https://altethos.com/)** | \[Denver] | _experiential, metaverse, and event design agency_ |
 | **[Art + Com](https://artcom.de/en/)** | \[Berlin] | _media sculptures, data installations, new media_ |
 | **[Augmented Magic](https://www.augmented-magic.com/)** | \[Paris] | _augmented magic shows, digital installations_ |
 | **[AV Controls](https://www.av-controls.com/)** | \[NYC] | _site-specific technology installations, digital landmarks_ |
