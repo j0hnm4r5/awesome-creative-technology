@@ -135,6 +135,7 @@ Established artist collectives/practices that work with creative technology (her
 | **[teamLab](https://www.teamlab.art/)** | \[Tokyo] | _full-room interactive projection mapping, interdisciplinary group of ultratechnologists_ |
 | **[United Visual Artists](https://www.uva.co.uk/)** | \[London] | _new technologies with traditional media, site-specific, instruments that manipulate perception_ |
 | **[WHYIXD](https://www.whyixd.com/)** | \[Taiwan] | _cross-disciplinary art installations, dance, architecture, music_ |
+| **[Zebradog](https://www.zebradog.com/)** | \[Madison] | _communication design and the built environment, higher education_ |
 
 ## Fabricators
 
