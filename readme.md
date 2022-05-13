@@ -56,6 +56,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Breeze Creative](https://www.breezecreative.com/)** | \[NYC] \[Miami] | _interactive experience design, family entertainment, museums, playgrounds, educational institutions_ |
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
 | **[Burnlab](www.burncg.cn)** | \[Chengdu] | _kinetic installations for hotels and malls_ |
+| **[C&G Partners](https://www.cgpartnersllc.com/)** | \[NYC] | _branding, digital installations, exhibits and environments, signage, wayfinding, websites_ |
 | **[Cinimod Studio](https://www.cinimodstudio.com)** | \[London] | _location based work where technology, environment, content and real life interaction meet_ |
 | **[Comuzi](https://www.comuzi.xyz/)** | \[London] | _explore and imagine and prototyp and creatr future-forward creative concepts_ |
 | **[Deeplocal](https://www.deeplocal.com/)** | \[Pittsburgh] | _creative engineers, inventors, interactive experiences, human stories_ |
