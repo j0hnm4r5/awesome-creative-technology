@@ -69,7 +69,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Extrapolation Factory](https://extrapolationfactory.com/)** | \[NYC] | _research studio, futures studies, collaborative prototyping_ |
 | **[Fast Horse](https://www.fasthorseinc.com/)** | \[Minneapolis] | _a truly integrated creative agency_ |
 | **[FIELD](https://www.field.io/)** | \[London] | _future aesthetics for design, motion, experiential_ |
-| **[Float4](https://float4.com/en/)** | \[Montreal] \[NYC] | _integrates digital experiences into physical spaces to amplify their identityl_ |
+| **[Float4](https://float4.com/en/)** | \[Montreal] \[NYC] | _integrates digital experiences into physical spaces to amplify their identity_ |
 | **[fuse](https://www.fuseworks.it/en/)** | \[Modena, Italy] | _live-media performances, experimentation, electronic music, digital arts_ |
 | **[Future Colossal](https://www.futurecolossal.com/)** | \[NYC] | _experiential technologies in advertising and entertainment and art_ |
 | **[Gallagher Design](https://www.gallagherdesign.com/)** | \[DC] \[NYC] \[Portland] \[Singapore] | _harmony between technology, narrative, and physical design_ |
