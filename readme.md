@@ -91,6 +91,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[MindBuffer](https://mindbuffer.net/)** | \[Berlin] | _audiovisual research and digital design studio_ |
 | **[Moment Factory](https://momentfactory.com/home)** | \[Montreal] \[LA] \[London] \[Tokyo] \[Paris] \[NYC] | _shows, destinations, content, interactive, scenography_ |
 | **[Motse](https://www.behance.net/motseart/projects)** | \[Shenzhen] | _digital art_ |
+| **[NeoPangea](https://www.neopangea.com/)** | \[West Reading, Pennsylvania] | _microsites, games, VR/AR, digital, social_ |
 | **[Night Kitchen](https://www.whatscookin.com/)** | \[Philadelphia] | _dynamic digital experiences, online exhibitions, digital strategy, storytelling_ |
 | **[Nowhere](https://studionowhere.com/)** | \[Shanghai] | _marketing events, interactive experiences_ |
 | **[Oat Foundry](https://www.oatfoundry.com/)** | \[Philadelphia] | _split-flap displays, electromechanical stuff, think tank, products, experiences_ |
