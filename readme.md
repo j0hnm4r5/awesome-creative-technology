@@ -111,6 +111,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Staat](https://www.staat.com/)** | \[Amsterdam] | _branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail_ |
 | **[Stimulant](https://stimulant.com/)** | \[San Francisco] | _experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications_ |
 | **[StoreyStudio](https://www.storeystudio.com/)** | \[London] | _spatial design, set design, window displays, moving image_ |
+| **[Studio Black](https://www.studioblack.org/)** | \[LA] \[NYC] | _technical production, design advisory, content management, digital content_ |
 | **[Team Epiphany](https://www.teamepiphany.com/)** | \[NYC] \[LA] | _influencer marketing, IRL, vertical integration_ |
 | **[Tellart](https://www.tellart.com/)** | \[Providence] \[Amsterdam] \[San Francisco] | _transformative experiences, invention, physical & digital experiences, new technologies_ |
 | **[The Gathery](http://www.thegathery.com/)** | \[NYC] | _editorially-born creative agency specializing in brand marketing and content creation_ |
