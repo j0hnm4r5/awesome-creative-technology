@@ -117,6 +117,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[The Gathery](http://www.thegathery.com/)** | \[NYC] | _editorially-born creative agency specializing in brand marketing and content creation_ |
 | **[The Projects](http://theprojects.com/)** | \[London] \[LA] \[NYC] \[Sydney] | _brand consultancy, meaningful experiences, tell stories_ |
 | **[Two Goats](https://www.twogoats.us/)** | \[NYC] \[LA] \[London] | _AR, interactive branded experiences_ |
+| **[Trivium Interactive](https://www.triviuminteractive.com/)** | \[Boston] | _experience design and production_ |
 | **[UNIT9](https://www.unit9.com/)** | \[London] \[LA] \[NYC] \[Berlin] | _innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors_ |
 | **[Unified Field](https://www.unifiedfield.com/)** | \[NYC] | _content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces_ |
 | **[Upswell](https://hello-upswell.com/)** | \[Portland] | _digital and physical content first experiences_ |
