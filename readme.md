@@ -115,6 +115,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[The Projects](http://theprojects.com/)** | \[London] \[LA] \[NYC] \[Sydney] | _brand consultancy, meaningful experiences, tell stories_ |
 | **[Two Goats](https://www.twogoats.us/)** | \[NYC] \[LA] \[London] | _AR, interactive branded experiences_ |
 | **[UNIT9](https://www.unit9.com/)** | \[London] \[LA] \[NYC] \[Berlin] | _innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors_ |
+| **[Upswell](https://hello-upswell.com/)** | \[Portland] | _digital and physical content first experiences_ |
 | **[VTProDesign](https://vtprodesign.com/)** | \[LA] | _high tech robotics and projection mapping_ |
 | **[VVOX](https://volvoxlabs.com/)** | \[NYC] \[LA] | _high-end design, code, fabrication, sound_ |
 | **[Wonderlabs](https://www.wonderlabsstudio.com/)** | \[Shanghai] | _marketing events, interactive installation_ |
