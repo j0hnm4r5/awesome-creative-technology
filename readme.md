@@ -101,7 +101,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Rare Volume](https://rarevolume.com/)** | \[NYC] | _design and technology studio, interactive video walls_ |
 | **[Red Paper Heart](https://redpaperheart.com)** | \[NYC] | _art from real world interaction_ |
 | **[Relative Scale](https://relativescale.com/)** | \[Raleigh] | _bespoke digital products and experiences for brands and institutions_ |
-| **[Rockwell Group Lab](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
+| **[The Lab at Rockwell Group](https://www.labatrockwellgroup.com)** | \[NYC] | _architecture and design, branded experiences, immersive environments, pop ups_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/)** | \[London] \[Amsterdam] \[NYC] | _design, creative, digital and consultancy_ |
 | **[Second Story](https://secondstory.com/)** | \[Atlanta] \[Portland] \[NYC] | _exhibition, interactive, software, experience, hardware, VR, AR, projection_ |
 | **[Seeeklab](https://www.seeeklab.com/en/)** | \[Xiamen] | _marketing events, interactive installation_ |
@@ -145,7 +145,7 @@ Groups that mostly fabricate pieces for other creative technology companies.
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[BEDNARK](https://builtbybednark.com/)** | \[NYC] | _full-service fabrication, production, install_ |
+| **[Bednark](https://builtbybednark.com/)** | \[NYC] | _full-service fabrication, production, install_ |
 | **[Pink Sparrow](https://www.pinksparrow.com/)** | \[NYC] \[LA] | _environmental design, project management_ |
 | **[Visionary Effects](http://www.visionaryeffects.com/)** | \[Pittsburgh] | _old-school manufacturing processes with digital design and fabrication_ |
 
