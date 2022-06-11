@@ -49,7 +49,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[AV Controls](https://www.av-controls.com/)** | \[NYC] | _site-specific technology installations, digital landmarks_ |
 | **[Barbarian](https://wearebarbarian.com/)** | \[NYC] | _marketing and advertising, new media_ |
 | **[Blackbow](https://www.blackbow.cn/)** | \[Beijing] | _projection mapping, digital art and cultural experiences_ |
-| **[Blublu](http://www.blu-blu.com/)** | \[Hangzhou] | _projection mapping, immersive experiences for museums and workspace_ |
 | **[Blue Cadet](https://www.bluecadet.com/)** | \[Philadelphia] \[NYC] | _experience design across digital and physical environments, visitor centers_ |
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
 | **[BREAKFAST](https://breakfastny.com/)** | \[NYC] | _software-/hardware-driven artworks, flip discs_ |
