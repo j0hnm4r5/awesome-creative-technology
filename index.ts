@@ -66,11 +66,6 @@ const list: List = [
 				locations: ["Philadelphia"],
 				keywords: "digital moments in physical spaces, retail environments, art galleries, events",
 			},
-			"Burnlab": {
-				link: "https://www.burncg.cn",
-				locations: ["Chengdu"],
-				keywords: "kinetic installations for hotels and malls",
-			},
 			"C&G Partners": {
 				link: "https://www.cgpartnersllc.com/",
 				locations: ["NYC"],
