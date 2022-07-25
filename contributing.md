@@ -1,14 +1,10 @@
 # Contribution Guidelines
 
-All submissions must take the form of:
+**Please add/update any groups within `index.ts` and submit a PR.**
 
-```
-| **[Name](website)** | \[Location1] \[Location2] ... \[Location N] | _comma-separated, lowercase, keyword description, usually grabbed from website_ |
-```
+The front-facing README (and the CLOSED readme) will generate via GitHub Actions upon Push. Any changes directly to these files will be overwritten upon generation.
 
-And must be in alphabetical order per section.
-
-Thank you for your suggestions/fixes!
+Also be sure to run `npm run format` locally before commit (if you're not already using an ESLint plugin in VSCode). This is run as an Action as well, but it's best to run it locally first to make sure it passes.
 
 
 ## Updating your PR

@@ -2,7 +2,7 @@
 
 Groups that have closed their doors, but (hopefully) still have active sites for reference.
 
-| Name | Website Status | Locations | Keywords | Reason for Closure |
-|---|---|:---:|---|---|
-| **[We're Magnetic](https://weremagnetic.com/)** | ![status](https://img.shields.io/website?down_color=lightgray&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fweremagnetic.com%2F) | \[NYC] \[London] \[LA] | _immersive, authentic, culturally relevant experiences_ | COVID-19 |
-| **[Fake Love](https://www.linkedin.com/company/fake-love/)** | ![status](https://img.shields.io/website?down_color=lightgray&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Ffakelove.tv%2F) | \[NYC] | _experiential design, real emotional connections, marketing_ | COVID-19 |
+| Name | Locations | Keywords | Closure Reason | up? |
+| ---- | --------- | -------- | -------------- | --- |
+| [**Fake Love (New York Times)**](https:&#x2F;&#x2F;www.nytco.com&#x2F;products&#x2F;fake-love&#x2F;) | ![NYC](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-NYC-lightgrey?style&#x3D;flat) | experiential design, real emotional connections, marketing | COVID-19 | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fwww.nytco.com%2Fproducts%2Ffake-love%2F) |
+| [**We&#39;re Magnetic**](https:&#x2F;&#x2F;weremagnetic.com&#x2F;) | ![NYC](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-NYC-lightgrey?style&#x3D;flat) ![London](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-London-lightgrey?style&#x3D;flat) ![LA](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-LA-lightgrey?style&#x3D;flat) | immersive, authentic, culturally relevant experiences | COVID-19 | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fweremagnetic.com%2F) |

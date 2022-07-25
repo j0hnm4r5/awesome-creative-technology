@@ -1,0 +1,32 @@
+{
+	"name": "awesome-creative-technology",
+	"version": "1.0.0",
+	"main": "index.ts",
+	"repository": "git@github.com:j0hnm4r5/awesome-creative-technology.git",
+	"author": "John Mars <john@hellomars.dev>",
+	"license": "MIT",
+	"scripts": {
+		"format": "npx eslint . --fix",
+		"generate": "ts-node index.ts"
+	},
+	"dependencies": {
+		"github-slugger": "^1.4.0",
+		"mustache": "^4.2.0"
+	},
+	"devDependencies": {
+		"@types/github-slugger": "^1.3.0",
+		"@types/mustache": "^4.2.1",
+		"@typescript-eslint/eslint-plugin": "^5.30.7",
+		"@typescript-eslint/parser": "^5.30.7",
+		"eslint": "^8.20.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-config-airbnb-typescript": "^17.0.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-sort-keys-fix": "^1.1.2",
+		"prettier": "2.7.1",
+		"ts-node": "^10.9.1",
+		"typescript": "^4.7.4"
+	}
+}
