@@ -18,6 +18,7 @@ export function generateReadme(list: List) {
 
 			return `1. [**${title}**](#${slug})`;
 		})
+		.concat("1. [**Closed Groups**](#closed-groups)")
 		.join("\n");
 
 	// generate each list
