@@ -5,6 +5,12 @@ const list: List = [
 	{
 		title: "Creative Technology",
 		rows: {
+			"Cognition": {
+				link: "https://cognitionlabs.io/",
+				locations: ["LA"],
+				keywords:
+					"an interactive studio designed to enrich experiences by building creative technology with human empathy",
+			},
 			"1024 Architecture": {
 				link: "https://www.1024architecture.net/",
 				locations: ["Paris"],
