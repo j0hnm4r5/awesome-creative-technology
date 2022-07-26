@@ -37,6 +37,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 1. [**Architecture**](#architecture)
 1. [**Creative Agencies**](#creative-agencies)
 1. [**Museums**](#museums)
+1. [**Closed Groups**](#closed-groups)
 
 ---
 
