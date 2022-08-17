@@ -38,6 +38,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 1. [**Creative Agencies**](#creative-agencies)
 1. [**Museums**](#museums)
 1. [**Festivals**](#festivals)
+1. [**Education**](#education)
 1. [**Closed Groups**](#closed-groups)
 
 ---
@@ -257,6 +258,19 @@ Groups that generally focus on designing museums and similar experiences using c
 ## Festivals and conferences
 
 Festivals and conferences dealing with creative technologies in many formats
+
+
+| Name | Locations | Keywords | up? |
+| ---- | --------- | -------- | --- |
+| [**Eyeo**](https:&#x2F;&#x2F;www.eyeofestival.com&#x2F;) | ![Minneapolis](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Minneapolis-lightgrey?style&#x3D;flat) | a gathering for the creative technology community | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fwww.eyeofestival.com%2F) |
+| [**ISEA**](https:&#x2F;&#x2F;isea2022.isea-international.org&#x2F;) | ![Barcelona](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Barcelona-lightgrey?style&#x3D;flat) |the crossroads where art, design, science, technology and society meet. | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fisea2022.isea-international.org%2F) |
+| [**SXSW**](https:&#x2F;&#x2F;www.sxsw.com&#x2F;) | ![Austin](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Austin-lightgrey?style&#x3D;flat) | film, music, interactive arts | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fwww.sxsw.com%2F) |
+
+---
+
+## Education
+
+Undergrad programs, masters and open course teaching and researching creative technologies
 
 
 | Name | Locations | Keywords | up? |
