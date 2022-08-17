@@ -958,10 +958,10 @@ const list: List = [
 			"Undergrad programs, masters and open course teaching and researching creative technologies",
 		rows: {
 			"ITP": {
-				link: "https://itp.nyu.edu/",
+				link: "https://tisch.nyu.edu/itp",
 				locations: ["New York"],
 				keywords:
-					"ITP | IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
+					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
 			},
 			"Goldsmiths": {
 				link: "https://www.gold.ac.uk/pg/ma-computational-arts/",
