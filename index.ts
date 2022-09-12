@@ -110,6 +110,11 @@ const list: List = [
 				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "Los Angeles", "Pittsburgh"],
 				keywords: "experience design, interactive experiences, brand activation",
 			},
+			"Dome": {
+				link: "http://www.domecollective.com",
+				locations: ["NYC"],
+				keywords: "experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
+			},
 			"Digifun": {
 				link: "http://www.digitalfun.net/",
 				locations: ["Shanghai"],
