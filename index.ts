@@ -113,7 +113,8 @@ const list: List = [
 			"Dome": {
 				link: "http://www.domecollective.com",
 				locations: ["NYC"],
-				keywords: "experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
+				keywords:
+					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
 			},
 			"Digifun": {
 				link: "http://www.digitalfun.net/",
