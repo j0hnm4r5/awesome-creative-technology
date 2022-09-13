@@ -388,7 +388,8 @@ const list: List = [
 			"S1T2": {
 				link: "https://s1t2.com/",
 				locations: ["Sydney", "Melbourne", "Shanghai"],
-				keywords: "We create interactive experiences that immerse audiences in the future of storytelling through technology.",
+				keywords:
+					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
 			},
 			"TAD": {
 				link: "https://technologyarchitecturedesign.com/",
@@ -896,7 +897,8 @@ const list: List = [
 			"Cortina Productions": {
 				link: "https://www.cortinaproductions.com/",
 				locations: ["McLean, VA"],
-				keywords: "artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.",
+				keywords:
+					"artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.",
 			},
 			"Exploratorium": {
 				link: "https://www.exploratorium.edu/",
