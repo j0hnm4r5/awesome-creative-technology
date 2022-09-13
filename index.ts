@@ -46,6 +46,11 @@ const list: List = [
 				locations: ["NYC"],
 				keywords: "marketing and advertising, new media",
 			},
+			"Beaudry Interactive": {
+				link: "https://www.binteractive.com/",
+				locations: ["LA"],
+				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
+			},
 			"Blackbow": {
 				link: "https://www.blackbow.cn/",
 				locations: ["Beijing"],
