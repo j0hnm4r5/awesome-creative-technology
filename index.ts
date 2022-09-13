@@ -389,6 +389,11 @@ const list: List = [
 				locations: ["Sydney", "Melbourne", "Shanghai"],
 				keywords: "We create interactive experiences that immerse audiences in the future of storytelling through technology.",
 			},
+			"TAD": {
+				link: "https://technologyarchitecturedesign.com/",
+				locations: ["NYC", "London"],
+				keywords: "digital experiences, technology and architecture, designed to inspire people.",
+			},
 			"Team Epiphany": {
 				link: "https://www.teamepiphany.com/",
 				locations: ["NYC", "LA"],
