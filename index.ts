@@ -927,6 +927,11 @@ const list: List = [
 				locations: ["Massachusetts"],
 				keywords: "multimedia experiences for museums, historic sites and public places",
 			},
+			"Northern Light Productions": {
+				link: "https://nlprod.com/",
+				locations: ["Boston"],
+				keywords: "immersive media environments, interactive experiences, or documentary films.",
+			},
 			"Roto": {
 				link: "https://roto.com/",
 				locations: ["Columbus, OH"],
