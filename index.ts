@@ -61,11 +61,6 @@ const list: List = [
 				locations: ["Hangzhou"],
 				keywords: "projection mapping, immersive experiences for museums and workspace",
 			},
-			"Blue Cadet": {
-				link: "https://www.bluecadet.com/",
-				locations: ["Philadelphia", "NYC"],
-				keywords: "experience design across digital and physical environments, visitor centers",
-			},
 			"BREAKFAST": {
 				link: "https://breakfastny.com/",
 				locations: ["NYC"],
