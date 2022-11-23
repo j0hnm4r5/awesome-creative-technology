@@ -206,6 +206,12 @@ const list: List = [
 				locations: ["NYC"],
 				keywords: "marketing and advertising, retail and DTC, archtecture",
 			},
+			"Intergalactic": {
+				link: "https://intergalactic.com",
+				locations: ["Vancouver", "London"],
+				keywords:
+					"mobile apps, interactive screens, web development, application design and visualization",
+			},
 			"Invisible North": {
 				link: "https://www.invisiblenorth.com/",
 				locations: ["NYC"],
