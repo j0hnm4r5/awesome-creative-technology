@@ -222,6 +222,11 @@ const list: List = [
 				locations: ["Toronto", "LA", "Montevideo", "Amsterdam"],
 				keywords: "create modern experiences for tomorrow's brands",
 			},
+			"Left Field Labs": {
+				link: "https://www.leftfieldlabs.com/",
+				locations: ["LA"],
+				keywords: "products, platforms, and services that solve fundamental human challenges",
+			},
 			"Listen": {
 				link: "https://wearelisten.com/",
 				locations: ["NYC"],
