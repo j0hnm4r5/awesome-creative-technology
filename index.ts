@@ -367,7 +367,8 @@ const list: List = [
 			"SOSO": {
 				link: "https://www.sosolimited.com/about/",
 				locations: ["Boston", "San Diego"],
-				keywords: "delivering real human impact across physical and virtual space, placemaking and storytelling",
+				keywords:
+					"delivering real human impact across physical and virtual space, placemaking and storytelling",
 			},
 			"space150": {
 				link: "https://www.space150.com/",
