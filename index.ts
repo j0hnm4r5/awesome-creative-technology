@@ -637,6 +637,12 @@ const list: List = [
 				keywords:
 					"full-room interactive projection mapping, interdisciplinary group of ultratechnologists",
 			},
+			"Taller Estampa": {
+				link: "https://www.tallerestampa.com",
+				locations: ["Barcelona"],
+				keywords:
+					"group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.",
+			},
 			"United Visual Artists": {
 				link: "https://www.uva.co.uk/",
 				locations: ["London"],
@@ -663,6 +669,11 @@ const list: List = [
 				link: "https://www.29rooms.com/",
 				locations: ["USA"],
 				keywords: "multi-sensory installations, performances, and workshops",
+			},
+			"Cascade": {
+				link: "https://cascadeshow.com/",
+				locations: ["Los Angeles"],
+				keywords: "interactive art experience",
 			},
 			"Color Factory": {
 				link: "https://www.colorfactory.co/",
@@ -849,6 +860,11 @@ const list: List = [
 				],
 				keywords: "business, experience, and marketing transformation",
 			},
+			"SuperUber": {
+				link: "https://www.superuber.com/",
+				locations: ["Rio de Janeiro", "São Paulo"],
+				keywords: "experiences that blend art, technology, architecture and design",
+			},
 			"The Mill": {
 				link: "https://www.themill.com/",
 				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
@@ -907,6 +923,63 @@ const list: List = [
 				link: "https://www.thincdesign.com/",
 				locations: ["NYC"],
 				keywords: "provoke meaningful conversations about the world in which we live",
+			},
+		},
+	},
+	{
+		title: "Festivals and conferences",
+		description: "Festivals and conferences dealing with creative technologies in many formats",
+		rows: {
+			Eyeo: {
+				link: "https://www.eyeofestival.com/",
+				locations: ["Melbourne"],
+				keywords: "a gathering for the creative technology community",
+			},
+			ISEA: {
+				link: "https://isea2022.isea-international.org/",
+				locations: ["Barcelona", "Paris", "Others"],
+				keywords: "the crossroads where art, design, science, technology and society meet",
+			},
+			SXSW: {
+				link: "https://www.sxsw.com/",
+				locations: ["Austin"],
+				keywords: "film, music, interactive arts",
+			},
+		},
+	},
+	{
+		title: "Education",
+		description:
+			"Undergrad programs, masters and open course teaching and researching creative technologies",
+		rows: {
+			"ITP": {
+				link: "https://tisch.nyu.edu/itp",
+				locations: ["New York"],
+				keywords:
+					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
+			},
+			"Goldsmiths": {
+				link: "https://www.gold.ac.uk/pg/ma-computational-arts/",
+				locations: ["London"],
+				keywords:
+					"a degree which develops your arts practice through the expressive world of creative computation",
+			},
+			"MIT Medialab": {
+				link: "https://media.mit.edu/",
+				locations: ["Boston"],
+				keywords:
+					"art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration",
+			},
+			"Paris College of Art": {
+				link: "https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/",
+				locations: ["Paris"],
+				keywords:
+					"designed for those who are interested in exploring the wide-ranging creative field of New Media",
+			},
+			"University of the Arts": {
+				link: "https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing",
+				locations: ["London"],
+				keywords: "computational technologies in the context of creative computing research",
 			},
 		},
 	},
