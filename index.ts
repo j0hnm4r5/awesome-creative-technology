@@ -135,7 +135,7 @@ const list: List = [
 			"Dimensional Innovations": {
 				keywords: "experience design, interactive experiences, brand activation",
 				link: "https://dimin.com/",
-				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "Los Angeles", "Pittsburgh"],
+				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "LA", "Pittsburgh"],
 			},
 			"Downstream": {
 				keywords: "strategy + design + content + technology",
@@ -672,7 +672,7 @@ const list: List = [
 			},
 			"Cascade": {
 				link: "https://cascadeshow.com/",
-				locations: ["Los Angeles"],
+				locations: ["LA"],
 				keywords: "interactive art experience",
 			},
 			"Color Factory": {
@@ -927,8 +927,8 @@ const list: List = [
 		},
 	},
 	{
-		title: "Festivals and conferences",
-		description: "Festivals and conferences dealing with creative technologies in many formats",
+		title: "Festivals & Conferences",
+		description: "Meetups for creative technologists.",
 		rows: {
 			Eyeo: {
 				link: "https://www.eyeofestival.com/",
@@ -937,7 +937,7 @@ const list: List = [
 			},
 			ISEA: {
 				link: "https://isea2022.isea-international.org/",
-				locations: ["Barcelona", "Paris", "Others"],
+				locations: ["Barcelona", "Paris"],
 				keywords: "the crossroads where art, design, science, technology and society meet",
 			},
 			SXSW: {
@@ -954,7 +954,7 @@ const list: List = [
 		rows: {
 			"ITP": {
 				link: "https://tisch.nyu.edu/itp",
-				locations: ["New York"],
+				locations: ["NYC"],
 				keywords:
 					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
 			},
