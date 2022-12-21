@@ -17,7 +17,7 @@
 
 # Awesome Creative Technology
 
-> Businesses, groups, agencies, schools, fetivals, and conferences that specialize in combining computing, design, art, and user experience.
+> Businesses, groups, agencies, schools, festivals, and conferences that specialize in combining computing, design, art, and user experience.
 
 Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art, and user experience.
 
