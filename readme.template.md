@@ -17,11 +17,11 @@
 
 # Awesome Creative Technology
 
-> Businesses & groups that specialize in combining computing, design, art, and user experience.
+> Businesses, groups, agencies, schools, festivals, and conferences that specialize in combining computing, design, art, and user experience.
 
 Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art, and user experience.
 
-This list hopes to compile the best creative technology businesses & groups across the world, both as a source of inspiration and as a reference point for potential employers of creative technologists.
+This list hopes to compile the best creative technology groups & resources across the world, both as a source of inspiration and as a reference point for potential employers and meetups of creative technologists.
 
 Creative technologists by definition have a breadth of skills as opposed to a specific specialty, so it's difficult to categorize them. While this isn't a perfect organization, each group below generally specializes in the area to which they've been assigned.
 

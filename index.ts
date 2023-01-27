@@ -5,46 +5,61 @@ const list: List = [
 	{
 		title: "Creative Technology",
 		rows: {
-			"Spectacle": {
-				link: "https://spectacle.works/",
-				locations: ["Phoenix"],
-				keywords: "expertise in fabricating experiences that drive engagement and wow participants",
-			},
-			"Cognition": {
-				link: "https://cognitionlabs.io/",
-				locations: ["LA"],
-				keywords:
-					"an interactive studio designed to enrich experiences by building creative technology with human empathy",
-			},
 			"1024 Architecture": {
+				keywords: "architectural and digital works, orchestrated sound and light scores",
 				link: "https://www.1024architecture.net/",
 				locations: ["Paris"],
-				keywords: "architectural and digital works, orchestrated sound and light scores",
-			},
-			"Alt Ethos": {
-				link: "https://altethos.com/",
-				locations: ["Denver"],
-				keywords: "experiential, metaverse, and event design agency",
-			},
-			"Art + Com": {
-				link: "https://artcom.de/en/",
-				locations: ["Berlin"],
-				keywords: "media sculptures, data installations, new media",
-			},
-			"Augmented Magic": {
-				link: "https://www.augmented-magic.com/",
-				locations: ["Paris"],
-				keywords: "augmented magic shows, digital installations",
 			},
 			"AV Controls": {
+				keywords: "site-specific technology installations, digital landmarks",
 				link: "https://www.av-controls.com/",
 				locations: ["NYC"],
-				keywords: "site-specific technology installations, digital landmarks",
+			},
+			"Acrylicize": {
+				keywords: "harness the power of art and creativity to help people fall in love with spaces",
+				link: "https://www.acrylicize.com/",
+				locations: ["London", "NYC", "Seattle"],
+			},
+			"Ada": {
+				keywords:
+					"experience innovation and design agency that partners with the world's most ambitious visionaries and brands in the culture, arts and social impact space",
+				link: "https://a-da.co/",
+				locations: ["NYC"],
+			},
+			"Adirondack Studios": {
+				keywords: "concept, schematic, design, construction, fabrication, installation, support",
+				link: "https://www.adkstudios.com/",
+				locations: ["Glens Falls, NY", "Dubai", "Orlando", "Shanghai", "LA", "Singapore"],
+			},
+			"Alt Ethos": {
+				keywords: "experiential, metaverse, and event design agency",
+				link: "https://altethos.com/",
+				locations: ["Denver"],
+			},
+			"Art + Com": {
+				keywords: "media sculptures, data installations, new media",
+				link: "https://artcom.de/en/",
+				locations: ["Berlin"],
+			},
+			"Augmented Magic": {
+				keywords: "augmented magic shows, digital installations",
+				link: "https://www.augmented-magic.com/",
+				locations: ["Paris"],
+			},
+			"BRDG Studios": {
+				keywords: "digital moments in physical spaces, retail environments, art galleries, events",
+				link: "https://www.brdg.co/",
+				locations: ["Philadelphia"],
+			},
+			"BREAKFAST": {
+				keywords: "software-/hardware-driven artworks, flip discs",
+				link: "https://breakfastny.com/",
+				locations: ["NYC"],
 			},
 			"Barbarian": {
+				keywords: "marketing and advertising, new media",
 				link: "https://wearebarbarian.com/",
 				locations: ["NYC"],
-				keywords: "marketing and advertising, new media",
 			},
 			"Beaudry Interactive": {
 				link: "https://www.binteractive.com/",
@@ -52,63 +67,70 @@ const list: List = [
 				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 			},
 			"Blackbow": {
+				keywords: "projection mapping, digital art and cultural experiences",
 				link: "https://www.blackbow.cn/",
 				locations: ["Beijing"],
-				keywords: "projection mapping, digital art and cultural experiences",
 			},
 			"Blublu": {
+				keywords: "projection mapping, immersive experiences for museums and workspace",
 				link: "http://www.blu-blu.com/",
 				locations: ["Hangzhou"],
-				keywords: "projection mapping, immersive experiences for museums and workspace",
 			},
-			"BREAKFAST": {
-				link: "https://breakfastny.com/",
-				locations: ["NYC"],
-				keywords: "software-/hardware-driven artworks, flip discs",
+			"Bluecadet": {
+				keywords: "experience design across digital and physical environments, visitor centers",
+				link: "https://www.bluecadet.com/",
+				locations: ["Philadelphia", "NYC"],
 			},
 			"Breeze Creative": {
-				link: "https://www.breezecreative.com/",
-				locations: ["NYC", "Miami"],
 				keywords:
 					"interactive experience design, family entertainment, museums, playgrounds, educational institutions",
-			},
-			"BRDG Studios": {
-				link: "https://www.brdg.co/",
-				locations: ["Philadelphia"],
-				keywords: "digital moments in physical spaces, retail environments, art galleries, events",
+				link: "https://www.breezecreative.com/",
+				locations: ["NYC", "Miami"],
 			},
 			"C&G Partners": {
-				link: "https://www.cgpartnersllc.com/",
-				locations: ["NYC"],
 				keywords:
 					"branding, digital installations, exhibits and environments, signage, wayfinding, websites",
+				link: "https://www.cgpartnersllc.com/",
+				locations: ["NYC"],
+			},
+			"Charcoalblue": {
+				keywords: "amazing spaces where stories are told and experiences are shared",
+				link: "https://www.charcoalblue.com/",
+				locations: ["NYC", "Melbourne", "Chicago", "UK", "London"],
 			},
 			"Cinimod Studio": {
-				link: "https://www.cinimodstudio.com",
-				locations: ["London"],
 				keywords:
 					"location based work where technology, environment, content and real life interaction meet",
+				link: "https://www.cinimodstudio.com",
+				locations: ["London"],
+			},
+			"Code and Theory": {
+				keywords:
+					"strategically driven, digital-first agency that lives at the intersection of creativity and technology",
+				link: "https://www.codeandtheory.com/",
+				locations: ["NYC", "San Francisco", "London", "Manila"],
+			},
+			"Cognition": {
+				keywords:
+					"an interactive studio designed to enrich experiences by building creative technology with human empathy",
+				link: "https://cognitionlabs.io/",
+				locations: ["LA"],
 			},
 			"Comuzi": {
+				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
-				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 			},
 			"Deeplocal": {
+				keywords: "creative engineers, inventors, interactive experiences, human stories",
 				link: "https://www.deeplocal.com/",
 				locations: ["Pittsburgh"],
-				keywords: "creative engineers, inventors, interactive experiences, human stories",
 			},
 			"Design I/O": {
-				link: "https://www.design-io.com/",
-				locations: ["NYC", "San Francisco"],
 				keywords:
 					"immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space",
-			},
-			"Dimensional Innovations": {
-				link: "https://dimin.com/",
-				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "Los Angeles", "Pittsburgh"],
-				keywords: "experience design, interactive experiences, brand activation",
+				link: "https://www.design-io.com/",
+				locations: ["NYC", "San Francisco"],
 			},
 			"Dome": {
 				link: "http://www.domecollective.com",
@@ -117,94 +139,105 @@ const list: List = [
 					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
 			},
 			"Digifun": {
+				keywords: "projection mapping, new media art education",
 				link: "http://www.digitalfun.net/",
 				locations: ["Shanghai"],
-				keywords: "projection mapping, new media art education",
 			},
-			"dotdotdash": {
-				link: "https://dotdotdash.io/",
-				locations: ["Portland", "LA", "NYC"],
-				keywords: "innovation agency that seamlessly blends the physical and digital",
+			"Dimensional Innovations": {
+				keywords: "experience design, interactive experiences, brand activation",
+				link: "https://dimin.com/",
+				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "LA", "Pittsburgh"],
 			},
 			"Downstream": {
+				keywords: "strategy + design + content + technology",
 				link: "https://downstream.com/",
 				locations: ["Portland", "Amsterdam", "Melbourne"],
-				keywords: "strategy + design + content + technology",
-			},
-			"Envoy": {
-				link: "https://www.weareenvoy.com/",
-				locations: ["Chicago", "LA", "San Diego"],
-				keywords: "transform environments into exceptional experiences, formerly Leviathan",
 			},
 			"ESI Design": {
+				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
 				link: "https://esidesign.nbbj.com/",
 				locations: ["NYC"],
-				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
+			},
+			"Envoy": {
+				keywords: "transform environments into exceptional experiences, formerly Leviathan",
+				link: "https://www.weareenvoy.com/",
+				locations: ["Chicago", "LA", "San Diego"],
 			},
 			"Extrapolation Factory": {
+				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
 				locations: ["NYC"],
-				keywords: "research studio, futures studies, collaborative prototyping",
-			},
-			"Fast Horse": {
-				link: "https://www.fasthorseinc.com/",
-				locations: ["Minneapolis"],
-				keywords: "a truly integrated creative agency",
 			},
 			"FIELD": {
+				keywords: "future aesthetics for design, motion, experiential",
 				link: "https://www.field.io/",
 				locations: ["London"],
-				keywords: "future aesthetics for design, motion, experiential",
+			},
+			"Fake Love (New York Times)": {
+				closureReason: "COVID-19",
+				keywords: "experiential design, real emotional connections, marketing",
+				link: "https://www.nytco.com/products/fake-love/",
+				locations: ["NYC"],
+			},
+			"Fast Horse": {
+				keywords: "a truly integrated creative agency",
+				link: "https://www.fasthorseinc.com/",
+				locations: ["Minneapolis"],
 			},
 			"Float4": {
+				keywords: "integrates digital experiences into physical spaces to amplify their identity",
 				link: "https://float4.com/en/",
 				locations: ["Montreal", "NYC"],
-				keywords: "integrates digital experiences into physical spaces to amplify their identity",
-			},
-			"fuse": {
-				link: "https://www.fuseworks.it/en/",
-				locations: ["Modena, Italy"],
-				keywords: "live-media performances, experimentation, electronic music, digital arts",
 			},
 			"Future Colossal": {
+				keywords: "experiential technologies in advertising and entertainment and art",
 				link: "https://www.futurecolossal.com/",
 				locations: ["NYC"],
-				keywords: "experiential technologies in advertising and entertainment and art",
 			},
 			"Gallagher Design": {
+				keywords: "harmony between technology, narrative, and physical design",
 				link: "https://www.gallagherdesign.com/",
 				locations: ["DC", "NYC", "Portland", "Singapore"],
-				keywords: "harmony between technology, narrative, and physical design",
 			},
 			"Game Seven": {
+				keywords: "intersection of sport and culture, brand stories",
 				link: "https://www.gamesevenmktg.com/",
 				locations: ["NYC", "LA"],
-				keywords: "intersection of sport and culture, brand stories",
 			},
 			"Geeksart": {
+				keywords: "media sculptures, new media exhibition",
 				link: "http://geeks-art.com/",
 				locations: ["Guangzhou", "Shanghai"],
-				keywords: "media sculptures, new media exhibition",
 			},
 			"Giant Spoon": {
+				keywords: "translate cultural trends into big ideas, experiential, gaming",
 				link: "https://giantspoon.com/",
 				locations: ["NYC", "LA"],
-				keywords: "translate cultural trends into big ideas, experiential, gaming",
+			},
+			"Hettema Group": {
+				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
+				link: "https://thehettemagroup.com/",
+				locations: ["LA"],
 			},
 			"Hotel Creative": {
+				keywords: "retail, branding, exhibitions, events",
 				link: "https://hotelcreative.com/",
 				locations: ["London"],
-				keywords: "retail, branding, exhibitions, events",
 			},
 			"Hovercraft": {
+				keywords: "interactive installations, site-specific content, retail, sports",
 				link: "https://www.hovercraftstudio.com/",
 				locations: ["Denver", "Portland"],
-				keywords: "interactive installations, site-specific content, retail, sports",
 			},
 			"Hush Studios": {
+				keywords: "marketing and advertising, retail and DTC, archtecture",
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
-				keywords: "marketing and advertising, retail and DTC, archtecture",
+			},
+			"IMG SRC": {
+				keywords: "full-service communication agency focusing on websites, installations, and R&D",
+				link: "https://www.imgsrc.co.jp/",
+				locations: ["Tokyo"],
 			},
 			"Intergalactic": {
 				link: "https://intergalactic.com",
@@ -213,14 +246,19 @@ const list: List = [
 					"mobile apps, interactive screens, web development, application design and visualization",
 			},
 			"Invisible North": {
+				keywords: "culturally fluent, thoughtful experiences, bring brands to life",
 				link: "https://www.invisiblenorth.com/",
 				locations: ["NYC"],
-				keywords: "culturally fluent, thoughtful experiences, bring brands to life",
 			},
 			"Jam3": {
+				keywords: "create modern experiences for tomorrow's brands",
 				link: "https://www.jam3.com",
 				locations: ["Toronto", "LA", "Montevideo", "Amsterdam"],
-				keywords: "create modern experiences for tomorrow's brands",
+			},
+			"Jason Sherwood Design": {
+				keywords: "television and broadway and concert stage design",
+				link: "https://jasonsherwooddesign.com/",
+				locations: ["NYC"],
 			},
 			"Left Field Labs": {
 				link: "https://www.leftfieldlabs.com/",
@@ -228,329 +266,58 @@ const list: List = [
 				keywords: "products, platforms, and services that solve fundamental human challenges",
 			},
 			"Listen": {
+				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
 				link: "https://wearelisten.com/",
 				locations: ["NYC"],
-				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
 			},
 			"Lorem Ipsum": {
+				keywords: "experience design, narrative, physical and digital environments",
 				link: "https://loremipsumcorp.com/",
 				locations: ["NYC", "Moscow", "London"],
-				keywords: "experience design, narrative, physical and digital environments",
-			},
-			"Manifold": {
-				link: "https://www.wearemanifold.com/",
-				locations: ["San Francisco", "LA", "Portland"],
-				keywords: "we hire smart people and get out of their way",
-			},
-			"Map": {
-				link: "http://mapprojectoffice.com/",
-				locations: ["London"],
-				keywords: "industrial designers who believe great design can solve problems",
-			},
-			"Marshmallow Laser Feast": {
-				link: "https://www.marshmallowlaserfeast.com/",
-				locations: ["London"],
-				keywords: "leaving a slug trail of sensory nuggets as we journey through the cosmos",
-			},
-			"Midnight Commercial": {
-				link: "http://midnightcommercial.com/",
-				locations: ["NYC"],
-				keywords: "unite the disparate digital and physical worlds",
-			},
-			"MindBuffer": {
-				link: "https://mindbuffer.net/",
-				locations: ["Berlin"],
-				keywords: "audiovisual research and digital design studio",
-			},
-			"Moment Factory": {
-				link: "https://momentfactory.com/home",
-				locations: ["Montreal", "LA", "London", "Tokyo", "Paris", "NYC"],
-				keywords: "shows, destinations, content, interactive, scenography",
-			},
-			"Motse": {
-				link: "https://www.behance.net/motseart/projects",
-				locations: ["Shenzhen"],
-				keywords: "digital art",
 			},
 			"MSCHF": {
+				keywords: "viral stunts and products, trying to do stuff that the world can't even define",
 				link: "https://mschf.xyz/",
 				locations: ["NYC"],
-				keywords: "viral stunts and products, trying to do stuff that the world can't even define",
-			},
-			"NeoPangea": {
-				link: "https://www.neopangea.com/",
-				locations: ["Reading, PA"],
-				keywords: "microsites, games, VR/AR, digital, social",
-			},
-			"NGX Interactive": {
-				link: "https://ngxinteractive.com/",
-				locations: ["Vancouver"],
-				keywords: "pushing new technologies to create experiences that are vivid and meaningful",
-			},
-			"Night Kitchen": {
-				link: "https://www.whatscookin.com/",
-				locations: ["Philadelphia"],
-				keywords: "dynamic digital experiences, online exhibitions, digital strategy, storytelling",
-			},
-			"Nowhere": {
-				link: "https://studionowhere.com/",
-				locations: ["Shanghai"],
-				keywords: "marketing events, interactive experiences",
-			},
-			"Oat Foundry": {
-				link: "https://www.oatfoundry.com/",
-				locations: ["Philadelphia"],
-				keywords: "split-flap displays, electromechanical stuff, think tank, products, experiences",
-			},
-			"Onformative": {
-				link: "https://onformative.com/",
-				locations: ["Berlin"],
-				keywords:
-					"studio for digital art and design, challenge the boundaries between art and design and technology",
-			},
-			"Optimist": {
-				link: "https://optimistinc.com/",
-				locations: ["LA", "NYC", "London", "Amsterdam", "Hamburg", "Berlin", "Prague"],
-				keywords:
-					"architects of subculture, creative, design, strategy, production, content, brand experience",
-			},
-			"Patten Studio": {
-				link: "https://www.pattenstudio.com/",
-				locations: ["NYC"],
-				keywords: "informed by research at the MIT Media Lab, experiences that connect people",
-			},
-			"Potion Design": {
-				link: "https://www.potiondesign.com/",
-				locations: ["NYC"],
-				keywords: "design and technology studio, interactive, musuems",
-			},
-			"pretty bloody simple": {
-				link: "https://www.prettybloodysimple.com",
-				locations: ["Munich"],
-				keywords: "interactive experiences, analog and digital, musuems",
-			},
-			"Rare Volume": {
-				link: "https://rarevolume.com/",
-				locations: ["NYC"],
-				keywords: "design and technology studio, interactive video walls",
-			},
-			"Red Paper Heart": {
-				link: "https://redpaperheart.com",
-				locations: ["NYC"],
-				keywords: "art from real world interaction",
-			},
-			"Relative Scale": {
-				link: "https://relativescale.com/",
-				locations: ["Raleigh"],
-				keywords: "bespoke digital products and experiences for brands and institutions",
-			},
-			"The Lab at Rockwell Group": {
-				link: "https://www.labatrockwellgroup.com",
-				locations: ["NYC"],
-				keywords: "architecture and design, branded experiences, immersive environments, pop ups",
-			},
-			"Rosie Lee Creative": {
-				link: "https://rosieleecreative.com/",
-				locations: ["London", "Amsterdam", "NYC"],
-				keywords: "design, creative, digital and consultancy",
-			},
-			"Second Story": {
-				link: "https://secondstory.com/",
-				locations: ["Atlanta", "Portland", "NYC"],
-				keywords: "exhibition, interactive, software, experience, hardware, VR, AR, projection",
-			},
-			"Seeeklab": {
-				link: "https://www.seeeklab.com/en/",
-				locations: ["Xiamen"],
-				keywords: "marketing events, interactive installation",
-			},
-			"SOSO": {
-				link: "https://www.sosolimited.com/about/",
-				locations: ["Boston", "San Diego"],
-				keywords:
-					"delivering real human impact across physical and virtual space, placemaking and storytelling",
-			},
-			"space150": {
-				link: "https://www.space150.com/",
-				locations: ["Minneapolis", "LA", "NYC"],
-				keywords: "a tech-driven creative agency",
-			},
-			"Staat": {
-				link: "https://www.staat.com/",
-				locations: ["Amsterdam"],
-				keywords:
-					"branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail",
-			},
-			"Stimulant": {
-				link: "https://stimulant.com/",
-				locations: ["San Francisco"],
-				keywords:
-					"experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications",
-			},
-			"StoreyStudio": {
-				link: "https://www.storeystudio.com/",
-				locations: ["London"],
-				keywords: "spatial design, set design, window displays, moving image",
-			},
-			"Studio Black": {
-				link: "https://www.studioblack.org/",
-				locations: ["LA", "NYC"],
-				keywords: "technical production, design advisory, content management, digital content",
-			},
-			"S1T2": {
-				link: "https://s1t2.com/",
-				locations: ["Sydney", "Melbourne", "Shanghai"],
-				keywords:
-					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
-			},
-			"TAD": {
-				link: "https://technologyarchitecturedesign.com/",
-				locations: ["NYC", "London"],
-				keywords: "digital experiences, technology and architecture, designed to inspire people.",
-			},
-			"Team Epiphany": {
-				link: "https://www.teamepiphany.com/",
-				locations: ["NYC", "LA"],
-				keywords: "influencer marketing, IRL, vertical integration",
-			},
-			"Tellart": {
-				link: "https://www.tellart.com/",
-				locations: ["Providence", "Amsterdam", "San Francisco"],
-				keywords:
-					"transformative experiences, invention, physical & digital experiences, new technologies",
-			},
-			"The Gathery": {
-				link: "http://www.thegathery.com/",
-				locations: ["NYC"],
-				keywords:
-					"editorially-born creative agency specializing in brand marketing and content creation",
-			},
-			"The Projects": {
-				link: "http://theprojects.com/",
-				locations: ["London", "LA", "NYC", "Sydney"],
-				keywords: "brand consultancy, meaningful experiences, tell stories",
-			},
-			"Two Goats": {
-				link: "https://www.twogoats.us/",
-				locations: ["NYC", "LA", "London"],
-				keywords: "AR, interactive branded experiences",
-			},
-			"Trivium Interactive": {
-				link: "https://www.triviuminteractive.com/",
-				locations: ["Boston"],
-				keywords: "experience design and production",
-			},
-			"UNIT9": {
-				link: "https://www.unit9.com/",
-				locations: ["London", "LA", "NYC", "Berlin"],
-				keywords:
-					"innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors",
-			},
-			"Unified Field": {
-				link: "https://www.unifiedfield.com/",
-				locations: ["NYC"],
-				keywords:
-					"content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces",
-			},
-			"Upswell": {
-				link: "https://hello-upswell.com/",
-				locations: ["Portland"],
-				keywords: "digital and physical content first experiences",
-			},
-			"VTProDesign": {
-				link: "https://vtprodesign.com/",
-				locations: ["LA"],
-				keywords: "high tech robotics and projection mapping",
-			},
-			"VVOX": {
-				link: "https://volvoxlabs.com/",
-				locations: ["NYC", "LA"],
-				keywords: "high-end design, code, fabrication, sound",
-			},
-			"Wonderlabs": {
-				link: "https://www.wonderlabsstudio.com/",
-				locations: ["Shanghai"],
-				keywords: "marketing events, interactive installation",
-			},
-			"XORXOR": {
-				link: "https://www.xorxor.hu",
-				locations: ["Budapest"],
-				keywords:
-					"collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design",
-			},
-			"Yellow Studio": {
-				link: "https://yellowstudio.com/",
-				locations: ["NYC"],
-				keywords: "artistically-minded design, tv/concert/event production design, set design",
-			},
-			"Adirondack Studios": {
-				link: "https://www.adkstudios.com/",
-				locations: ["Glens Falls, NY", "Dubai", "Orlando", "Shanghai", "LA", "Singapore"],
-				keywords: "concept, schematic, design, construction, fabrication, installation, support",
-			},
-			"Charcoalblue": {
-				link: "https://www.charcoalblue.com/",
-				locations: ["NYC", "Melbourne", "Chicago", "UK", "London"],
-				keywords: "amazing spaces where stories are told and experiences are shared",
-			},
-			"Hettema Group": {
-				link: "https://thehettemagroup.com/",
-				locations: ["LA"],
-				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
-			},
-			"Jason Sherwood Design": {
-				link: "https://jasonsherwooddesign.com/",
-				locations: ["NYC"],
-				keywords: "television and broadway and concert stage design",
-			},
-			"We're Magnetic": {
-				link: "https://weremagnetic.com/",
-				locations: ["NYC", "London", "LA"],
-				keywords: "immersive, authentic, culturally relevant experiences",
-				closureReason: "COVID-19",
-			},
-			"Fake Love (New York Times)": {
-				link: "https://www.nytco.com/products/fake-love/",
-				locations: ["NYC"],
-				keywords: "experiential design, real emotional connections, marketing",
-				closureReason: "COVID-19",
 			},
 			"Magnopus": {
+				keywords: "unite the physical and digital worlds with extraordinary experiences",
 				link: "https://www.magnopus.com/",
 				locations: ["LA", "London"],
-				keywords: "unite the physical and digital worlds with extraordinary experiences",
 			},
-			"Code and Theory": {
-				link: "https://www.codeandtheory.com/",
-				locations: ["NYC", "San Francisco", "London", "Manila"],
-				keywords:
-					"strategically driven, digital-first agency that lives at the intersection of creativity and technology",
+			"Manifold": {
+				keywords: "we hire smart people and get out of their way",
+				link: "https://www.wearemanifold.com/",
+				locations: ["San Francisco", "LA", "Portland"],
 			},
-			"Tool": {
-				link: "https://www.toolofna.com/",
-				locations: ["LA"],
-				keywords:
-					"help brands and agencies with ideation, content, and experience production that generate buzz",
+			"Map": {
+				keywords: "industrial designers who believe great design can solve problems",
+				link: "http://mapprojectoffice.com/",
+				locations: ["London"],
 			},
-			"Thinkwell": {
-				link: "https://thinkwellgroup.com/",
-				locations: ["LA", "Montreal", "Abu Dhabi", "Riyadh"],
-				keywords:
-					"strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos",
+			"Marshmallow Laser Feast": {
+				keywords: "leaving a slug trail of sensory nuggets as we journey through the cosmos",
+				link: "https://www.marshmallowlaserfeast.com/",
+				locations: ["London"],
 			},
-			"mycotoo": {
-				link: "https://mycotoo.com/",
-				locations: ["LA", "Barcelona"],
-				keywords:
-					"entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide",
+			"Midnight Commercial": {
+				keywords: "unite the disparate digital and physical worlds",
+				link: "http://midnightcommercial.com/",
+				locations: ["NYC"],
 			},
-			"NCompass": {
-				link: "https://ncompassonline.com/",
-				locations: ["LA"],
-				keywords:
-					"brand and marketing solutions creating experiences that integrate the latest technology and creative",
+			"MindBuffer": {
+				keywords: "audiovisual research and digital design studio",
+				link: "https://mindbuffer.net/",
+				locations: ["Berlin"],
+			},
+			"Moment Factory": {
+				keywords: "shows, destinations, content, interactive, scenography",
+				link: "https://momentfactory.com/home",
+				locations: ["Montreal", "LA", "London", "Tokyo", "Paris", "NYC"],
 			},
 			"Momentum Worldwide": {
+				keywords:
+					"disruptive, entertaining, shareable, unforgettable experiences for clients and their fans",
 				link: "https://www.momentumww.com/",
 				locations: [
 					"NYC",
@@ -579,57 +346,294 @@ const list: List = [
 					"Toronto",
 					"Tokyo",
 				],
-				keywords:
-					"disruptive, entertaining, shareable, unforgettable experiences for clients and their fans",
 			},
-			"Superfly": {
-				link: "https://superf.ly/",
+			"Motse": {
+				keywords: "digital art",
+				link: "https://www.behance.net/motseart/projects",
+				locations: ["Shenzhen"],
+			},
+			"NCompass": {
+				keywords:
+					"brand and marketing solutions creating experiences that integrate the latest technology and creative",
+				link: "https://ncompassonline.com/",
+				locations: ["LA"],
+			},
+			"NGX Interactive": {
+				keywords: "pushing new technologies to create experiences that are vivid and meaningful",
+				link: "https://ngxinteractive.com/",
+				locations: ["Vancouver"],
+			},
+			"NeoPangea": {
+				keywords: "microsites, games, VR/AR, digital, social",
+				link: "https://www.neopangea.com/",
+				locations: ["Reading, PA"],
+			},
+			"Night Kitchen": {
+				keywords: "dynamic digital experiences, online exhibitions, digital strategy, storytelling",
+				link: "https://www.whatscookin.com/",
+				locations: ["Philadelphia"],
+			},
+			"Nowhere": {
+				keywords: "marketing events, interactive experiences",
+				link: "https://studionowhere.com/",
+				locations: ["Shanghai"],
+			},
+			"Oat Foundry": {
+				keywords: "split-flap displays, electromechanical stuff, think tank, products, experiences",
+				link: "https://www.oatfoundry.com/",
+				locations: ["Philadelphia"],
+			},
+			"Onformative": {
+				keywords:
+					"studio for digital art and design, challenge the boundaries between art and design and technology",
+				link: "https://onformative.com/",
+				locations: ["Berlin"],
+			},
+			"Optimist": {
+				keywords:
+					"architects of subculture, creative, design, strategy, production, content, brand experience",
+				link: "https://optimistinc.com/",
+				locations: ["LA", "NYC", "London", "Amsterdam", "Hamburg", "Berlin", "Prague"],
+			},
+			"Patten Studio": {
+				keywords: "informed by research at the MIT Media Lab, experiences that connect people",
+				link: "https://www.pattenstudio.com/",
 				locations: ["NYC"],
-				keywords: "create shared experiences that shape how the world plays & connects",
 			},
-			"We Are Royale": {
-				link: "https://weareroyale.com/",
-				locations: ["LA", "Seattle"],
-				keywords:
-					"frontlines of design & technology to arm brands with the creative to turn audiences into advocates",
-			},
-			"m ss ng p eces": {
-				link: "https://mssngpeces.com/",
-				locations: ["NYC", "LA"],
-				keywords:
-					"new wave production and entertainment partner for content and immersive experiences that inspire culture",
-			},
-			"Studio Elsewhere": {
-				link: "https://www.studioelsewhere.co/",
+			"Potion Design": {
+				keywords: "design and technology studio, interactive, musuems",
+				link: "https://www.potiondesign.com/",
 				locations: ["NYC"],
-				keywords: "bio-experiential design and technology to support brain health",
 			},
-			"Ada": {
-				link: "https://a-da.co/",
+			"Rare Volume": {
+				keywords: "design and technology studio, interactive video walls",
+				link: "https://rarevolume.com/",
 				locations: ["NYC"],
-				keywords:
-					"experience innovation and design agency that partners with the world's most ambitious visionaries and brands in the culture, arts and social impact space",
 			},
+			"Red Paper Heart": {
+				keywords: "art from real world interaction",
+				link: "https://redpaperheart.com",
+				locations: ["NYC"],
+			},
+			"Relative Scale": {
+				keywords: "bespoke digital products and experiences for brands and institutions",
+				link: "https://relativescale.com/",
+				locations: ["Raleigh"],
+			},
+			"Rosie Lee Creative": {
+				keywords: "design, creative, digital and consultancy",
+				link: "https://rosieleecreative.com/",
+				locations: ["London", "Amsterdam", "NYC"],
+			},
+			"Second Story": {
+				keywords: "exhibition, interactive, software, experience, hardware, VR, AR, projection",
+				link: "https://secondstory.com/",
+				locations: ["Atlanta", "Portland", "NYC"],
+			},
+			"Seeeklab": {
+				keywords: "marketing events, interactive installation",
+				link: "https://www.seeeklab.com/en/",
+				locations: ["Xiamen"],
+			},
+			"SOSO": {
+				link: "https://www.sosolimited.com/about/",
+				locations: ["Boston", "San Diego"],
+				keywords:
+					"delivering real human impact across physical and virtual space, placemaking and storytelling",
+			},
+			"space150": {
+				link: "https://www.space150.com/",
+				locations: ["Minneapolis", "LA", "NYC"],
+				keywords: "a tech-driven creative agency",
 			"Special Projects": {
-				link: "https://specialprojects.studio/",
-				locations: ["London"],
 				keywords:
 					"design and innovation agency that reveals user needs and transforms them into experiences and products",
+				link: "https://specialprojects.studio/",
+				locations: ["London"],
 			},
-			"Acrylicize": {
-				link: "https://www.acrylicize.com/",
-				locations: ["London", "NYC", "Seattle"],
-				keywords: "harness the power of art and creativity to help people fall in love with spaces",
+			"Spectacle": {
+				keywords: "expertise in fabricating experiences that drive engagement and wow participants",
+				link: "https://spectacle.works/",
+				locations: ["Phoenix"],
 			},
-			"Bluecadet": {
-				link: "https://www.bluecadet.com/",
-				locations: ["Philadelphia", "NYC"],
-				keywords: "digital products and environments",
+			"Staat": {
+				keywords:
+					"branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail",
+				link: "https://www.staat.com/",
+				locations: ["Amsterdam"],
 			},
-			"IMG SRC": {
-				link: "https://www.imgsrc.co.jp/",
-				locations: ["Tokyo"],
-				keywords: "full-service communication agency focusing on websites, installations, and R&D",
+			"Stimulant": {
+				keywords:
+					"experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications",
+				link: "https://stimulant.com/",
+				locations: ["San Francisco"],
+			},
+			"StoreyStudio": {
+				keywords: "spatial design, set design, window displays, moving image",
+				link: "https://www.storeystudio.com/",
+				locations: ["London"],
+			},
+			"Studio Black": {
+				keywords: "technical production, design advisory, content management, digital content",
+				link: "https://www.studioblack.org/",
+				locations: ["LA", "NYC"],
+			},
+			"Studio Elsewhere": {
+				keywords: "bio-experiential design and technology to support brain health",
+				link: "https://www.studioelsewhere.co/",
+				locations: ["NYC"],
+			},
+			"Superfly": {
+				keywords: "create shared experiences that shape how the world plays & connects",
+				link: "https://superf.ly/",
+				locations: ["NYC"],
+			},
+			"S1T2": {
+				link: "https://s1t2.com/",
+				locations: ["Sydney", "Melbourne", "Shanghai"],
+				keywords:
+					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
+			},
+			"TAD": {
+				link: "https://technologyarchitecturedesign.com/",
+				locations: ["NYC", "London"],
+				keywords: "digital experiences, technology and architecture, designed to inspire people.",
+			},
+			"Team Epiphany": {
+				keywords: "influencer marketing, IRL, vertical integration",
+				link: "https://www.teamepiphany.com/",
+				locations: ["NYC", "LA"],
+			},
+			"Tellart": {
+				keywords:
+					"transformative experiences, invention, physical & digital experiences, new technologies",
+				link: "https://www.tellart.com/",
+				locations: ["Providence", "Amsterdam", "San Francisco"],
+			},
+			"The Gathery": {
+				keywords:
+					"editorially-born creative agency specializing in brand marketing and content creation",
+				link: "http://www.thegathery.com/",
+				locations: ["NYC"],
+			},
+			"The Lab at Rockwell Group": {
+				keywords: "architecture and design, branded experiences, immersive environments, pop ups",
+				link: "https://www.labatrockwellgroup.com",
+				locations: ["NYC"],
+			},
+			"The Projects": {
+				keywords: "brand consultancy, meaningful experiences, tell stories",
+				link: "http://theprojects.com/",
+				locations: ["London", "LA", "NYC", "Sydney"],
+			},
+			"Thinkwell": {
+				keywords:
+					"strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos",
+				link: "https://thinkwellgroup.com/",
+				locations: ["LA", "Montreal", "Abu Dhabi", "Riyadh"],
+			},
+			"Tool": {
+				keywords:
+					"help brands and agencies with ideation, content, and experience production that generate buzz",
+				link: "https://www.toolofna.com/",
+				locations: ["LA"],
+			},
+			"Trivium Interactive": {
+				keywords: "experience design and production",
+				link: "https://www.triviuminteractive.com/",
+				locations: ["Boston"],
+			},
+			"Two Goats": {
+				keywords: "AR, interactive branded experiences",
+				link: "https://www.twogoats.us/",
+				locations: ["NYC", "LA", "London"],
+			},
+			"UNIT9": {
+				keywords:
+					"innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors",
+				link: "https://www.unit9.com/",
+				locations: ["London", "LA", "NYC", "Berlin"],
+			},
+			"Unified Field": {
+				keywords:
+					"content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces",
+				link: "https://www.unifiedfield.com/",
+				locations: ["NYC"],
+			},
+			"Upswell": {
+				keywords: "digital and physical content first experiences",
+				link: "https://hello-upswell.com/",
+				locations: ["Portland"],
+			},
+			"VTProDesign": {
+				keywords: "high tech robotics and projection mapping",
+				link: "https://vtprodesign.com/",
+				locations: ["LA"],
+			},
+			"VVOX": {
+				keywords: "high-end design, code, fabrication, sound",
+				link: "https://volvoxlabs.com/",
+				locations: ["NYC", "LA"],
+			},
+			"We Are Royale": {
+				keywords:
+					"frontlines of design & technology to arm brands with the creative to turn audiences into advocates",
+				link: "https://weareroyale.com/",
+				locations: ["LA", "Seattle"],
+			},
+			"We're Magnetic": {
+				closureReason: "COVID-19",
+				keywords: "immersive, authentic, culturally relevant experiences",
+				link: "https://weremagnetic.com/",
+				locations: ["NYC", "London", "LA"],
+			},
+			"Wonderlabs": {
+				keywords: "marketing events, interactive installation",
+				link: "https://www.wonderlabsstudio.com/",
+				locations: ["Shanghai"],
+			},
+			"XORXOR": {
+				keywords:
+					"collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design",
+				link: "https://www.xorxor.hu",
+				locations: ["Budapest"],
+			},
+			"Yellow Studio": {
+				keywords: "artistically-minded design, tv/concert/event production design, set design",
+				link: "https://yellowstudio.com/",
+				locations: ["NYC"],
+			},
+			"dotdotdash": {
+				keywords: "innovation agency that seamlessly blends the physical and digital",
+				link: "https://dotdotdash.io/",
+				locations: ["Portland", "LA", "NYC"],
+			},
+			"fuse": {
+				keywords: "live-media performances, experimentation, electronic music, digital arts",
+				link: "https://www.fuseworks.it/en/",
+				locations: ["Modena, Italy"],
+			},
+			"m ss ng p eces": {
+				keywords:
+					"new wave production and entertainment partner for content and immersive experiences that inspire culture",
+				link: "https://mssngpeces.com/",
+				locations: ["NYC", "LA"],
+			},
+			"mycotoo": {
+				keywords:
+					"entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide",
+				link: "https://mycotoo.com/",
+				locations: ["LA", "Barcelona"],
+			},
+			"pretty bloody simple": {
+				keywords: "interactive experiences, analog and digital, musuems",
+				link: "https://www.prettybloodysimple.com",
+				locations: ["Munich"],
+			},
+			"space150": {
+				keywords: "a tech-driven creative agency",
+				link: "https://www.space150.com/",
+				locations: ["Minneapolis", "LA", "NYC"],
 			},
 		},
 	},
@@ -676,6 +680,12 @@ const list: List = [
 				keywords:
 					"full-room interactive projection mapping, interdisciplinary group of ultratechnologists",
 			},
+			"Taller Estampa": {
+				link: "https://www.tallerestampa.com",
+				locations: ["Barcelona"],
+				keywords:
+					"group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.",
+			},
 			"United Visual Artists": {
 				link: "https://www.uva.co.uk/",
 				locations: ["London"],
@@ -702,6 +712,11 @@ const list: List = [
 				link: "https://www.29rooms.com/",
 				locations: ["USA"],
 				keywords: "multi-sensory installations, performances, and workshops",
+			},
+			"Cascade": {
+				link: "https://cascadeshow.com/",
+				locations: ["LA"],
+				keywords: "interactive art experience",
 			},
 			"Color Factory": {
 				link: "https://www.colorfactory.co/",
@@ -888,6 +903,11 @@ const list: List = [
 				],
 				keywords: "business, experience, and marketing transformation",
 			},
+			"SuperUber": {
+				link: "https://www.superuber.com/",
+				locations: ["Rio de Janeiro", "São Paulo"],
+				keywords: "experiences that blend art, technology, architecture and design",
+			},
 			"The Mill": {
 				link: "https://www.themill.com/",
 				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
@@ -957,6 +977,63 @@ const list: List = [
 				link: "https://www.thincdesign.com/",
 				locations: ["NYC"],
 				keywords: "provoke meaningful conversations about the world in which we live",
+			},
+		},
+	},
+	{
+		title: "Festivals & Conferences",
+		description: "Meetups for creative technologists.",
+		rows: {
+			Eyeo: {
+				link: "https://www.eyeofestival.com/",
+				locations: ["Melbourne"],
+				keywords: "a gathering for the creative technology community",
+			},
+			ISEA: {
+				link: "https://isea2022.isea-international.org/",
+				locations: ["Barcelona", "Paris"],
+				keywords: "the crossroads where art, design, science, technology and society meet",
+			},
+			SXSW: {
+				link: "https://www.sxsw.com/",
+				locations: ["Austin"],
+				keywords: "film, music, interactive arts",
+			},
+		},
+	},
+	{
+		title: "Education",
+		description:
+			"Undergrad programs, masters and open course teaching and researching creative technologies",
+		rows: {
+			"ITP": {
+				link: "https://tisch.nyu.edu/itp",
+				locations: ["NYC"],
+				keywords:
+					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
+			},
+			"Goldsmiths": {
+				link: "https://www.gold.ac.uk/pg/ma-computational-arts/",
+				locations: ["London"],
+				keywords:
+					"a degree which develops your arts practice through the expressive world of creative computation",
+			},
+			"MIT Medialab": {
+				link: "https://media.mit.edu/",
+				locations: ["Boston"],
+				keywords:
+					"art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration",
+			},
+			"Paris College of Art": {
+				link: "https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/",
+				locations: ["Paris"],
+				keywords:
+					"designed for those who are interested in exploring the wide-ranging creative field of New Media",
+			},
+			"University of the Arts": {
+				link: "https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing",
+				locations: ["London"],
+				keywords: "computational technologies in the context of creative computing research",
 			},
 		},
 	},
