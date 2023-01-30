@@ -117,7 +117,7 @@ const list: List = [
 				locations: ["London"],
 			},
 			"Cybermancers": {
-				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
+				keywords: "blockchain, 3d/XR experiences, art generators, creative coding",
 				link: "https://cybermancers.ca/",
 				locations: ["Canada"],
 			},
