@@ -116,6 +116,11 @@ const list: List = [
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
 			},
+			"Cybermancers": {
+				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
+				link: "https://cybermancers.ca/",
+				locations: ["Canada"],
+			},
 			"Deeplocal": {
 				keywords: "creative engineers, inventors, interactive experiences, human stories",
 				link: "https://www.deeplocal.com/",
