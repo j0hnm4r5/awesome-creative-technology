@@ -33,14 +33,7 @@ export function generateReadme(list: List) {
 
 				const linkedName = `[**${group}**](${link})`;
 
-				const locationsString = locations
-					.map(
-						(loc) =>
-							`![${loc}](https://img.shields.io/badge/-${encodeURIComponent(
-								loc
-							)}-lightgrey?style=flat)`
-					)
-					.join(" ");
+				const locationsString = locations.map((loc) => `[${loc}]`).join(" ");
 
 				const upImage = `![](https://img.shields.io/website?down_color=%2300000000&down_message=%E2%9D%8C&label=%20&style=flat-square&up_color=%2300000000&up_message=%F0%9F%8C%90&url=${encodeURIComponent(
 					link
