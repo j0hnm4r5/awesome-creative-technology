@@ -61,6 +61,11 @@ const list: List = [
 				link: "https://wearebarbarian.com/",
 				locations: ["NYC"],
 			},
+			"Beaudry Interactive": {
+				link: "https://www.binteractive.com/",
+				locations: ["LA"],
+				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
+			},
 			"Blackbow": {
 				keywords: "projection mapping, digital art and cultural experiences",
 				link: "https://www.blackbow.cn/",
@@ -126,6 +131,12 @@ const list: List = [
 					"immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space",
 				link: "https://www.design-io.com/",
 				locations: ["NYC", "San Francisco"],
+			},
+			"Dome": {
+				link: "http://www.domecollective.com",
+				locations: ["NYC"],
+				keywords:
+					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
 			},
 			"Digifun": {
 				keywords: "projection mapping, new media art education",
@@ -228,6 +239,12 @@ const list: List = [
 				link: "https://www.imgsrc.co.jp/",
 				locations: ["Tokyo"],
 			},
+			"Intergalactic": {
+				link: "https://intergalactic.com",
+				locations: ["Vancouver", "London"],
+				keywords:
+					"mobile apps, interactive screens, web development, application design and visualization",
+			},
 			"Invisible North": {
 				keywords: "culturally fluent, thoughtful experiences, bring brands to life",
 				link: "https://www.invisiblenorth.com/",
@@ -242,6 +259,11 @@ const list: List = [
 				keywords: "television and broadway and concert stage design",
 				link: "https://jasonsherwooddesign.com/",
 				locations: ["NYC"],
+			},
+			"Left Field Labs": {
+				link: "https://www.leftfieldlabs.com/",
+				locations: ["LA"],
+				keywords: "products, platforms, and services that solve fundamental human challenges",
 			},
 			"Listen": {
 				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
@@ -413,6 +435,17 @@ const list: List = [
 				link: "https://www.seeeklab.com/en/",
 				locations: ["Xiamen"],
 			},
+			"SOSO": {
+				link: "https://www.sosolimited.com/",
+				locations: ["Boston", "San Diego"],
+				keywords:
+					"delivering real human impact across physical and virtual space, placemaking and storytelling",
+			},
+			"space150": {
+				link: "https://www.space150.com/",
+				locations: ["Minneapolis", "LA", "NYC"],
+				keywords: "a tech-driven creative agency",
+			},
 			"Special Projects": {
 				keywords:
 					"design and innovation agency that reveals user needs and transforms them into experiences and products",
@@ -455,6 +488,17 @@ const list: List = [
 				keywords: "create shared experiences that shape how the world plays & connects",
 				link: "https://superf.ly/",
 				locations: ["NYC"],
+			},
+			"S1T2": {
+				link: "https://s1t2.com/",
+				locations: ["Sydney", "Melbourne", "Shanghai"],
+				keywords:
+					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
+			},
+			"TAD": {
+				link: "https://technologyarchitecturedesign.com/",
+				locations: ["NYC", "London"],
+				keywords: "digital experiences, technology and architecture, designed to inspire people.",
 			},
 			"Team Epiphany": {
 				keywords: "influencer marketing, IRL, vertical integration",
@@ -586,11 +630,6 @@ const list: List = [
 				keywords: "interactive experiences, analog and digital, musuems",
 				link: "https://www.prettybloodysimple.com",
 				locations: ["Munich"],
-			},
-			"space150": {
-				keywords: "a tech-driven creative agency",
-				link: "https://www.space150.com/",
-				locations: ["Minneapolis", "LA", "NYC"],
 			},
 		},
 	},
@@ -883,6 +922,12 @@ const list: List = [
 				locations: ["Melbourne"],
 				keywords: "specialist interactive media and exhibition design",
 			},
+			"Cortina Productions": {
+				link: "https://www.cortinaproductions.com/",
+				locations: ["McLean, VA"],
+				keywords:
+					"artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.",
+			},
 			"Exploratorium": {
 				link: "https://www.exploratorium.edu/",
 				locations: ["San Francisco"],
@@ -912,6 +957,11 @@ const list: List = [
 				link: "https://monadnock.org/",
 				locations: ["Massachusetts"],
 				keywords: "multimedia experiences for museums, historic sites and public places",
+			},
+			"Northern Light Productions": {
+				link: "https://nlprod.com/",
+				locations: ["Boston"],
+				keywords: "immersive media environments, interactive experiences, or documentary films.",
 			},
 			"Roto": {
 				link: "https://roto.com/",
