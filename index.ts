@@ -638,7 +638,7 @@ const list: List = [
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
-			"Cuttefish": {
+			"The Cuttelfish": {
 				link: "https://www.thecuttlefish.com/",
 				locations: ["USA"],
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
