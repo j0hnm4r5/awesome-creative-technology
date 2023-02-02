@@ -484,6 +484,11 @@ const list: List = [
 				link: "https://www.studioelsewhere.co/",
 				locations: ["NYC"],
 			},
+			"Super A-OK": {
+				keywords: "A multi-modal service bureau for the 21st century, fabrication, electronics",
+				link: "https://superaok.com/",
+				locations: ["NYC"],
+			},
 			"Superfly": {
 				keywords: "create shared experiences that shape how the world plays & connects",
 				link: "https://superf.ly/",
@@ -747,6 +752,11 @@ const list: List = [
 				locations: ["NYC"],
 				keywords: "full-service fabrication, production, install",
 			},
+			"Gamma": {
+				link: "https://gamma.nyc/",
+				locations: ["NYC"],
+				keywords: "large scale robotic cnc, install, sculptures",
+			},
 			"Pink Sparrow": {
 				link: "https://www.pinksparrow.com/",
 				locations: ["NYC", "LA"],
@@ -846,6 +856,12 @@ const list: List = [
 				link: "https://andwalsh.com/",
 				locations: ["NYC"],
 				keywords: "brand strategy, art direction, design and production across all platforms",
+			},
+			"BUCK": {
+				link: "https://buck.co/",
+				locations: ["LA", "NYC", "Sydney", "Amsterdam"],
+				keywords:
+					"VR, AR, installation, real-time animation, 3D, experiential",
 			},
 			"Framestore": {
 				link: "https://www.framestore.com/",
