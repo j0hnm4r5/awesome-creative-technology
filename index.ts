@@ -860,8 +860,7 @@ const list: List = [
 			"BUCK": {
 				link: "https://buck.co/",
 				locations: ["LA", "NYC", "Sydney", "Amsterdam"],
-				keywords:
-					"VR, AR, installation, real-time animation, 3D, experiential",
+				keywords: "VR, AR, installation, real-time animation, 3D, experiential",
 			},
 			"Framestore": {
 				link: "https://www.framestore.com/",
