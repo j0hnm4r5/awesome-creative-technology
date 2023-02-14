@@ -257,7 +257,7 @@ const list: List = [
 			},
 			"Jason Sherwood Design": {
 				keywords: "television and broadway and concert stage design",
-				link: "https://jasonsherwooddesign.com/",
+				link: "http://jasonsherwooddesign.com/",
 				locations: ["NYC"],
 			},
 			"Left Field Labs": {
