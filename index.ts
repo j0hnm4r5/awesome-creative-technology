@@ -491,7 +491,7 @@ const list: List = [
 			},
 			"SUPERBIEN": {
 				keywords: "Creative studio for visually extended experiences, merging digital & physical environments.",
-				link: "https://wwww.superbien.studio",
+				link: "https://www.superbien.studio",
 				locations: ["Paris", "NYC", "Dubai"],
 			},
 			"Superfly": {
