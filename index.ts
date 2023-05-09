@@ -377,6 +377,11 @@ const list: List = [
 				link: "https://studionowhere.com/",
 				locations: ["Shanghai"],
 			},
+			"OIO": {
+				keywords: "creative company working on future products and tools for a less boring future",
+				link: "https://oio.studio/",
+				locations: ["London"],
+			},
 			"Oat Foundry": {
 				keywords: "split-flap displays, electromechanical stuff, think tank, products, experiences",
 				link: "https://www.oatfoundry.com/",
