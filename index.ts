@@ -62,11 +62,6 @@ const list: List = [
 				link: "https://wearebarbarian.com/",
 				locations: ["NYC"],
 			},
-			"Domestic Data Streamers": {
-				keywords: "fighting indifference towards data",
-				link: "https://domesticstreamers.com/",
-				locations: ["Barcelona"],
-			},
 			"Beaudry Interactive": {
 				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 				link: "https://www.binteractive.com/",
@@ -132,6 +127,11 @@ const list: List = [
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
+			},
+			"Domestic Data Streamers": {
+				keywords: "fighting indifference towards data",
+				link: "https://domesticstreamers.com/",
+				locations: ["Barcelona"],
 			},
 			"DE-YAN": {
 				keywords:
@@ -673,14 +673,14 @@ const list: List = [
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
-			"Hypersonic": {
-				keywords: "groundbreaking new media sculptures and physical installations",
-				link: "https://www.hypersonic.cc/",
-				locations: ["NYC"],
-			},
 			"Dave + Gabe": {
 				keywords: "interactive installation studio, real-time animation, generative 3D sound",
 				link: "https://www.daveandgabe.care/",
+				locations: ["NYC"],
+			},
+			"Hypersonic": {
+				keywords: "groundbreaking new media sculptures and physical installations",
+				link: "https://www.hypersonic.cc/",
 				locations: ["NYC"],
 			},
 			"NONOTAK Studio": {
@@ -999,6 +999,40 @@ const list: List = [
 					"experience makers, media and brand activation, innovative design, and inventive technologies",
 				link: "https://www.themill.com/",
 				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
+			},
+			"Weber Shandwick": {
+				keywords:
+					"we work at the intersection of technology, society, policy and media, adding value to culture — to shape and re-shape it",
+				link: "https://www.webershandwick.com/",
+				locations: [
+					"Atlanta",
+					"Baltimore",
+					"Bogotá",
+					"Boston",
+					"Brasilia",
+					"Buenos Aires",
+					"Buffalo",
+					"Chicago",
+					"Dallas",
+					"Detroit",
+					"Lima",
+					"LA",
+					"Mexico City",
+					"Minneapolis",
+					"Montreal",
+					"Nashville, TN",
+					"NYC",
+					"Philadelphia",
+					"Rio de Janeiro",
+					"SF",
+					"Santiago",
+					"Seattle",
+					"St. Louis",
+					"São Paulo",
+					"Toronto",
+					"Vancouver",
+					"DC",
+				],
 			},
 		},
 	},
