@@ -117,12 +117,6 @@ const list: List = [
 				link: "https://cognitionlabs.io/",
 				locations: ["LA"],
 			},
-			"DE-YAN": {
-				keywords:
-					"creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle",
-				link: "https://de-yan.com/",
-				locations: ["NYC"],
-			},
 			"Comuzi": {
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.comuzi.xyz/",
