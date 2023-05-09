@@ -673,6 +673,11 @@ const list: List = [
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
+			"Hypersonic": {
+				keywords: "groundbreaking new media sculptures and physical installations",
+				link: "https://www.hypersonic.cc/",
+				locations: ["NYC"],
+			},
 			"Dave + Gabe": {
 				keywords: "interactive installation studio, real-time animation, generative 3D sound",
 				link: "https://www.daveandgabe.care/",
