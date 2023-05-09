@@ -3,6 +3,8 @@ import { List } from "./types";
 
 const list: List = [
 	{
+		title: "Creative Technology",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		rows: {
 			"1024 Architecture": {
 				keywords: "architectural and digital works, orchestrated sound and light scores",
@@ -659,9 +661,10 @@ const list: List = [
 				locations: ["Minneapolis", "LA", "NYC"],
 			},
 		},
-		title: "Creative Technology",
 	},
 	{
+		title: "Collectives & Practices",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
@@ -726,9 +729,10 @@ const list: List = [
 				locations: ["Tokyo"],
 			},
 		},
-		title: "Collectives & Practices",
 	},
 	{
+		title: "Experiential Spaces & Experiences",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description: "Groups that create experential spaces & experiences full of creative technology.",
 		rows: {
 			"29 Rooms (Vice Media Group)": {
@@ -764,9 +768,10 @@ const list: List = [
 				locations: ["NYC", "LA", "London", "Paris"],
 			},
 		},
-		title: "Experiential Spaces & Experiences",
 	},
 	{
+		title: "Fabricators",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description: "Groups that mostly fabricate pieces for creative technology companies.",
 		rows: {
 			"Bednark": {
@@ -790,9 +795,10 @@ const list: List = [
 				locations: ["Pittsburgh"],
 			},
 		},
-		title: "Fabricators",
 	},
 	{
+		title: "Event Production",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description:
 			"Groups that specialize in event production, often with a creative technology twist.",
 		rows: {
@@ -832,9 +838,10 @@ const list: List = [
 				],
 			},
 		},
-		title: "Event Production",
 	},
 	{
+		title: "Architecture",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description:
 			"Groups that generally design architecture often incorporating creative technology.",
 		rows: {
@@ -868,9 +875,10 @@ const list: List = [
 				locations: ["London", "NYC"],
 			},
 		},
-		title: "Architecture",
 	},
 	{
+		title: "Creative Agencies",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description:
 			"Groups that are have a more general focus, but have a knack for projects imbued with creative technology.",
 		rows: {
@@ -878,6 +886,41 @@ const list: List = [
 				keywords: "brand strategy, art direction, design and production across all platforms",
 				link: "https://andwalsh.com/",
 				locations: ["NYC"],
+			},
+			"AKQA": {
+				keywords: "the most powerful force in the universe isn’t technology, it’s imagination",
+				link: "https://www.akqa.com/",
+				locations: [
+					"London",
+					"SF",
+					"São Paulo",
+					"Melbourne",
+					"Aarhus",
+					"Miami",
+					"Amsterdam",
+					"Atlanta",
+					"Auckland",
+					"Berlin",
+					"Cairo",
+					"Cape Town",
+					"Copenhagen",
+					"Dubai",
+					"Gothenburg",
+					"Gurgaon",
+					"Johannesburg",
+					"Milan",
+					"NYC",
+					"Paris",
+					"Portland, OR",
+					"Riyadh",
+					"Shanghai",
+					"Stockholm",
+					"Sydney",
+					"Tokyo",
+					"Venice",
+					"DC",
+					"Wellington",
+				],
 			},
 			"BUCK": {
 				keywords: "VR, AR, installation, real-time animation, 3D, experiential",
@@ -948,9 +991,10 @@ const list: List = [
 				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
 			},
 		},
-		title: "Creative Agencies",
 	},
 	{
+		title: "Museums",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description:
 			"Groups that generally focus on designing museums and similar experiences using creative technology.",
 		rows: {
@@ -1012,9 +1056,10 @@ const list: List = [
 				locations: ["NYC"],
 			},
 		},
-		title: "Museums",
 	},
 	{
+		title: "Festivals & Conferences",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description: "Meetups for creative technologists.",
 		rows: {
 			Eyeo: {
@@ -1034,9 +1079,10 @@ const list: List = [
 				locations: ["Austin"],
 			},
 		},
-		title: "Festivals & Conferences",
 	},
 	{
+		title: "Education",
+		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description:
 			"Undergrad programs, masters and open course teaching and researching creative technologies",
 		rows: {
@@ -1070,7 +1116,6 @@ const list: List = [
 				locations: ["London"],
 			},
 		},
-		title: "Education",
 	},
 ];
 
