@@ -62,6 +62,11 @@ const list: List = [
 				link: "https://wearebarbarian.com/",
 				locations: ["NYC"],
 			},
+			"Domestic Data Streamers": {
+				keywords: "fighting indifference towards data",
+				link: "https://domesticstreamers.com/",
+				locations: ["Barcelona"],
+			},
 			"Beaudry Interactive": {
 				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 				link: "https://www.binteractive.com/",
