@@ -60,12 +60,6 @@ const list: List = [
 				link: "https://wearebarbarian.com/",
 				locations: ["NYC"],
 			},
-			"DE-YAN": {
-				keywords:
-					"creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle",
-				link: "https://de-yan.com/",
-				locations: ["NYC"],
-			},
 			"Beaudry Interactive": {
 				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 				link: "https://www.binteractive.com/",
@@ -120,6 +114,12 @@ const list: List = [
 					"an interactive studio designed to enrich experiences by building creative technology with human empathy",
 				link: "https://cognitionlabs.io/",
 				locations: ["LA"],
+			},
+			"DE-YAN": {
+				keywords:
+					"creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle",
+				link: "https://de-yan.com/",
+				locations: ["NYC"],
 			},
 			"Comuzi": {
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
