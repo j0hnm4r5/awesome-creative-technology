@@ -54,7 +54,7 @@ export function generateReadme(list: List) {
 	});
 
 	// create the markdown
-	const md = mustache.render(template, { toc: contentsList, groups: groupsLists.join("\n") });
+	const md = mustache.render(template, { groups: groupsLists.join("\n"), toc: contentsList });
 
 	fs.writeFileSync("readme.md", md);
 }
