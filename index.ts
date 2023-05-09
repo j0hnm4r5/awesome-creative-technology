@@ -60,6 +60,12 @@ const list: List = [
 				link: "https://wearebarbarian.com/",
 				locations: ["NYC"],
 			},
+			"DE-YAN": {
+				keywords:
+					"creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle",
+				link: "https://de-yan.com/",
+				locations: ["NYC"],
+			},
 			"Beaudry Interactive": {
 				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 				link: "https://www.binteractive.com/",
