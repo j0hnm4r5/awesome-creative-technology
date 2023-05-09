@@ -126,6 +126,12 @@ const list: List = [
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
 			},
+			"DE-YAN": {
+				keywords:
+					"creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle",
+				link: "https://de-yan.com/",
+				locations: ["NYC"],
+			},
 			"Deeplocal": {
 				keywords: "creative engineers, inventors, interactive experiences, human stories",
 				link: "https://www.deeplocal.com/",
@@ -1012,9 +1018,10 @@ const list: List = [
 		description: "Meetups for creative technologists.",
 		rows: {
 			Eyeo: {
+				closureReason: "Likely discontinued in 2022",
 				keywords: "a gathering for the creative technology community",
 				link: "https://www.eyeofestival.com/",
-				locations: ["Melbourne"],
+				locations: ["Minneapolis"],
 			},
 			ISEA: {
 				keywords: "the crossroads where art, design, science, technology and society meet",
