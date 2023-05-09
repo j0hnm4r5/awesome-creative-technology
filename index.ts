@@ -128,11 +128,6 @@ const list: List = [
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
 			},
-			"Domestic Data Streamers": {
-				keywords: "fighting indifference towards data",
-				link: "https://domesticstreamers.com/",
-				locations: ["Barcelona"],
-			},
 			"DE-YAN": {
 				keywords:
 					"creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle",
@@ -165,6 +160,11 @@ const list: List = [
 					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
 				link: "http://www.domecollective.com",
 				locations: ["NYC"],
+			},
+			"Domestic Data Streamers": {
+				keywords: "fighting indifference towards data",
+				link: "https://domesticstreamers.com/",
+				locations: ["Barcelona"],
 			},
 			"Downstream": {
 				keywords: "strategy + design + content + technology",
@@ -673,6 +673,12 @@ const list: List = [
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
+			"Brooklyn Research": {
+				keywords:
+					"we build interactive systems for a range of clients including museums, artists, and leading technology firms",
+				link: "https://brooklynresearch.com/",
+				locations: ["NYC"],
+			},
 			"Dave + Gabe": {
 				keywords: "interactive installation studio, real-time animation, generative 3D sound",
 				link: "https://www.daveandgabe.care/",
