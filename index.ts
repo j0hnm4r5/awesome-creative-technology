@@ -3,7 +3,6 @@ import { List } from "./types";
 
 const list: List = [
 	{
-		title: "Creative Technology",
 		rows: {
 			"1024 Architecture": {
 				keywords: "architectural and digital works, orchestrated sound and light scores",
@@ -62,9 +61,9 @@ const list: List = [
 				locations: ["NYC"],
 			},
 			"Beaudry Interactive": {
+				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 				link: "https://www.binteractive.com/",
 				locations: ["LA"],
-				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 			},
 			"Blackbow": {
 				keywords: "projection mapping, digital art and cultural experiences",
@@ -132,12 +131,6 @@ const list: List = [
 				link: "https://www.design-io.com/",
 				locations: ["NYC", "San Francisco"],
 			},
-			"Dome": {
-				link: "http://www.domecollective.com",
-				locations: ["NYC"],
-				keywords:
-					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
-			},
 			"Digifun": {
 				keywords: "projection mapping, new media art education",
 				link: "http://www.digitalfun.net/",
@@ -147,6 +140,12 @@ const list: List = [
 				keywords: "experience design, interactive experiences, brand activation",
 				link: "https://dimin.com/",
 				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "LA", "Pittsburgh"],
+			},
+			"Dome": {
+				keywords:
+					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
+				link: "http://www.domecollective.com",
+				locations: ["NYC"],
 			},
 			"Downstream": {
 				keywords: "strategy + design + content + technology",
@@ -240,10 +239,10 @@ const list: List = [
 				locations: ["Tokyo"],
 			},
 			"Intergalactic": {
-				link: "https://intergalactic.com",
-				locations: ["Vancouver", "London"],
 				keywords:
 					"mobile apps, interactive screens, web development, application design and visualization",
+				link: "https://intergalactic.com",
+				locations: ["Vancouver", "London"],
 			},
 			"Invisible North": {
 				keywords: "culturally fluent, thoughtful experiences, bring brands to life",
@@ -261,9 +260,9 @@ const list: List = [
 				locations: ["NYC"],
 			},
 			"Left Field Labs": {
+				keywords: "products, platforms, and services that solve fundamental human challenges",
 				link: "https://www.leftfieldlabs.com/",
 				locations: ["LA"],
-				keywords: "products, platforms, and services that solve fundamental human challenges",
 			},
 			"Listen": {
 				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
@@ -425,6 +424,24 @@ const list: List = [
 				link: "https://rosieleecreative.com/",
 				locations: ["London", "Amsterdam", "NYC"],
 			},
+			"S1T2": {
+				keywords:
+					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
+				link: "https://s1t2.com/",
+				locations: ["Sydney", "Melbourne", "Shanghai"],
+			},
+			"SOSO": {
+				keywords:
+					"delivering real human impact across physical and virtual space, placemaking and storytelling",
+				link: "https://www.sosolimited.com/",
+				locations: ["Boston", "San Diego"],
+			},
+			"SUPERBIEN": {
+				keywords:
+					"Creative studio for visually extended experiences, merging digital & physical environments.",
+				link: "https://www.superbien.studio",
+				locations: ["Paris", "NYC", "Dubai"],
+			},
 			"Second Story": {
 				keywords: "exhibition, interactive, software, experience, hardware, VR, AR, projection",
 				link: "https://secondstory.com/",
@@ -434,17 +451,6 @@ const list: List = [
 				keywords: "marketing events, interactive installation",
 				link: "https://www.seeeklab.com/en/",
 				locations: ["Xiamen"],
-			},
-			"SOSO": {
-				link: "https://www.sosolimited.com/",
-				locations: ["Boston", "San Diego"],
-				keywords:
-					"delivering real human impact across physical and virtual space, placemaking and storytelling",
-			},
-			"space150": {
-				link: "https://www.space150.com/",
-				locations: ["Minneapolis", "LA", "NYC"],
-				keywords: "a tech-driven creative agency",
 			},
 			"Special Projects": {
 				keywords:
@@ -489,27 +495,15 @@ const list: List = [
 				link: "https://superaok.com/",
 				locations: ["NYC"],
 			},
-			"SUPERBIEN": {
-				keywords:
-					"Creative studio for visually extended experiences, merging digital & physical environments.",
-				link: "https://www.superbien.studio",
-				locations: ["Paris", "NYC", "Dubai"],
-			},
 			"Superfly": {
 				keywords: "create shared experiences that shape how the world plays & connects",
 				link: "https://superf.ly/",
 				locations: ["NYC"],
 			},
-			"S1T2": {
-				link: "https://s1t2.com/",
-				locations: ["Sydney", "Melbourne", "Shanghai"],
-				keywords:
-					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
-			},
 			"TAD": {
+				keywords: "digital experiences, technology and architecture, designed to inspire people.",
 				link: "https://technologyarchitecturedesign.com/",
 				locations: ["NYC", "London"],
-				keywords: "digital experiences, technology and architecture, designed to inspire people.",
 			},
 			"Team Epiphany": {
 				keywords: "influencer marketing, IRL, vertical integration",
@@ -642,150 +636,156 @@ const list: List = [
 				link: "https://www.prettybloodysimple.com",
 				locations: ["Munich"],
 			},
+			"space150": {
+				keywords: "a tech-driven creative agency",
+				link: "https://www.space150.com/",
+				locations: ["Minneapolis", "LA", "NYC"],
+			},
 		},
+		title: "Creative Technology",
 	},
 	{
-		title: "Collectives & Practices",
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
-			"The Cuttelfish": {
-				link: "https://www.thecuttlefish.com/",
-				locations: ["USA"],
-				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
-			},
 			"Dave + Gabe": {
+				keywords: "interactive installation studio, real-time animation, generative 3D sound",
 				link: "https://www.daveandgabe.care/",
 				locations: ["NYC"],
-				keywords: "interactive installation studio, real-time animation, generative 3D sound",
 			},
 			"NONOTAK Studio": {
+				keywords: "light and sound installations, ethereal, immersive, dreamlike",
 				link: "https://www.nonotak.com/",
 				locations: ["Paris"],
-				keywords: "light and sound installations, ethereal, immersive, dreamlike",
-			},
-			"panGenerator": {
-				link: "https://pangenerator.com/",
-				locations: ["Warsaw"],
-				keywords: "new media art and design collective, mixing bits & atoms",
 			},
 			"Random International": {
-				link: "https://www.random-international.com/",
-				locations: ["London", "Berlin"],
 				keywords:
 					"experimental practice within contemporary art, human condition in an increasingly mechanised world",
+				link: "https://www.random-international.com/",
+				locations: ["London", "Berlin"],
 			},
 			"Smooth Technology": {
-				link: "https://smooth.technology/",
-				locations: ["NYC"],
 				keywords:
 					"cutting-edge technology and artistic sensibility, wireless wearables, create the impossible",
-			},
-			"teamLab": {
-				link: "https://www.teamlab.art/",
-				locations: ["Tokyo"],
-				keywords:
-					"full-room interactive projection mapping, interdisciplinary group of ultratechnologists",
+				link: "https://smooth.technology/",
+				locations: ["NYC"],
 			},
 			"Taller Estampa": {
-				link: "https://www.tallerestampa.com",
-				locations: ["Barcelona"],
 				keywords:
 					"group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.",
+				link: "https://www.tallerestampa.com",
+				locations: ["Barcelona"],
+			},
+			"The Cuttelfish": {
+				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
+				link: "https://www.thecuttlefish.com/",
+				locations: ["USA"],
 			},
 			"United Visual Artists": {
-				link: "https://www.uva.co.uk/",
-				locations: ["London"],
 				keywords:
 					"new technologies with traditional media, site-specific, instruments that manipulate perception",
+				link: "https://www.uva.co.uk/",
+				locations: ["London"],
 			},
 			"WHYIXD": {
+				keywords: "cross-disciplinary art installations, dance, architecture, music",
 				link: "https://www.whyixd.com/",
 				locations: ["Taiwan"],
-				keywords: "cross-disciplinary art installations, dance, architecture, music",
 			},
 			"Zebradog": {
+				keywords: "communication design and the built environment, higher education",
 				link: "https://www.zebradog.com/",
 				locations: ["Madison"],
-				keywords: "communication design and the built environment, higher education",
+			},
+			"panGenerator": {
+				keywords: "new media art and design collective, mixing bits & atoms",
+				link: "https://pangenerator.com/",
+				locations: ["Warsaw"],
+			},
+			"teamLab": {
+				keywords:
+					"full-room interactive projection mapping, interdisciplinary group of ultratechnologists",
+				link: "https://www.teamlab.art/",
+				locations: ["Tokyo"],
 			},
 		},
+		title: "Collectives & Practices",
 	},
 	{
-		title: "Experiential Spaces & Experiences",
 		description: "Groups that create experential spaces & experiences full of creative technology.",
 		rows: {
 			"29 Rooms (Vice Media Group)": {
+				keywords: "multi-sensory installations, performances, and workshops",
 				link: "https://www.29rooms.com/",
 				locations: ["USA"],
-				keywords: "multi-sensory installations, performances, and workshops",
 			},
 			"Cascade": {
+				keywords: "interactive art experience",
 				link: "https://cascadeshow.com/",
 				locations: ["LA"],
-				keywords: "interactive art experience",
 			},
 			"Color Factory": {
+				keywords: "collaborative interactive exhibit",
 				link: "https://www.colorfactory.co/",
 				locations: ["NYC", "Houston"],
-				keywords: "collaborative interactive exhibit",
 			},
 			"Meow Wolf": {
-				link: "https://meowwolf.com/",
-				locations: ["Santa Fe"],
 				keywords:
 					"immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration",
+				link: "https://meowwolf.com/",
+				locations: ["Santa Fe"],
 			},
 			"Museum of Ice Cream": {
-				link: "https://www.museumoficecream.com/",
-				locations: ["San Francisco", "NYC"],
 				keywords:
 					"transforms concepts and dreams into spaces that provoke imagination and creativity",
+				link: "https://www.museumoficecream.com/",
+				locations: ["San Francisco", "NYC"],
 			},
 			"PopUpMob": {
+				keywords: "one-stop shop for pop up experiences",
 				link: "https://popupmob.com/",
 				locations: ["NYC", "LA", "London", "Paris"],
-				keywords: "one-stop shop for pop up experiences",
 			},
 		},
+		title: "Experiential Spaces & Experiences",
 	},
 	{
-		title: "Fabricators",
 		description: "Groups that mostly fabricate pieces for creative technology companies.",
 		rows: {
 			"Bednark": {
+				keywords: "full-service fabrication, production, install",
 				link: "https://builtbybednark.com/",
 				locations: ["NYC"],
-				keywords: "full-service fabrication, production, install",
 			},
 			"Gamma": {
+				keywords: "large scale robotic cnc, install, sculptures",
 				link: "https://gamma.nyc/",
 				locations: ["NYC"],
-				keywords: "large scale robotic cnc, install, sculptures",
 			},
 			"Pink Sparrow": {
+				keywords: "environmental design, project management",
 				link: "https://www.pinksparrow.com/",
 				locations: ["NYC", "LA"],
-				keywords: "environmental design, project management",
 			},
 			"Visionary Effects": {
+				keywords: "old-school manufacturing processes with digital design and fabrication",
 				link: "http://www.visionaryeffects.com/",
 				locations: ["Pittsburgh"],
-				keywords: "old-school manufacturing processes with digital design and fabrication",
 			},
 		},
+		title: "Fabricators",
 	},
 	{
-		title: "Event Production",
 		description:
 			"Groups that specialize in event production, often with a creative technology twist.",
 		rows: {
 			"Dera Lee Productions": {
+				keywords: "theatre arts, story-telling",
 				link: "http://www.deralee.com/",
 				locations: ["NYC"],
-				keywords: "theatre arts, story-telling",
 			},
 			"GPJ": {
+				keywords: "immersive events and experiences",
 				link: "https://www.gpj.com/",
 				locations: [
 					"Austin",
@@ -798,9 +798,9 @@ const list: List = [
 					"San Francisco",
 					"Silicon Valley",
 				],
-				keywords: "immersive events and experiences",
 			},
 			"Sparks": {
+				keywords: "trade show, experiential, retail",
 				link: "https://wearesparks.com/",
 				locations: [
 					"Philadelphia",
@@ -813,73 +813,73 @@ const list: List = [
 					"San Francisco",
 					"Shanghai",
 				],
-				keywords: "trade show, experiential, retail",
 			},
 		},
+		title: "Event Production",
 	},
 	{
-		title: "Architecture",
 		description:
 			"Groups that generally design architecture often incorporating creative technology.",
 		rows: {
 			"Carlo Ratti Associatti": {
+				keywords: "design and innovation office, MIT Media Lab: Senseable City Lab",
 				link: "https://carloratti.com/",
 				locations: ["Torino, Italy", "NYC", "UK"],
-				keywords: "design and innovation office, MIT Media Lab: Senseable City Lab",
 			},
 			"Gensler": {
-				link: "https://dxd.gensler.com/",
-				locations: ["Worldwide"],
 				keywords:
 					"built environment with integrated capabilities in strategy, design, technology, data, and architecture",
+				link: "https://dxd.gensler.com/",
+				locations: ["Worldwide"],
 			},
 			"Olson Kundig": {
-				link: "https://olsonkundig.com/",
-				locations: ["Seattle", "NYC"],
 				keywords:
 					"architecture, vessel that supports specific art installations, seamless spatial experience",
+				link: "https://olsonkundig.com/",
+				locations: ["Seattle", "NYC"],
 			},
 			"SOFTlab": {
-				link: "https://softlabnyc.com/",
-				locations: ["NYC"],
 				keywords:
 					"mixes research and creativity and technology with a strong desire to make working fun",
+				link: "https://softlabnyc.com/",
+				locations: ["NYC"],
 			},
 			"Universal Design Studio": {
-				link: "http://www.universaldesignstudio.com/",
-				locations: ["London", "NYC"],
 				keywords:
 					"driven by a deeply held belief in the transformative power of well designed and finely crafted spaces",
+				link: "http://www.universaldesignstudio.com/",
+				locations: ["London", "NYC"],
 			},
 		},
+		title: "Architecture",
 	},
 	{
-		title: "Creative Agencies",
 		description:
 			"Groups that are have a more general focus, but have a knack for projects imbued with creative technology.",
 		rows: {
 			"&Walsh": {
+				keywords: "brand strategy, art direction, design and production across all platforms",
 				link: "https://andwalsh.com/",
 				locations: ["NYC"],
-				keywords: "brand strategy, art direction, design and production across all platforms",
 			},
 			"BUCK": {
+				keywords: "VR, AR, installation, real-time animation, 3D, experiential",
 				link: "https://buck.co/",
 				locations: ["LA", "NYC", "Sydney", "Amsterdam"],
-				keywords: "VR, AR, installation, real-time animation, 3D, experiential",
 			},
 			"Framestore": {
-				link: "https://www.framestore.com/",
-				locations: ["London", "NYC", "Montreal"],
 				keywords:
 					"virtual, augmented and mixed realities, location-based entertainment, and theme park rides",
+				link: "https://www.framestore.com/",
+				locations: ["London", "NYC", "Montreal"],
 			},
 			"ManvsMachine": {
+				keywords: "multidimensional creative studio",
 				link: "https://mvsm.com/",
 				locations: ["London", "LA"],
-				keywords: "multidimensional creative studio",
 			},
 			"Media Monks": {
+				keywords: "creative production",
 				link: "https://www.mediamonks.com/",
 				locations: [
 					"Amsterdam",
@@ -895,9 +895,9 @@ const list: List = [
 					"Shanghai",
 					"Singapore",
 				],
-				keywords: "creative production",
 			},
 			"R/GA": {
+				keywords: "business, experience, and marketing transformation",
 				link: "https://www.rga.com/",
 				locations: [
 					"Austin",
@@ -918,141 +918,141 @@ const list: List = [
 					"Sydney",
 					"Tokyo",
 				],
-				keywords: "business, experience, and marketing transformation",
 			},
 			"SuperUber": {
+				keywords: "experiences that blend art, technology, architecture and design",
 				link: "https://www.superuber.com/",
 				locations: ["Rio de Janeiro", "São Paulo"],
-				keywords: "experiences that blend art, technology, architecture and design",
 			},
 			"The Mill": {
-				link: "https://www.themill.com/",
-				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
 				keywords:
 					"experience makers, media and brand activation, innovative design, and inventive technologies",
+				link: "https://www.themill.com/",
+				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
 			},
 		},
+		title: "Creative Agencies",
 	},
 	{
-		title: "Museums",
 		description:
 			"Groups that generally focus on designing museums and similar experiences using creative technology.",
 		rows: {
 			"Art Processors": {
+				keywords: "specialist interactive media and exhibition design",
 				link: "https://www.artprocessors.net/",
 				locations: ["Melbourne"],
-				keywords: "specialist interactive media and exhibition design",
 			},
 			"Cortina Productions": {
-				link: "https://www.cortinaproductions.com/",
-				locations: ["McLean, VA"],
 				keywords:
 					"artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.",
+				link: "https://www.cortinaproductions.com/",
+				locations: ["McLean, VA"],
 			},
 			"Exploratorium": {
+				keywords: "exhibits made in-house, public-facing workshop",
 				link: "https://www.exploratorium.edu/",
 				locations: ["San Francisco"],
-				keywords: "exhibits made in-house, public-facing workshop",
 			},
 			"GSM Project": {
+				keywords: "content first, exhibitions",
 				link: "https://gsmproject.com/en/",
 				locations: ["Montreal", "Singapore", "Dubai"],
-				keywords: "content first, exhibitions",
 			},
 			"Ideum": {
+				keywords: "interactive exhibits and exhibitions, integrated hardware products",
 				link: "https://www.ideum.com/",
 				locations: ["Albuquerque"],
-				keywords: "interactive exhibits and exhibitions, integrated hardware products",
 			},
 			"Iglhaut + von Grote": {
+				keywords: "scenography, spatial mise-en-scène",
 				link: "http://iglhaut-vongrote.de/en/",
 				locations: ["Berlin"],
-				keywords: "scenography, spatial mise-en-scène",
 			},
 			"Local Projects": {
+				keywords: "experience Designers pushing the boundaries of human interaction",
 				link: "https://localprojects.com/",
 				locations: ["NYC"],
-				keywords: "experience Designers pushing the boundaries of human interaction",
 			},
 			"Monadnock Media": {
+				keywords: "multimedia experiences for museums, historic sites and public places",
 				link: "https://monadnock.org/",
 				locations: ["Massachusetts"],
-				keywords: "multimedia experiences for museums, historic sites and public places",
 			},
 			"Northern Light Productions": {
+				keywords: "immersive media environments, interactive experiences, or documentary films.",
 				link: "https://nlprod.com/",
 				locations: ["Boston"],
-				keywords: "immersive media environments, interactive experiences, or documentary films.",
 			},
 			"Roto": {
-				link: "https://roto.com/",
-				locations: ["Columbus, OH"],
 				keywords:
 					"experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking.",
+				link: "https://roto.com/",
+				locations: ["Columbus, OH"],
 			},
 			"Thinc": {
+				keywords: "provoke meaningful conversations about the world in which we live",
 				link: "https://www.thincdesign.com/",
 				locations: ["NYC"],
-				keywords: "provoke meaningful conversations about the world in which we live",
 			},
 		},
+		title: "Museums",
 	},
 	{
-		title: "Festivals & Conferences",
 		description: "Meetups for creative technologists.",
 		rows: {
 			Eyeo: {
+				keywords: "a gathering for the creative technology community",
 				link: "https://www.eyeofestival.com/",
 				locations: ["Melbourne"],
-				keywords: "a gathering for the creative technology community",
 			},
 			ISEA: {
+				keywords: "the crossroads where art, design, science, technology and society meet",
 				link: "https://isea2022.isea-international.org/",
 				locations: ["Barcelona", "Paris"],
-				keywords: "the crossroads where art, design, science, technology and society meet",
 			},
 			SXSW: {
+				keywords: "film, music, interactive arts",
 				link: "https://www.sxsw.com/",
 				locations: ["Austin"],
-				keywords: "film, music, interactive arts",
 			},
 		},
+		title: "Festivals & Conferences",
 	},
 	{
-		title: "Education",
 		description:
 			"Undergrad programs, masters and open course teaching and researching creative technologies",
 		rows: {
-			"ITP": {
-				link: "https://tisch.nyu.edu/itp",
-				locations: ["NYC"],
-				keywords:
-					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
-			},
 			"Goldsmiths": {
-				link: "https://www.gold.ac.uk/pg/ma-computational-arts/",
-				locations: ["London"],
 				keywords:
 					"a degree which develops your arts practice through the expressive world of creative computation",
+				link: "https://www.gold.ac.uk/pg/ma-computational-arts/",
+				locations: ["London"],
+			},
+			"ITP": {
+				keywords:
+					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
+				link: "https://tisch.nyu.edu/itp",
+				locations: ["NYC"],
 			},
 			"MIT Medialab": {
-				link: "https://media.mit.edu/",
-				locations: ["Boston"],
 				keywords:
 					"art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration",
+				link: "https://media.mit.edu/",
+				locations: ["Boston"],
 			},
 			"Paris College of Art": {
-				link: "https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/",
-				locations: ["Paris"],
 				keywords:
 					"designed for those who are interested in exploring the wide-ranging creative field of New Media",
+				link: "https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/",
+				locations: ["Paris"],
 			},
 			"University of the Arts": {
+				keywords: "computational technologies in the context of creative computing research",
 				link: "https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing",
 				locations: ["London"],
-				keywords: "computational technologies in the context of creative computing research",
 			},
 		},
+		title: "Education",
 	},
 ];
 

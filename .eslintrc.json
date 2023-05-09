@@ -10,9 +10,10 @@
 		"sourceType": "module",
 		"project": "./tsconfig.json"
 	},
-	"plugins": ["@typescript-eslint", "prettier"],
+	"plugins": ["@typescript-eslint", "sort-keys-fix", "prettier"],
 	"rules": {
 		"import/prefer-default-export": "off",
-		"no-console": "off"
+		"no-console": "off",
+		"sort-keys-fix/sort-keys-fix": "warn"
 	}
 }
