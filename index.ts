@@ -467,6 +467,11 @@ const list: List = [
 				link: "https://spectacle.works/",
 				locations: ["Phoenix"],
 			},
+			"Spectra Studio": {
+				keywords: "installations, projection, sculpture, robotics, light and sound",
+				link: "https://spectra.studio/",
+				locations: ["LA"],
+			},
 			"Staat": {
 				keywords:
 					"branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail",
