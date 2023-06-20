@@ -170,6 +170,11 @@ const list: List = [
 				link: "https://downstream.com/",
 				locations: ["Portland", "Amsterdam", "Melbourne"],
 			},
+			"Dpt.": {
+				keywords: "generating wonder with immersive platforms, AR, & VR",
+				link: "https://dpt.co/",
+				locations: ["Montreal"],
+			},
 			"ESI Design": {
 				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
 				link: "https://esidesign.nbbj.com/",
