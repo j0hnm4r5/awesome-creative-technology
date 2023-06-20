@@ -731,7 +731,7 @@ const list: List = [
 			},
 			"Meow Wolf": {
 				link: "https://meowwolf.com/",
-				locations: ["Santa Fe"],
+				locations: ["Santa Fe", "Las Vegas", "Denver"],
 				keywords:
 					"immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration",
 			},
