@@ -180,6 +180,11 @@ const list: List = [
 				link: "https://esidesign.nbbj.com/",
 				locations: ["NYC"],
 			},
+			"Eness": {
+				keywords: "evocative interactive experiences for public, commercial and cultural entities",
+				link: "https://www.eness.com/",
+				locations: ["Melbourne"],
+			},
 			"Envoy": {
 				keywords: "transform environments into exceptional experiences, formerly Leviathan",
 				link: "https://www.weareenvoy.com/",
