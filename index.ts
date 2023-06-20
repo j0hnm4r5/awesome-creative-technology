@@ -383,6 +383,11 @@ const list: List = [
 				link: "https://studionowhere.com/",
 				locations: ["Shanghai"],
 			},
+			"Nohlab": {
+				keywords: "producing interdisciplinary experiences around art, design and technology",
+				link: "https://nohlab.com/works",
+				locations: ["Istanbul"],
+			},
 			"Oat Foundry": {
 				keywords: "split-flap displays, electromechanical stuff, think tank, products, experiences",
 				link: "https://www.oatfoundry.com/",
