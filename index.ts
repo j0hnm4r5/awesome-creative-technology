@@ -1083,15 +1083,15 @@ const list: List = [
 				link: "https://www.exploratorium.edu/",
 				locations: ["San Francisco"],
 			},
-			"Gagarin": {
-				keywords: "weaving education, information and data into compelling stories",
-				link: "https://gagarin.is/",
-				locations: ["Reykjavík"],
-			},
 			"GSM Project": {
 				keywords: "content first, exhibitions",
 				link: "https://gsmproject.com/en/",
 				locations: ["Montreal", "Singapore", "Dubai"],
+			},
+			"Gagarin": {
+				keywords: "weaving education, information and data into compelling stories",
+				link: "https://gagarin.is/",
+				locations: ["Reykjavík"],
 			},
 			"Ideum": {
 				keywords: "interactive exhibits and exhibitions, integrated hardware products",
