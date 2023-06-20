@@ -143,6 +143,11 @@ const list: List = [
 				link: "http://www.digitalfun.net/",
 				locations: ["Shanghai"],
 			},
+			"Digital Ambiance": {
+				keywords: "lighting design, projection mapping, interactive design",
+				link: "https://www.digitalambiance.com/",
+				locations: ["Berkeley, CA"],
+			},
 			"Dimensional Innovations": {
 				keywords: "experience design, interactive experiences, brand activation",
 				link: "https://dimin.com/",
