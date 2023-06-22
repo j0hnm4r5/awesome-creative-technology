@@ -462,6 +462,11 @@ const list: List = [
 				link: "https://relativescale.com/",
 				locations: ["Raleigh"],
 			},
+			"RGI Creative": {
+				keywords: "corporate experience design, museums exhibits and displays",
+				link: "https://www.rgicreative.com/",
+				locations: ["Cleveland"],
+			},
 			"Rosie Lee Creative": {
 				keywords: "design, creative, digital and consultancy",
 				link: "https://rosieleecreative.com/",
