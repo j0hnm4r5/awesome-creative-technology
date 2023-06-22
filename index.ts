@@ -814,6 +814,11 @@ const list: List = [
 				link: "https://builtbybednark.com/",
 				locations: ["NYC"],
 			},
+			"Eventscape": {
+				keywords: "building the extraordinary, full service",
+				link: "https://eventscape.com/",
+				locations: ["Toronto"],
+			},
 			"Gamma": {
 				keywords: "large scale robotic cnc, install, sculptures",
 				link: "https://gamma.nyc/",
