@@ -410,6 +410,11 @@ const list: List = [
 				link: "https://nohlab.com/works",
 				locations: ["Istanbul"],
 			},
+			"Normal": {
+				keywords: "public installations, entertainment, performing arts, stage design",
+				link: "https://normal.studio/en/",
+				locations: ["Montreal"],
+			},
 			"Nowhere": {
 				keywords: "marketing events, interactive experiences",
 				link: "https://studionowhere.com/",
