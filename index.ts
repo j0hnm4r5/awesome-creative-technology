@@ -510,6 +510,11 @@ const list: List = [
 				link: "https://www.seeeklab.com/en/",
 				locations: ["Xiamen"],
 			},
+			"Set Reset": {
+				keywords: "transforming data into compelling stories that fuel growth and create opportunity",
+				link: "https://set-reset.com/",
+				locations: ["London"],
+			},
 			"Special Projects": {
 				keywords:
 					"design and innovation agency that reveals user needs and transforms them into experiences and products",
