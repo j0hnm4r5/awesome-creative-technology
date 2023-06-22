@@ -405,6 +405,11 @@ const list: List = [
 				link: "https://www.neopangea.com/",
 				locations: ["Reading, PA"],
 			},
+			"NEXT/NOW": {
+				keywords: "brand activations, immersive environments, emerging technologies",
+				link: "https://www.nextnowagency.com/",
+				locations: ["Chicago"],
+			},
 			"Night Kitchen": {
 				keywords: "dynamic digital experiences, online exhibitions, digital strategy, storytelling",
 				link: "https://www.whatscookin.com/",
