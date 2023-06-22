@@ -257,9 +257,14 @@ const list: List = [
 				locations: ["Denver", "Portland"],
 			},
 			"Hush Studios": {
-				keywords: "marketing and advertising, retail and DTC, archtecture",
+				keywords: "marketing and advertising, retail and DTC, architecture",
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
+			},
+			"iart": {
+				keywords: "studio for media architectures, enhancing physical spaces with digital technology",
+				link: "https://iart.ch/en/",
+				locations: ["Basel"],
 			},
 			"IMG SRC": {
 				keywords: "full-service communication agency focusing on websites, installations, and R&D",
