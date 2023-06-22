@@ -282,6 +282,11 @@ const list: List = [
 				link: "https://www.invisiblenorth.com/",
 				locations: ["NYC"],
 			},
+			"Immersive International": {
+				keywords: "live experiences and art installations in public, private and commercial spaces",
+				link: "https://www.immersive.international/",
+				locations: ["London", "Shanghai", "Ottawa", "Hong Kong", "Cape Town"],
+			},
 			"Jam3": {
 				keywords: "create modern experiences for tomorrow's brands",
 				link: "https://www.jam3.com",
