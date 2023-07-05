@@ -261,15 +261,15 @@ const list: List = [
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
 			},
-			"iart": {
-				keywords: "studio for media architectures, enhancing physical spaces with digital technology",
-				link: "https://iart.ch/en/",
-				locations: ["Basel"],
-			},
 			"IMG SRC": {
 				keywords: "full-service communication agency focusing on websites, installations, and R&D",
 				link: "https://www.imgsrc.co.jp/",
 				locations: ["Tokyo"],
+			},
+			"Immersive International": {
+				keywords: "live experiences and art installations in public, private and commercial spaces",
+				link: "https://www.immersive.international/",
+				locations: ["London", "Shanghai", "Ottawa", "Hong Kong", "Cape Town"],
 			},
 			"Intergalactic": {
 				keywords:
@@ -281,11 +281,6 @@ const list: List = [
 				keywords: "culturally fluent, thoughtful experiences, bring brands to life",
 				link: "https://www.invisiblenorth.com/",
 				locations: ["NYC"],
-			},
-			"Immersive International": {
-				keywords: "live experiences and art installations in public, private and commercial spaces",
-				link: "https://www.immersive.international/",
-				locations: ["London", "Shanghai", "Ottawa", "Hong Kong", "Cape Town"],
 			},
 			"Jam3": {
 				keywords: "create modern experiences for tomorrow's brands",
@@ -395,6 +390,11 @@ const list: List = [
 				link: "https://ncompassonline.com/",
 				locations: ["LA"],
 			},
+			"NEXT/NOW": {
+				keywords: "brand activations, immersive environments, emerging technologies",
+				link: "https://www.nextnowagency.com/",
+				locations: ["Chicago"],
+			},
 			"NGX Interactive": {
 				keywords: "pushing new technologies to create experiences that are vivid and meaningful",
 				link: "https://ngxinteractive.com/",
@@ -404,11 +404,6 @@ const list: List = [
 				keywords: "microsites, games, VR/AR, digital, social",
 				link: "https://www.neopangea.com/",
 				locations: ["Reading, PA"],
-			},
-			"NEXT/NOW": {
-				keywords: "brand activations, immersive environments, emerging technologies",
-				link: "https://www.nextnowagency.com/",
-				locations: ["Chicago"],
 			},
 			"Night Kitchen": {
 				keywords: "dynamic digital experiences, online exhibitions, digital strategy, storytelling",
@@ -462,6 +457,11 @@ const list: List = [
 				link: "https://www.potiondesign.com/",
 				locations: ["NYC"],
 			},
+			"RGI Creative": {
+				keywords: "corporate experience design, museums exhibits and displays",
+				link: "https://www.rgicreative.com/",
+				locations: ["Cleveland"],
+			},
 			"Rare Volume": {
 				keywords: "design and technology studio, interactive video walls",
 				link: "https://rarevolume.com/",
@@ -476,11 +476,6 @@ const list: List = [
 				keywords: "bespoke digital products and experiences for brands and institutions",
 				link: "https://relativescale.com/",
 				locations: ["Raleigh"],
-			},
-			"RGI Creative": {
-				keywords: "corporate experience design, museums exhibits and displays",
-				link: "https://www.rgicreative.com/",
-				locations: ["Cleveland"],
 			},
 			"Rosie Lee Creative": {
 				keywords: "design, creative, digital and consultancy",
@@ -516,7 +511,8 @@ const list: List = [
 				locations: ["Xiamen"],
 			},
 			"Set Reset": {
-				keywords: "transforming data into compelling stories that fuel growth and create opportunity",
+				keywords:
+					"transforming data into compelling stories that fuel growth and create opportunity",
 				link: "https://set-reset.com/",
 				locations: ["London"],
 			},
@@ -691,6 +687,12 @@ const list: List = [
 				keywords: "live-media performances, experimentation, electronic music, digital arts",
 				link: "https://www.fuseworks.it/en/",
 				locations: ["Modena, Italy"],
+			},
+			"iart": {
+				keywords:
+					"studio for media architectures, enhancing physical spaces with digital technology",
+				link: "https://iart.ch/en/",
+				locations: ["Basel"],
 			},
 			"m ss ng p eces": {
 				keywords:
