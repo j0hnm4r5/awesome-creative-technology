@@ -144,6 +144,11 @@ const list: List = [
 				link: "http://www.digitalfun.net/",
 				locations: ["Shanghai"],
 			},
+			"Digital Ambiance": {
+				keywords: "lighting design, projection mapping, interactive design",
+				link: "https://www.digitalambiance.com/",
+				locations: ["Berkeley, CA"],
+			},
 			"Dimensional Innovations": {
 				keywords: "experience design, interactive experiences, brand activation",
 				link: "https://dimin.com/",
@@ -165,10 +170,20 @@ const list: List = [
 				link: "https://downstream.com/",
 				locations: ["Portland", "Amsterdam", "Melbourne"],
 			},
+			"Dpt.": {
+				keywords: "generating wonder with immersive platforms, AR, & VR",
+				link: "https://dpt.co/",
+				locations: ["Montreal"],
+			},
 			"ESI Design": {
 				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
 				link: "https://esidesign.nbbj.com/",
 				locations: ["NYC"],
+			},
+			"Eness": {
+				keywords: "evocative interactive experiences for public, commercial and cultural entities",
+				link: "https://www.eness.com/",
+				locations: ["Melbourne"],
 			},
 			"Envoy": {
 				keywords: "transform environments into exceptional experiences, formerly Leviathan",
@@ -242,7 +257,7 @@ const list: List = [
 				locations: ["Denver", "Portland"],
 			},
 			"Hush Studios": {
-				keywords: "marketing and advertising, retail and DTC, archtecture",
+				keywords: "marketing and advertising, retail and DTC, architecture",
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
 			},
@@ -250,6 +265,11 @@ const list: List = [
 				keywords: "full-service communication agency focusing on websites, installations, and R&D",
 				link: "https://www.imgsrc.co.jp/",
 				locations: ["Tokyo"],
+			},
+			"Immersive International": {
+				keywords: "live experiences and art installations in public, private and commercial spaces",
+				link: "https://www.immersive.international/",
+				locations: ["London", "Shanghai", "Ottawa", "Hong Kong", "Cape Town"],
 			},
 			"Intergalactic": {
 				keywords:
@@ -370,6 +390,11 @@ const list: List = [
 				link: "https://ncompassonline.com/",
 				locations: ["LA"],
 			},
+			"NEXT/NOW": {
+				keywords: "brand activations, immersive environments, emerging technologies",
+				link: "https://www.nextnowagency.com/",
+				locations: ["Chicago"],
+			},
 			"NGX Interactive": {
 				keywords: "pushing new technologies to create experiences that are vivid and meaningful",
 				link: "https://ngxinteractive.com/",
@@ -384,6 +409,16 @@ const list: List = [
 				keywords: "dynamic digital experiences, online exhibitions, digital strategy, storytelling",
 				link: "https://www.whatscookin.com/",
 				locations: ["Philadelphia"],
+			},
+			"Nohlab": {
+				keywords: "producing interdisciplinary experiences around art, design and technology",
+				link: "https://nohlab.com/works",
+				locations: ["Istanbul"],
+			},
+			"Normal": {
+				keywords: "public installations, entertainment, performing arts, stage design",
+				link: "https://normal.studio/en/",
+				locations: ["Montreal"],
 			},
 			"Nowhere": {
 				keywords: "marketing events, interactive experiences",
@@ -421,6 +456,11 @@ const list: List = [
 				keywords: "design and technology studio, interactive, musuems",
 				link: "https://www.potiondesign.com/",
 				locations: ["NYC"],
+			},
+			"RGI Creative": {
+				keywords: "corporate experience design, museums exhibits and displays",
+				link: "https://www.rgicreative.com/",
+				locations: ["Cleveland"],
 			},
 			"Rare Volume": {
 				keywords: "design and technology studio, interactive video walls",
@@ -470,6 +510,12 @@ const list: List = [
 				link: "https://www.seeeklab.com/en/",
 				locations: ["Xiamen"],
 			},
+			"Set Reset": {
+				keywords:
+					"transforming data into compelling stories that fuel growth and create opportunity",
+				link: "https://set-reset.com/",
+				locations: ["London"],
+			},
 			"Special Projects": {
 				keywords:
 					"design and innovation agency that reveals user needs and transforms them into experiences and products",
@@ -480,6 +526,11 @@ const list: List = [
 				keywords: "expertise in fabricating experiences that drive engagement and wow participants",
 				link: "https://spectacle.works/",
 				locations: ["Phoenix"],
+			},
+			"Spectra Studio": {
+				keywords: "installations, projection, sculpture, robotics, light and sound",
+				link: "https://spectra.studio/",
+				locations: ["LA"],
 			},
 			"Staat": {
 				keywords:
@@ -637,6 +688,12 @@ const list: List = [
 				link: "https://www.fuseworks.it/en/",
 				locations: ["Modena, Italy"],
 			},
+			"iart": {
+				keywords:
+					"studio for media architectures, enhancing physical spaces with digital technology",
+				link: "https://iart.ch/en/",
+				locations: ["Basel"],
+			},
 			"m ss ng p eces": {
 				keywords:
 					"new wave production and entertainment partner for content and immersive experiences that inspire culture",
@@ -764,7 +821,7 @@ const list: List = [
 				keywords:
 					"immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration",
 				link: "https://meowwolf.com/",
-				locations: ["Santa Fe"],
+				locations: ["Santa Fe", "Las Vegas", "Denver"],
 			},
 			"Museum of Ice Cream": {
 				keywords:
@@ -788,6 +845,11 @@ const list: List = [
 				keywords: "full-service fabrication, production, install",
 				link: "https://builtbybednark.com/",
 				locations: ["NYC"],
+			},
+			"Eventscape": {
+				keywords: "building the extraordinary, full service",
+				link: "https://eventscape.com/",
+				locations: ["Toronto"],
 			},
 			"Gamma": {
 				keywords: "large scale robotic cnc, install, sculptures",
@@ -1067,6 +1129,11 @@ const list: List = [
 				keywords: "content first, exhibitions",
 				link: "https://gsmproject.com/en/",
 				locations: ["Montreal", "Singapore", "Dubai"],
+			},
+			"Gagarin": {
+				keywords: "weaving education, information and data into compelling stories",
+				link: "https://gagarin.is/",
+				locations: ["Reykjavík"],
 			},
 			"Ideum": {
 				keywords: "interactive exhibits and exhibitions, integrated hardware products",
