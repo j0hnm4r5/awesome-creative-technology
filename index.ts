@@ -832,6 +832,11 @@ const list: List = [
 					"Silicon Valley",
 				],
 			},
+			"SAT": {
+				keywords: "immersive experiences, concerts, workshops, conferences, exhibitions",
+				link: "https://sat.qc.ca/en",
+				locations: ["Montreal"],
+			},
 			"Sparks": {
 				keywords: "trade show, experiential, retail",
 				link: "https://wearesparks.com/",
@@ -1116,6 +1121,11 @@ const list: List = [
 				keywords: "the crossroads where art, design, science, technology and society meet",
 				link: "https://isea2022.isea-international.org/",
 				locations: ["Barcelona", "Paris"],
+			},
+			MUTEK: {
+				keywords: "electronic music, audiovisual performance, digital art",
+				link: "https://montreal.mutek.org/",
+				locations: ["Montreal"],
 			},
 			SXSW: {
 				keywords: "film, music, interactive arts",
