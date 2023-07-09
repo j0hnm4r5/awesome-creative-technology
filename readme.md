@@ -221,6 +221,7 @@ Groups that specialize in event production, often with a creative technology twi
 | ---- | --------- | -------- | --- |
 | [**Dera Lee Productions**](http:&#x2F;&#x2F;www.deralee.com&#x2F;) | [NYC] | theatre arts, story-telling | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;http%3A%2F%2Fwww.deralee.com%2F) |
 | [**GPJ**](https:&#x2F;&#x2F;www.gpj.com&#x2F;) | [Austin] [Boston] [Dallas] [Detroit] [LA] [Nashville] [NYC] [San Francisco] [Silicon Valley] | immersive events and experiences | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fwww.gpj.com%2F) |
+| [**SAT**](https:&#x2F;&#x2F;sat.qc.ca&#x2F;en) | [Montreal] | immersive experiences, concerts, workshops, conferences, exhibitions | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fsat.qc.ca%2Fen) |
 | [**Sparks**](https:&#x2F;&#x2F;wearesparks.com&#x2F;) | [Philadelphia] [Detroit] [Connecticut] [Atlanta] [LA] [Las Vegas] [NYC] [San Francisco] [Shanghai] | trade show, experiential, retail | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fwearesparks.com%2F) |
 
 
@@ -281,6 +282,7 @@ Meetups for creative technologists.
 | Name | Locations | Keywords | up? |
 | ---- | --------- | -------- | --- |
 | [**ISEA**](https:&#x2F;&#x2F;isea2022.isea-international.org&#x2F;) | [Barcelona] [Paris] | the crossroads where art, design, science, technology and society meet | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fisea2022.isea-international.org%2F) |
+| [**MUTEK**](https:&#x2F;&#x2F;montreal.mutek.org&#x2F;) | [Montreal] | electronic music, audiovisual performance, digital art | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fmontreal.mutek.org%2F) |
 | [**SXSW**](https:&#x2F;&#x2F;www.sxsw.com&#x2F;) | [Austin] | film, music, interactive arts | ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;%2300000000&amp;down_message&#x3D;%E2%9D%8C&amp;label&#x3D;%20&amp;style&#x3D;flat-square&amp;up_color&#x3D;%2300000000&amp;up_message&#x3D;%F0%9F%8C%90&amp;url&#x3D;https%3A%2F%2Fwww.sxsw.com%2F) |
 
 
