@@ -37,6 +37,11 @@ const list: List = [
 				link: "https://altethos.com/",
 				locations: ["Denver"],
 			},
+			"Art Processors": {
+				keywords: "partner with cultural and tourism organisations to invent new realities of human experience",
+				link: "https://www.artprocessors.net",
+				locations: ["Melbourne", "NYC"],
+			},
 			"Art + Com": {
 				keywords: "media sculptures, data installations, new media",
 				link: "https://artcom.de/en/",
