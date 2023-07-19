@@ -737,7 +737,7 @@ const list: List = [
 				keywords: "one-stop shop for pop up experiences",
 			},
 			"Studio Daguet": {
-				link: "https://www.daguet-staging.com/",
+				link: "http://www.daguet.com/",
 				locations: ["Nantes", "Paris"],
 				keywords:
 					"Staging stories. Show, music, theme parks, museums, hotels",
