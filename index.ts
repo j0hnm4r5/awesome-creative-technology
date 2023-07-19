@@ -840,6 +840,12 @@ const list: List = [
 				link: "https://popupmob.com/",
 				locations: ["NYC", "LA", "London", "Paris"],
 			},
+			"Studio Daguet": {
+				link: "http://www.daguet.com/",
+				locations: ["Nantes", "Paris"],
+				keywords:
+					"staging stories, show, music, theme parks, museums, hotels",
+			},
 		},
 	},
 	{
