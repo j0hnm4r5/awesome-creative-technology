@@ -740,7 +740,7 @@ const list: List = [
 				link: "http://www.daguet.com/",
 				locations: ["Nantes", "Paris"],
 				keywords:
-					"Staging stories. Show, music, theme parks, museums, hotels",
+					"staging stories, show, music, theme parks, museums, hotels",
 			},
 		},
 	},
