@@ -565,6 +565,11 @@ const list: List = [
 				link: "https://www.studioelsewhere.co/",
 				locations: ["NYC"],
 			},
+			"Studio TheGreenEyl": {
+				keywords: "exhibitions, installations, objects, images, interactions and algorithms",
+				link: "https://thegreeneyl.com/",
+				locations: ["Berlin", "NYC"],
+			},
 			"Super A-OK": {
 				keywords: "A multi-modal service bureau for the 21st century, fabrication, electronics",
 				link: "https://superaok.com/",
