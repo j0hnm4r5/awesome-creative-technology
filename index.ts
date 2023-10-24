@@ -196,6 +196,11 @@ const list: List = [
 				link: "https://www.weareenvoy.com/",
 				locations: ["Chicago", "LA", "San Diego"],
 			},
+			"Eos Lightmedia": {
+				keywords: "lighting and audiovisual design, themed attractions, museums, architecture, public spaces, building facades, presentation centers, and public art installations",
+				link: "https://www.eoslightmedia.com/",
+				locations: ["Vancouver", "NYC", "Orlando"],
+			},
 			"Extrapolation Factory": {
 				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
