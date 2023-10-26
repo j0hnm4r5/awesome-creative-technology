@@ -53,11 +53,6 @@ const list: List = [
 				link: "https://www.augmented-magic.com/",
 				locations: ["Paris"],
 			},
-			"Master of Shapes": {
-				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
-				link: "https://masterofshapes.com/",
-				locations: ["LA"],
-			},
 			"BRDG Studios": {
 				keywords: "digital moments in physical spaces, retail environments, art galleries, events",
 				link: "https://www.brdg.co/",
@@ -110,6 +105,11 @@ const list: List = [
 				link: "https://www.charcoalblue.com/",
 				locations: ["NYC", "Melbourne", "Chicago", "UK", "London"],
 			},
+			"Master of Shapes": {
+				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
+				link: "https://masterofshapes.com/",
+				locations: ["LA"],
+			},
 			"Cinimod Studio": {
 				keywords:
 					"location based work where technology, environment, content and real life interaction meet",
@@ -154,12 +154,6 @@ const list: List = [
 				keywords: "projection mapping, new media art education",
 				link: "http://www.digitalfun.net/",
 				locations: ["Shanghai"],
-			},
-			"RadicalMedia": {
-				keywords:
-					"commercials, documentaries, music videos, branded experiences, & immersive environments",
-				link: "https://www.radicalmedia.com/",
-				locations: ["NYC", "LA"],
 			},
 			"Digital Ambiance": {
 				keywords: "lighting design, projection mapping, interactive design",
@@ -207,15 +201,16 @@ const list: List = [
 				link: "https://www.weareenvoy.com/",
 				locations: ["Chicago", "LA", "San Diego"],
 			},
-			"Neon Global": {
-				keywords: "world class and epic experiences that are innovative, creative and exciting",
-				link: "https://www.neonglobal.com/",
-				locations: ["Singapore"],
-			},
 			"Extrapolation Factory": {
 				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
 				locations: ["NYC"],
+			},
+			"RadicalMedia": {
+				keywords:
+					"commercials, documentaries, music videos, branded experiences, & immersive environments",
+				link: "https://www.radicalmedia.com/",
+				locations: ["NYC", "LA"],
 			},
 			"FIELD": {
 				keywords: "future aesthetics for design, motion, experiential",
@@ -262,6 +257,11 @@ const list: List = [
 				keywords: "translate cultural trends into big ideas, experiential, gaming",
 				link: "https://giantspoon.com/",
 				locations: ["NYC", "LA"],
+			},
+			"Neon Global": {
+				keywords: "world class and epic experiences that are innovative, creative and exciting",
+				link: "https://www.neonglobal.com/",
+				locations: ["Singapore"],
 			},
 			"Hettema Group": {
 				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
