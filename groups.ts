@@ -87,6 +87,12 @@ export const list: List = [
 				link: "https://www.bluecadet.com/",
 				locations: ["Philadelphia", "NYC"],
 			},
+			"BRC Imagination Arts": {
+				keywords:
+					"brand and cultural stories, strategy, animation, digital and hybrid experiences",
+				link: "https://www.brcweb.com/",
+				locations: ["Burbank, CA", "Edinburgh", "Amsterdam"],
+			},
 			"Breeze Creative": {
 				keywords:
 					"interactive experience design, family entertainment, museums, playgrounds, educational institutions",
