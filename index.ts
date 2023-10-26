@@ -1,8 +1,4 @@
-import {
-  generateClosedReadme,
-  generateReadme,
-  generateUpReadme,
-} from "./generate-readme";
+import { generateClosedReadme, generateReadme, generateUpReadme } from "./generate-readme";
 
 import { list } from "./groups";
 
