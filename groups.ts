@@ -200,11 +200,6 @@ export const list: List = [
 				link: "https://extrapolationfactory.com/",
 				locations: ["NYC"],
 			},
-			"Master of Shapes": {
-				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
-				link: "https://masterofshapes.com/",
-				locations: ["LA"],
-			},
 			"FIELD": {
 				keywords: "future aesthetics for design, motion, experiential",
 				link: "https://www.field.io/",
@@ -256,6 +251,11 @@ export const list: List = [
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
 			},
+			"Master of Shapes": {
+				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
+				link: "https://masterofshapes.com/",
+				locations: ["LA"],
+			},
 			"Hotel Creative": {
 				keywords: "retail, branding, exhibitions, events",
 				link: "https://hotelcreative.com/",
@@ -292,21 +292,10 @@ export const list: List = [
 				link: "https://www.jam3.com",
 				locations: ["Toronto", "LA", "Montevideo", "Amsterdam"],
 			},
-			"RadicalMedia": {
-				keywords:
-					"commercials, documentaries, music videos, branded experiences, & immersive environments",
-				link: "https://www.radicalmedia.com/",
-				locations: ["NYC", "LA"],
-			},
 			"Jason Sherwood Design": {
 				keywords: "television and broadway and concert stage design",
 				link: "http://jasonsherwooddesign.com/",
 				locations: ["NYC"],
-			},
-			"THG": {
-				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
-				link: "https://thehettemagroup.com/",
-				locations: ["LA"],
 			},
 			"Left Field Labs": {
 				keywords: "products, platforms, and services that solve fundamental human challenges",
@@ -348,20 +337,26 @@ export const list: List = [
 				link: "https://www.marshmallowlaserfeast.com/",
 				locations: ["London"],
 			},
-			"Neon Global": {
-				keywords: "world class and epic experiences that are innovative, creative and exciting",
-				link: "https://www.neonglobal.com/",
-				locations: ["Singapore"],
-			},
 			"Midnight Commercial": {
 				keywords: "unite the disparate digital and physical worlds",
 				link: "http://midnightcommercial.com/",
 				locations: ["NYC"],
 			},
+			"RadicalMedia": {
+				keywords:
+					"commercials, documentaries, music videos, branded experiences, & immersive environments",
+				link: "https://www.radicalmedia.com/",
+				locations: ["NYC", "LA"],
+			},
 			"MindBuffer": {
 				keywords: "audiovisual research and digital design studio",
 				link: "https://mindbuffer.net/",
 				locations: ["Berlin"],
+			},
+			"THG": {
+				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
+				link: "https://thehettemagroup.com/",
+				locations: ["LA"],
 			},
 			"Moment Factory": {
 				keywords: "shows, destinations, content, interactive, scenography",
@@ -425,6 +420,11 @@ export const list: List = [
 				keywords: "microsites, games, VR/AR, digital, social",
 				link: "https://www.neopangea.com/",
 				locations: ["Reading, PA"],
+			},
+			"Neon Global": {
+				keywords: "world class and epic experiences that are innovative, creative and exciting",
+				link: "https://www.neonglobal.com/",
+				locations: ["Singapore"],
 			},
 			"Night Kitchen": {
 				keywords: "dynamic digital experiences, online exhibitions, digital strategy, storytelling",
