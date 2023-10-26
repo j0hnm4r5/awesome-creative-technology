@@ -52,6 +52,11 @@ export const list: List = [
 				link: "https://www.augmented-magic.com/",
 				locations: ["Paris"],
 			},
+			"BRC Imagination Arts": {
+				keywords: "brand and cultural stories, strategy, animation, digital and hybrid experiences",
+				link: "https://www.brcweb.com/",
+				locations: ["Burbank, CA", "Edinburgh", "Amsterdam"],
+			},
 			"BRDG Studios": {
 				keywords: "digital moments in physical spaces, retail environments, art galleries, events",
 				link: "https://www.brdg.co/",
@@ -86,12 +91,6 @@ export const list: List = [
 				keywords: "experience design across digital and physical environments, visitor centers",
 				link: "https://www.bluecadet.com/",
 				locations: ["Philadelphia", "NYC"],
-			},
-			"BRC Imagination Arts": {
-				keywords:
-					"brand and cultural stories, strategy, animation, digital and hybrid experiences",
-				link: "https://www.brcweb.com/",
-				locations: ["Burbank, CA", "Edinburgh", "Amsterdam"],
 			},
 			"Breeze Creative": {
 				keywords:
@@ -692,6 +691,12 @@ export const list: List = [
 				link: "https://volvoxlabs.com/",
 				locations: ["NYC", "LA"],
 			},
+			"WHITEvoid": {
+				keywords:
+					"public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals",
+				link: "https://www.whitevoid.com/",
+				locations: ["Berlin", "Shanghai"],
+			},
 			"We Are Royale": {
 				keywords:
 					"frontlines of design & technology to arm brands with the creative to turn audiences into advocates",
@@ -757,11 +762,6 @@ export const list: List = [
 				keywords: "a tech-driven creative agency",
 				link: "https://www.space150.com/",
 				locations: ["Minneapolis", "LA", "NYC"],
-			},
-			"WHITEvoid": {
-				keywords: "public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals",
-				link: "https://www.whitevoid.com/",
-				locations: ["Berlin", "Shanghai"],
 			},
 		},
 	},
