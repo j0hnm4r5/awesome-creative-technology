@@ -1,11 +1,20 @@
 # Contribution Guidelines
 
-**Please add/update any groups within `index.ts` and submit a PR.**
+## Easy, but slow (for now)
 
-The front-facing README (and the CLOSED readme) will generate via GitHub Actions upon Push. Any changes directly to these files will be overwritten upon generation.
+Submit a [new issue](/issues/new?assignees=j0hnm4r5&labels=new+addition&projects=&template=request-addition.yaml&title=%5BAdd%5D:+) and the maintainers will add it to the list.
+
+We are working on a way to make this process more automatic.
+
+## DIY
+
+Manually add your group to the list.
+
+**Please add/update any groups within `groups.ts` and submit a PR.**
+
+The front-facing README (and the CLOSED and UP readmes) will generate via GitHub Actions upon Push. Any changes directly to these files will be overwritten upon generation, so please only edit `groups.ts`.
 
 Also be sure to run `npm run format` locally before commit (if you're not already using an ESLint plugin in VSCode). This is run as an Action as well, but it's best to run it locally first to make sure it passes.
-
 
 ## Updating your PR
 

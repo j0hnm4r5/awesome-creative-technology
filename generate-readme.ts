@@ -8,7 +8,7 @@ const slugger = new GithubSlugger();
 
 export function generateReadme(list: List) {
 	// import the readme stub
-	const template = fs.readFileSync("./readme.template.md", "utf-8");
+	const template = fs.readFileSync("./templates/readme.template.md", "utf-8");
 
 	// generate the table of contents
 	const contentsList = list
@@ -35,33 +35,32 @@ export function generateReadme(list: List) {
 
 				const locationsString = locations.map((loc) => `[${loc}]`).join(" ");
 
-				const upImage = `![](https://img.shields.io/website?down_color=%2300000000&down_message=%E2%9D%8C&label=%20&style=flat-square&up_color=%2300000000&up_message=%F0%9F%8C%90&url=${encodeURIComponent(
-					link
-				)})`;
-
-				return [linkedName, locationsString, keywords, upImage];
+				return [linkedName, locationsString, keywords];
 			});
 
 		let md = "";
 		md += `## ${title}\n\n`;
 		if (description) md += `${description}\n\n`;
-		md += `| Name | Locations | Keywords | up? |\n`;
-		md += `| ---- | --------- | -------- | --- |\n`;
-		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]} |`).join("\n");
+		md += `| Name | Locations | Keywords |\n`;
+		md += `| ---- | --------- | -------- |\n`;
+		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} |`).join("\n");
 		md += "\n\n";
 
 		return md;
 	});
 
 	// create the markdown
-	const md = mustache.render(template, { groups: groupsLists.join("\n"), toc: contentsList });
+	const md = mustache.render(template, {
+		groups: groupsLists.join("\n"),
+		toc: contentsList,
+	});
 
-	fs.writeFileSync("readme.md", md);
+	fs.writeFileSync("README.md", md);
 }
 
 export function generateClosedReadme(list: List) {
 	// import the readme stub
-	const template = fs.readFileSync("./closed.template.md", "utf-8");
+	const template = fs.readFileSync("./templates/closed.template.md", "utf-8");
 
 	// create markdown string
 	let groupsLists = "";
@@ -105,5 +104,45 @@ export function generateClosedReadme(list: List) {
 	// create the markdown
 	const md = mustache.render(template, { groups: groupsLists });
 
-	fs.writeFileSync("closed.md", md);
+	fs.writeFileSync("CLOSED.md", md);
+}
+
+export function generateUpReadme(list: List) {
+	// import the readme stub
+	const template = fs.readFileSync("./templates/up.template.md", "utf-8");
+
+	// create markdown string
+	let groupsLists = "";
+	groupsLists += `| Name | up? |\n`;
+	groupsLists += `| ---- | --- |\n`;
+
+	list.map((l) => {
+		const { rows } = l;
+
+		const sortedRows = Object.keys(rows)
+			.filter((group) => rows[group].closureReason === undefined) // remove closed groups
+			.sort(Intl.Collator().compare) // sort alphabetically, case insensitive
+			.map((group) => {
+				const { link } = rows[group];
+
+				const linkedName = `[**${group}**](${link})`;
+
+				const upImage = `![](https://img.shields.io/website?down_color=%2300000000&down_message=%E2%9D%8C&label=%20&style=flat-square&up_color=%2300000000&up_message=%F0%9F%8C%90&url=${encodeURIComponent(
+					link
+				)})`;
+
+				return [linkedName, upImage];
+			});
+
+		groupsLists += sortedRows
+			.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]} | ${row[4]} |`)
+			.join("\n");
+
+		return null;
+	});
+
+	// create the markdown
+	const md = mustache.render(template, { groups: groupsLists });
+
+	fs.writeFileSync("UP.md", md);
 }
