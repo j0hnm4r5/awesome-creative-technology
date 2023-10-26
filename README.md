@@ -61,6 +61,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Blackbow**](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;) | [Beijing] | projection mapping, digital art and cultural experiences |
 | [**Blublu**](http:&#x2F;&#x2F;www.blu-blu.com&#x2F;) | [Hangzhou] | projection mapping, immersive experiences for museums and workspace |
 | [**Bluecadet**](https:&#x2F;&#x2F;www.bluecadet.com&#x2F;) | [Philadelphia] [NYC] | experience design across digital and physical environments, visitor centers |
+| [**BRC Imagination Arts**](https:&#x2F;&#x2F;www.brcweb.com&#x2F;) | [Burbank, CA] [Edinburgh] [Amsterdam] | brand and cultural stories, strategy, animation, digital and hybrid experiences |
 | [**BRDG Studios**](https:&#x2F;&#x2F;www.brdg.co&#x2F;) | [Philadelphia] | digital moments in physical spaces, retail environments, art galleries, events |
 | [**BREAKFAST**](https:&#x2F;&#x2F;breakfastny.com&#x2F;) | [NYC] | software-&#x2F;hardware-driven artworks, flip discs |
 | [**Breeze Creative**](https:&#x2F;&#x2F;www.breezecreative.com&#x2F;) | [NYC] [Miami] | interactive experience design, family entertainment, museums, playgrounds, educational institutions |
@@ -83,6 +84,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Dpt.**](https:&#x2F;&#x2F;dpt.co&#x2F;) | [Montreal] | generating wonder with immersive platforms, AR, &amp; VR |
 | [**Eness**](https:&#x2F;&#x2F;www.eness.com&#x2F;) | [Melbourne] | evocative interactive experiences for public, commercial and cultural entities |
 | [**Envoy**](https:&#x2F;&#x2F;www.weareenvoy.com&#x2F;) | [Chicago] [LA] [San Diego] | transform environments into exceptional experiences, formerly Leviathan |
+| [**Eos Lightmedia**](https:&#x2F;&#x2F;www.eoslightmedia.com&#x2F;) | [Vancouver] [NYC] [Orlando] | lighting and audiovisual design, themed attractions, museums, architecture, public spaces, building facades, presentation centers, and public art installations |
 | [**ESI Design**](https:&#x2F;&#x2F;esidesign.nbbj.com&#x2F;) | [NYC] | transforms places into experiences, immersive deisgn, architectural scale |
 | [**Extrapolation Factory**](https:&#x2F;&#x2F;extrapolationfactory.com&#x2F;) | [NYC] | research studio, futures studies, collaborative prototyping |
 | [**Fast Horse**](https:&#x2F;&#x2F;www.fasthorseinc.com&#x2F;) | [Minneapolis] | a truly integrated creative agency |
@@ -156,6 +158,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**StoreyStudio**](https:&#x2F;&#x2F;www.storeystudio.com&#x2F;) | [London] | spatial design, set design, window displays, moving image |
 | [**Studio Black**](https:&#x2F;&#x2F;www.studioblack.org&#x2F;) | [LA] [NYC] | technical production, design advisory, content management, digital content |
 | [**Studio Elsewhere**](https:&#x2F;&#x2F;www.studioelsewhere.co&#x2F;) | [NYC] | bio-experiential design and technology to support brain health |
+| [**Studio TheGreenEyl**](https:&#x2F;&#x2F;thegreeneyl.com&#x2F;) | [Berlin] [NYC] | exhibitions, installations, objects, images, interactions and algorithms |
 | [**Super A-OK**](https:&#x2F;&#x2F;superaok.com&#x2F;) | [NYC] | A multi-modal service bureau for the 21st century, fabrication, electronics |
 | [**SUPERBIEN**](https:&#x2F;&#x2F;www.superbien.studio) | [Paris] [NYC] [Dubai] | Creative studio for visually extended experiences, merging digital &amp; physical environments. |
 | [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects |
@@ -176,6 +179,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping |
 | [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound |
 | [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates |
+| [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals |
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation |
 | [**XORXOR**](https:&#x2F;&#x2F;www.xorxor.hu) | [Budapest] | collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design |
 | [**Yellow Studio**](https:&#x2F;&#x2F;yellowstudio.com&#x2F;) | [NYC] | artistically-minded design, tv&#x2F;concert&#x2F;event production design, set design |
@@ -284,6 +288,7 @@ Groups that generally focus on designing museums and similar experiences using c
 | [**Cortina Productions**](https:&#x2F;&#x2F;www.cortinaproductions.com&#x2F;) | [McLean, VA] | artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space. |
 | [**Exploratorium**](https:&#x2F;&#x2F;www.exploratorium.edu&#x2F;) | [San Francisco] | exhibits made in-house, public-facing workshop |
 | [**Gagarin**](https:&#x2F;&#x2F;gagarin.is&#x2F;) | [Reykjavík] | weaving education, information and data into compelling stories |
+| [**Grumpy Sailor**](https:&#x2F;&#x2F;www.grumpysailor.com&#x2F;) | [Sydney] [Melbourne] | digital experiences, exhibit design, brands |
 | [**GSM Project**](https:&#x2F;&#x2F;gsmproject.com&#x2F;en&#x2F;) | [Montreal] [Singapore] [Dubai] | content first, exhibitions |
 | [**Ideum**](https:&#x2F;&#x2F;www.ideum.com&#x2F;) | [Albuquerque] | interactive exhibits and exhibitions, integrated hardware products |
 | [**Iglhaut + von Grote**](http:&#x2F;&#x2F;iglhaut-vongrote.de&#x2F;en&#x2F;) | [Berlin] | scenography, spatial mise-en-scène |
