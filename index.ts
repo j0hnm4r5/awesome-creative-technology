@@ -4,7 +4,7 @@ import {
   generateUpReadme,
 } from "./generate-readme";
 
-import { list } from "./groups.ts";
+import { list } from "./groups";
 
 generateReadme(list);
 generateClosedReadme(list);
