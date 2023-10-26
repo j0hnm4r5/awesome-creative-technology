@@ -1193,6 +1193,11 @@ export const list: List = [
 				link: "https://gagarin.is/",
 				locations: ["Reykjavík"],
 			},
+			"Grumpy Sailor": {
+				keywords: "digital experiences, exhibit design, brands",
+				link: "https://www.grumpysailor.com/",
+				locations: ["Sydney", "Melbourne"],
+			},
 			"Ideum": {
 				keywords: "interactive exhibits and exhibitions, integrated hardware products",
 				link: "https://www.ideum.com/",
