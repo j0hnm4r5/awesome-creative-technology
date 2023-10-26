@@ -1,0 +1,76 @@
+name: Request an addition
+description: Request to add a new creative technology group
+title: "[Add]: "
+labels: ["new addition"]
+assignees:
+  - j0hnm4r5
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a new group!
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: What type of group is this?
+      multiple: false
+      options:
+        - Creative Technology
+        - Collectives & Practices
+        - Experiential Spaces & Experiences
+        - Fabricators
+        - Event Production
+        - Architecture
+        - Creative Agencies
+        - Museums
+        - Festivals & Conferences
+        - Education
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Group name
+      description: What does the group call themselves?
+      placeholder: Awesome Group
+    validations:
+      required: true
+
+  - type: input
+    id: keywords
+    attributes:
+      label: Keywords
+      description: A comma-separated list of keywords or a single sentence description of the group (ideally from their own marketing materials). Start with a lowercase letter. Do not end with punctuation.
+      placeholder: experiential, metaverse, blockchain, media sculptures, themed entertainment, projection mapping
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Website
+      description: A link to the group's primary website. It should point to the homepage, and should not include unnecessary extras like language or other query strings.
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: input
+    id: careers
+    attributes:
+      label: Website
+      description: A link to the group's career page.
+      placeholder: https://example.com/careers
+    validations:
+      required: false
+
+  - type: input
+    id: locations
+    attributes:
+      label: Locations
+      description: a comma-separated list of locations in which the group has formal workspaces. If it is fully remote, use Remote. Replace well-known city names with their abbreviations; Los Angeles → LA, New York City → NYC. Wrap locations with commas in their names in quotes.
+      placeholder: LA, NYC, Madrid, London, "Albany, NY"
+    validations:
+      required: false
