@@ -758,6 +758,11 @@ export const list: List = [
 				link: "https://www.space150.com/",
 				locations: ["Minneapolis", "LA", "NYC"],
 			},
+			"WHITEvoid": {
+				keywords: "public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals",
+				link: "https://www.whitevoid.com/",
+				locations: ["Berlin", "Shanghai"],
+			},
 		},
 	},
 	{
