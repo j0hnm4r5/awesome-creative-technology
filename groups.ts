@@ -262,10 +262,6 @@ export const list: List = [
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
 			},
-			"Hettema Group": {
-				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
-				link: "https://thehettemagroup.com/",
-			},
 			"Hotel Creative": {
 				keywords: "retail, branding, exhibitions, events",
 				link: "https://hotelcreative.com/",
