@@ -543,6 +543,11 @@ export const list: List = [
 				link: "https://set-reset.com/",
 				locations: ["London"],
 			},
+			"Sparks": {
+				keywords: "conferences, popups, event production, fabrication",
+				link: "https://www.wearesparks.com/",
+				locations: ["Philadelphia", "Shanghai", "Paris", "Berlin", "Amsterdam", ],
+			},
 			"Special Projects": {
 				keywords:
 					"design and innovation agency that reveals user needs and transforms them into experiences and products",
