@@ -644,6 +644,11 @@ export const list: List = [
 				link: "https://thinkwellgroup.com/",
 				locations: ["LA", "Montreal", "Abu Dhabi", "Riyadh"],
 			},
+			"Tinker": {
+				keywords: "narrative spaces, musuems, experience design, consultancy",
+				link: "https://tinker.nl/en",
+				locations: ["Utrecht"],
+			},
 			"Tool": {
 				keywords:
 					"help brands and agencies with ideation, content, and experience production that generate buzz",
