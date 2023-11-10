@@ -359,6 +359,11 @@ export const list: List = [
 				link: "http://midnightcommercial.com/",
 				locations: ["NYC"],
 			},
+			"Midwest Immersive": {
+				keywords: "immersive experiences for brands and agencies, projection mapping, LED lighting, games and app development",
+				link: "https://www.mwimmersive.com/",
+				locations: ["Chicago"],
+			},
 			"MindBuffer": {
 				keywords: "audiovisual research and digital design studio",
 				link: "https://mindbuffer.net/",
