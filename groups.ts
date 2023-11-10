@@ -115,6 +115,12 @@ export const list: List = [
 				link: "https://www.cinimodstudio.com",
 				locations: ["London"],
 			},
+			"Cocolab": {
+				keywords:
+					"multimedia experiences, immersive walk, exhibitions, installations, multimedia museography",
+				link: "https://cocolab.mx/en/",
+				locations: ["Mexico City"],
+			},
 			"Code and Theory": {
 				keywords:
 					"strategically driven, digital-first agency that lives at the intersection of creativity and technology",
