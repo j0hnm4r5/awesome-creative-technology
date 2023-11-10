@@ -737,6 +737,11 @@ export const list: List = [
 				link: "https://yellowstudio.com/",
 				locations: ["NYC"],
 			},
+			"Zebradog": {
+				keywords: "communication design and the built environment, higher education",
+				link: "https://www.zebradog.com/",
+				locations: ["Madison"],
+			},
 			"dotdotdash": {
 				keywords: "innovation agency that seamlessly blends the physical and digital",
 				link: "https://dotdotdash.io/",
@@ -848,11 +853,6 @@ export const list: List = [
 				keywords: "cross-disciplinary art installations, dance, architecture, music",
 				link: "https://www.whyixd.com/",
 				locations: ["Taiwan"],
-			},
-			"Zebradog": {
-				keywords: "communication design and the built environment, higher education",
-				link: "https://www.zebradog.com/",
-				locations: ["Madison"],
 			},
 			"panGenerator": {
 				keywords: "new media art and design collective, mixing bits & atoms",
