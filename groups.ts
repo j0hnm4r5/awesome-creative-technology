@@ -742,6 +742,11 @@ export const list: List = [
 				link: "https://dotdotdash.io/",
 				locations: ["Portland", "LA", "NYC"],
 			},
+			"DOTDOT": {
+				keywords: "AR, music videos, interactive installations, games",
+				link: "https://dotdot.studio/about/",
+				locations: ["Auckland", "NYC", "Brisbane"],
+			},
 			"fuse": {
 				keywords: "live-media performances, experimentation, electronic music, digital arts",
 				link: "https://www.fuseworks.it/en/",
