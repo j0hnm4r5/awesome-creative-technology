@@ -165,6 +165,11 @@ export const list: List = [
 				link: "https://www.digitalambiance.com/",
 				locations: ["Berkeley, CA"],
 			},
+			"Digital Kitchen": {
+				keywords: "iconic main titles, multimedia content, imaginative experiences, and immersive spaces",
+				link: "https://www.thisisdk.com",
+				locations: ["LA"],
+			},
 			"Dimensional Innovations": {
 				keywords: "experience design, interactive experiences, brand activation",
 				link: "https://dimin.com/",
