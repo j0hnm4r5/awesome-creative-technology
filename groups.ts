@@ -1250,6 +1250,11 @@ export const list: List = [
 				link: "https://nlprod.com/",
 				locations: ["Boston"],
 			},
+			"RLMG": {
+				keywords: "story-driven, interactive, dynamic, immersive, and educational installations for public spaces.",
+				link: "https://www.rlmg.com/",
+				locations: ["Boston"],
+			},
 			"Roto": {
 				keywords:
 					"experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking.",
