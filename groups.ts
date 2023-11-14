@@ -580,6 +580,11 @@ export const list: List = [
 				link: "https://spectra.studio/",
 				locations: ["LA"],
 			},
+			"Squint/Opera": {
+				keywords: "experience design for the built environment and musuems and attractions",
+				link: "https://www.squintopera.com/about/",
+				locations: ["London", "NYC", "Dubai"],
+			},
 			"Staat": {
 				keywords:
 					"branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail",
