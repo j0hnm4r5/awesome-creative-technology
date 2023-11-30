@@ -251,11 +251,6 @@ export const list: List = [
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
 			},
-			"Master of Shapes": {
-				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
-				link: "https://masterofshapes.com/",
-				locations: ["LA"],
-			},
 			"Hotel Creative": {
 				keywords: "retail, branding, exhibitions, events",
 				link: "https://hotelcreative.com/",
@@ -307,6 +302,11 @@ export const list: List = [
 				link: "https://wearelisten.com/",
 				locations: ["NYC"],
 			},
+			"Master of Shapes": {
+				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
+				link: "https://masterofshapes.com/",
+				locations: ["LA"],
+			},
 			"Lorem Ipsum": {
 				keywords: "experience design, narrative, physical and digital environments",
 				link: "https://loremipsumcorp.com/",
@@ -342,21 +342,10 @@ export const list: List = [
 				link: "http://midnightcommercial.com/",
 				locations: ["NYC"],
 			},
-			"RadicalMedia": {
-				keywords:
-					"commercials, documentaries, music videos, branded experiences, & immersive environments",
-				link: "https://www.radicalmedia.com/",
-				locations: ["NYC", "LA"],
-			},
 			"MindBuffer": {
 				keywords: "audiovisual research and digital design studio",
 				link: "https://mindbuffer.net/",
 				locations: ["Berlin"],
-			},
-			"THG": {
-				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
-				link: "https://thehettemagroup.com/",
-				locations: ["LA"],
 			},
 			"Moment Factory": {
 				keywords: "shows, destinations, content, interactive, scenography",
@@ -431,10 +420,21 @@ export const list: List = [
 				link: "https://www.whatscookin.com/",
 				locations: ["Philadelphia"],
 			},
+			"RadicalMedia": {
+				keywords:
+					"commercials, documentaries, music videos, branded experiences, & immersive environments",
+				link: "https://www.radicalmedia.com/",
+				locations: ["NYC", "LA"],
+			},
 			"Nohlab": {
 				keywords: "producing interdisciplinary experiences around art, design and technology",
 				link: "https://nohlab.com/works",
 				locations: ["Istanbul"],
+			},
+			"THG": {
+				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
+				link: "https://thehettemagroup.com/",
+				locations: ["LA"],
 			},
 			"Normal": {
 				keywords: "public installations, entertainment, performing arts, stage design",
