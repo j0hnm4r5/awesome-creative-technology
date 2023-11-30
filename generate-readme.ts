@@ -29,21 +29,32 @@ export function generateReadme(list: List) {
 			.filter((group) => rows[group].closureReason === undefined) // remove closed groups
 			.sort(Intl.Collator().compare) // sort alphabetically, case insensitive
 			.map((group) => {
-				const { link, locations, keywords } = rows[group];
+				const { link, locations, keywords, careerLink } = rows[group];
 
 				const linkedName = `[**${group}**](${link})`;
 
 				const locationsString = locations.map((loc) => `[${loc}]`).join(" ");
 
-				return [linkedName, locationsString, keywords];
+				let careerLinkString = "";
+				if (careerLink === "N/A") {
+					careerLinkString = "N/A";
+				} else if (careerLink !== undefined && careerLink?.startsWith("https")) {
+					// if it's a link to career page
+					careerLinkString = `[**career page**](${careerLink})`;
+				} else if (careerLink !== undefined && careerLink?.includes("@")) {
+					// if it's an email, swap the @ with [at] and . with [dot]
+					careerLinkString = careerLink!.replace("@", "[at]").replace(".", "[dot]");
+				}
+
+				return [linkedName, locationsString, keywords, careerLinkString];
 			});
 
 		let md = "";
 		md += `## ${title}\n\n`;
 		if (description) md += `${description}\n\n`;
-		md += `| Name | Locations | Keywords |\n`;
-		md += `| ---- | --------- | -------- |\n`;
-		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} |`).join("\n");
+		md += `| Name | Locations | Keywords | Career Page/Email | \n`;
+		md += `| ---- | --------- | -------- | --------- |\n`; // make the last column of table shorter?
+		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]}`).join("\n");
 		md += "\n\n";
 
 		return md;
@@ -64,8 +75,8 @@ export function generateClosedReadme(list: List) {
 
 	// create markdown string
 	let groupsLists = "";
-	groupsLists += `| Name | Locations | Keywords | Closure Reason | up? |\n`;
-	groupsLists += `| ---- | --------- | -------- | -------------- | --- |\n`;
+	groupsLists += `| Name | Locations | Keywords | Career Page | Closure Reason | up? |\n`;
+	groupsLists += `| ---- | --------- | -------- | ----------- | -------------- | --- |\n`;
 
 	list.map((l) => {
 		const { rows } = l;
@@ -74,7 +85,7 @@ export function generateClosedReadme(list: List) {
 			.filter((group) => rows[group].closureReason !== undefined) // remove non-closed groups
 			.sort(Intl.Collator().compare) // sort alphabetically, case insensitive
 			.map((group) => {
-				const { link, locations, keywords, closureReason } = rows[group];
+				const { link, locations, keywords, careerLink, closureReason } = rows[group];
 
 				const linkedName = `[**${group}**](${link})`;
 
@@ -91,7 +102,13 @@ export function generateClosedReadme(list: List) {
 					link
 				)})`;
 
-				return [linkedName, locationsString, keywords, closureReason, upImage];
+				if (careerLink === undefined) {
+					return [linkedName, locationsString, keywords, "", closureReason, upImage];
+				}
+
+				const careerLinkString = `[**${careerLink}**](${careerLink})`;
+
+				return [linkedName, locationsString, keywords, careerLinkString, closureReason, upImage];
 			});
 
 		groupsLists += sortedRows
