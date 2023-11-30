@@ -58,10 +58,10 @@ body:
       required: true
 
   - type: input
-    id: careers
+    id: careersLink
     attributes:
-      label: Website
-      description: A link to the group's career page.
+      label: Careers link
+      description: A link to the group's career page, if it exists.
       placeholder: https://example.com/careers
     validations:
       required: false
