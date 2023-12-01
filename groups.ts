@@ -548,6 +548,11 @@ export const list: List = [
 				link: "https://rarevolume.com/",
 				locations: ["NYC"],
 			},
+			"THG": {
+				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
+				link: "https://thehettemagroup.com/",
+				locations: ["LA"],
+			},
 			"Red Paper Heart": {
 				careerLink: "jobs@redpaperheart.com",
 				keywords: "art from real world interaction",
