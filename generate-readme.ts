@@ -29,21 +29,38 @@ export function generateReadme(list: List) {
 			.filter((group) => rows[group].closureReason === undefined) // remove closed groups
 			.sort(Intl.Collator().compare) // sort alphabetically, case insensitive
 			.map((group) => {
-				const { link, locations, keywords } = rows[group];
+				const { link, locations, keywords, careerLink } = rows[group];
 
-				const linkedName = `[**${group}**](${link})`;
+				const formattedName = `[**${group}**](${link})`;
 
-				const locationsString = locations.map((loc) => `[${loc}]`).join(" ");
+				const formattedLocations = locations.map((loc) => `[${loc}]`).join(" ");
 
-				return [linkedName, locationsString, keywords];
+				let formattedCareerLink = "";
+
+				// if it's a link
+				if (
+					careerLink &&
+					/[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&//=]*)/.test(
+						careerLink
+					)
+				) {
+					formattedCareerLink = `[🌐](${careerLink})`;
+				}
+
+				// if it's an email
+				if (careerLink && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(careerLink)) {
+					formattedCareerLink = `[📧](mailto:${careerLink})`;
+				}
+
+				return [formattedName, formattedLocations, keywords, formattedCareerLink];
 			});
 
 		let md = "";
 		md += `## ${title}\n\n`;
 		if (description) md += `${description}\n\n`;
-		md += `| Name | Locations | Keywords |\n`;
-		md += `| ---- | --------- | -------- |\n`;
-		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} |`).join("\n");
+		md += `| Name | Locations | Keywords | Jobs |\n`;
+		md += `| ---- | --------- | -------- | ---- |\n`;
+		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]}`).join("\n");
 		md += "\n\n";
 
 		return md;
@@ -134,9 +151,7 @@ export function generateUpReadme(list: List) {
 				return [linkedName, upImage];
 			});
 
-		groupsLists += sortedRows
-			.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]} | ${row[4]} |`)
-			.join("\n");
+		groupsLists += sortedRows.map((row) => `| ${row[0]} | ${row[1]} |`).join("\n");
 
 		return null;
 	});

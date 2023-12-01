@@ -2,6 +2,7 @@ export type CreativeTechnologist = {
 	link: string;
 	locations: string[];
 	keywords: string;
+	careerLink?: string;
 	closureReason?: string;
 };
 
