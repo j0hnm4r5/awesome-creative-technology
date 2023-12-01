@@ -302,11 +302,6 @@ export const list: List = [
 				link: "https://wearelisten.com/",
 				locations: ["NYC"],
 			},
-			"Master of Shapes": {
-				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
-				link: "https://masterofshapes.com/",
-				locations: ["LA"],
-			},
 			"Lorem Ipsum": {
 				keywords: "experience design, narrative, physical and digital environments",
 				link: "https://loremipsumcorp.com/",
@@ -336,6 +331,11 @@ export const list: List = [
 				keywords: "leaving a slug trail of sensory nuggets as we journey through the cosmos",
 				link: "https://www.marshmallowlaserfeast.com/",
 				locations: ["London"],
+			},
+			"Master of Shapes": {
+				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
+				link: "https://masterofshapes.com/",
+				locations: ["LA"],
 			},
 			"Midnight Commercial": {
 				keywords: "unite the disparate digital and physical worlds",
@@ -420,21 +420,10 @@ export const list: List = [
 				link: "https://www.whatscookin.com/",
 				locations: ["Philadelphia"],
 			},
-			"RadicalMedia": {
-				keywords:
-					"commercials, documentaries, music videos, branded experiences, & immersive environments",
-				link: "https://www.radicalmedia.com/",
-				locations: ["NYC", "LA"],
-			},
 			"Nohlab": {
 				keywords: "producing interdisciplinary experiences around art, design and technology",
 				link: "https://nohlab.com/works",
 				locations: ["Istanbul"],
-			},
-			"THG": {
-				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
-				link: "https://thehettemagroup.com/",
-				locations: ["LA"],
 			},
 			"Normal": {
 				keywords: "public installations, entertainment, performing arts, stage design",
@@ -483,10 +472,21 @@ export const list: List = [
 				link: "https://www.rgicreative.com/",
 				locations: ["Cleveland"],
 			},
+			"RadicalMedia": {
+				keywords:
+					"commercials, documentaries, music videos, branded experiences, & immersive environments",
+				link: "https://www.radicalmedia.com/",
+				locations: ["NYC", "LA"],
+			},
 			"Rare Volume": {
 				keywords: "design and technology studio, interactive video walls",
 				link: "https://rarevolume.com/",
 				locations: ["NYC"],
+			},
+			"THG": {
+				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
+				link: "https://thehettemagroup.com/",
+				locations: ["LA"],
 			},
 			"Red Paper Heart": {
 				keywords: "art from real world interaction",
