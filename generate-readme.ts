@@ -58,8 +58,8 @@ export function generateReadme(list: List) {
 		let md = "";
 		md += `## ${title}\n\n`;
 		if (description) md += `${description}\n\n`;
-		md += `| Name | Locations | Keywords | Jobs | \n`;
-		md += `| ---- | --------- | -------- | ---- |\n`; // make the last column of table shorter?
+		md += `| Name | Locations | Keywords | Jobs |\n`;
+		md += `| ---- | --------- | -------- | ---- |\n`;
 		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]}`).join("\n");
 		md += "\n\n";
 
