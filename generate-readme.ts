@@ -151,9 +151,7 @@ export function generateUpReadme(list: List) {
 				return [linkedName, upImage];
 			});
 
-		groupsLists += sortedRows
-			.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]} | ${row[4]} |`)
-			.join("\n");
+		groupsLists += sortedRows.map((row) => `| ${row[0]} | ${row[1]} |`).join("\n");
 
 		return null;
 	});
