@@ -31,29 +31,35 @@ export function generateReadme(list: List) {
 			.map((group) => {
 				const { link, locations, keywords, careerLink } = rows[group];
 
-				const linkedName = `[**${group}**](${link})`;
+				const formattedName = `[**${group}**](${link})`;
 
-				const locationsString = locations.map((loc) => `[${loc}]`).join(" ");
+				const formattedLocations = locations.map((loc) => `[${loc}]`).join(" ");
 
-				let careerLinkString = "";
-				if (careerLink === "N/A") {
-					careerLinkString = "N/A";
-				} else if (careerLink !== undefined && careerLink?.startsWith("https")) {
-					// if it's a link to career page
-					careerLinkString = `[**career page**](${careerLink})`;
-				} else if (careerLink !== undefined && careerLink?.includes("@")) {
-					// if it's an email, swap the @ with [at] and . with [dot]
-					careerLinkString = careerLink!.replace("@", "[at]").replace(".", "[dot]");
+				let formattedCareerLink = "";
+
+				// if it's a link
+				if (
+					careerLink &&
+					/[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&//=]*)/.test(
+						careerLink
+					)
+				) {
+					formattedCareerLink = `[🌐](${careerLink})`;
 				}
 
-				return [linkedName, locationsString, keywords, careerLinkString];
+				// if it's an email
+				if (careerLink && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(careerLink)) {
+					formattedCareerLink = `[📧](mailto:${careerLink})`;
+				}
+
+				return [formattedName, formattedLocations, keywords, formattedCareerLink];
 			});
 
 		let md = "";
 		md += `## ${title}\n\n`;
 		if (description) md += `${description}\n\n`;
-		md += `| Name | Locations | Keywords | Career Page/Email | \n`;
-		md += `| ---- | --------- | -------- | --------- |\n`; // make the last column of table shorter?
+		md += `| Name | Locations | Keywords | Jobs | \n`;
+		md += `| ---- | --------- | -------- | ---- |\n`; // make the last column of table shorter?
 		md += sortedRows.map((row) => `| ${row[0]} | ${row[1]} | ${row[2]} | ${row[3]}`).join("\n");
 		md += "\n\n";
 
@@ -75,8 +81,8 @@ export function generateClosedReadme(list: List) {
 
 	// create markdown string
 	let groupsLists = "";
-	groupsLists += `| Name | Locations | Keywords | Career Page | Closure Reason | up? |\n`;
-	groupsLists += `| ---- | --------- | -------- | ----------- | -------------- | --- |\n`;
+	groupsLists += `| Name | Locations | Keywords | Closure Reason | up? |\n`;
+	groupsLists += `| ---- | --------- | -------- | -------------- | --- |\n`;
 
 	list.map((l) => {
 		const { rows } = l;
@@ -85,7 +91,7 @@ export function generateClosedReadme(list: List) {
 			.filter((group) => rows[group].closureReason !== undefined) // remove non-closed groups
 			.sort(Intl.Collator().compare) // sort alphabetically, case insensitive
 			.map((group) => {
-				const { link, locations, keywords, careerLink, closureReason } = rows[group];
+				const { link, locations, keywords, closureReason } = rows[group];
 
 				const linkedName = `[**${group}**](${link})`;
 
@@ -102,13 +108,7 @@ export function generateClosedReadme(list: List) {
 					link
 				)})`;
 
-				if (careerLink === undefined) {
-					return [linkedName, locationsString, keywords, "", closureReason, upImage];
-				}
-
-				const careerLinkString = `[**${careerLink}**](${careerLink})`;
-
-				return [linkedName, locationsString, keywords, careerLinkString, closureReason, upImage];
+				return [linkedName, locationsString, keywords, closureReason, upImage];
 			});
 
 		groupsLists += sortedRows
