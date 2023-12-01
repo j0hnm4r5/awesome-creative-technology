@@ -30,6 +30,9 @@ jobs:
       - name: Generate READMEs
         run: npm run generate
       
+      - name: Add Changes
+        run: git add --force README.md CLOSED.md UP.md
+      
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
