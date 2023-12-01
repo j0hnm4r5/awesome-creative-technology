@@ -24,7 +24,6 @@ export const list: List = [
 				locations: ["London", "NYC", "Seattle"],
 			},
 			"Ada": {
-				careerLink: "N/A",
 				keywords:
 					"experience innovation and design agency that partners with the world's most ambitious visionaries and brands in the culture, arts and social impact space",
 				link: "https://a-da.co/",
@@ -37,7 +36,6 @@ export const list: List = [
 				locations: ["Glens Falls, NY", "Dubai", "Orlando", "Shanghai", "LA", "Singapore"],
 			},
 			"Alt Ethos": {
-				careerLink: "N/A",
 				keywords: "experiential, metaverse, and event design agency",
 				link: "https://altethos.com/",
 				locations: ["Denver"],
@@ -80,7 +78,6 @@ export const list: List = [
 				locations: ["NYC"],
 			},
 			"Beaudry Interactive": {
-				careerLink: "N/A",
 				keywords: "themed entertainment, museum exhibitions, live shows, and branded experiences",
 				link: "https://www.binteractive.com/",
 				locations: ["LA"],
@@ -104,7 +101,6 @@ export const list: List = [
 				locations: ["Philadelphia", "NYC"],
 			},
 			"Breeze Creative": {
-				careerLink: "N/A",
 				keywords:
 					"interactive experience design, family entertainment, museums, playgrounds, educational institutions",
 				link: "https://www.breezecreative.com/",
@@ -145,7 +141,6 @@ export const list: List = [
 				locations: ["LA"],
 			},
 			"Comuzi": {
-				careerLink: "N/A",
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
@@ -164,14 +159,12 @@ export const list: List = [
 				locations: ["Pittsburgh"],
 			},
 			"Design I/O": {
-				careerLink: "N/A",
 				keywords:
 					"immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space",
 				link: "https://www.design-io.com/",
 				locations: ["NYC", "San Francisco"],
 			},
 			"Digifun": {
-				careerLink: "N/A",
 				keywords: "projection mapping, new media art education",
 				link: "http://www.digitalfun.net/",
 				locations: ["Shanghai"],
@@ -189,21 +182,18 @@ export const list: List = [
 				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "LA", "Pittsburgh"],
 			},
 			"Dome": {
-				careerLink: "N/A",
 				keywords:
 					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
 				link: "http://www.domecollective.com",
 				locations: ["NYC"],
 			},
 			"Domestic Data Streamers": {
-				careerLink: "N/A",
 				keywords: "fighting indifference towards data",
 				link: "https://domesticstreamers.com/",
 				locations: ["Barcelona"],
 			},
 			"Downstream": {
-				careerLink:
-					"https://www.linkedin.com/jobs/search/?currentJobId=3670987453&f_C=37377&geoId=92000000",
+				careerLink: "https://downstream.com/careers",
 				keywords: "strategy + design + content + technology",
 				link: "https://downstream.com/",
 				locations: ["Portland", "Amsterdam", "Melbourne"],
@@ -233,7 +223,6 @@ export const list: List = [
 				locations: ["Chicago", "LA", "San Diego"],
 			},
 			"Extrapolation Factory": {
-				careerLink: "N/A",
 				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
 				locations: ["NYC"],
@@ -245,7 +234,6 @@ export const list: List = [
 				locations: ["London"],
 			},
 			"Fake Love (New York Times)": {
-				careerLink: "N/A",
 				closureReason: "COVID-19",
 				keywords: "experiential design, real emotional connections, marketing",
 				link: "https://www.nytco.com/products/fake-love/",
@@ -343,7 +331,6 @@ export const list: List = [
 				locations: ["Toronto", "LA", "Montevideo", "Amsterdam"],
 			},
 			"Jason Sherwood Design": {
-				careerLink: "N/A",
 				keywords: "television and broadway and concert stage design",
 				link: "http://jasonsherwooddesign.com/",
 				locations: ["NYC"],
@@ -355,24 +342,16 @@ export const list: List = [
 				locations: ["LA"],
 			},
 			"Listen": {
-				careerLink: "N/A",
 				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
 				link: "https://wearelisten.com/",
 				locations: ["NYC"],
 			},
-			"Master of Shapes": {
-				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
-				link: "https://masterofshapes.com/",
-				locations: ["LA"],
-			},
 			"Lorem Ipsum": {
-				careerLink: "N/A",
 				keywords: "experience design, narrative, physical and digital environments",
 				link: "https://loremipsumcorp.com/",
 				locations: ["NYC", "Moscow", "London"],
 			},
 			"MSCHF": {
-				careerLink: "N/A",
 				keywords: "viral stunts and products, trying to do stuff that the world can't even define",
 				link: "https://mschf.xyz/",
 				locations: ["NYC"],
@@ -402,19 +381,16 @@ export const list: List = [
 				locations: ["London"],
 			},
 			"Master of Shapes": {
-				careerLink: "N/A",
 				keywords: "a space surfing, geometry taming, buffalo riding, Future House",
 				link: "https://masterofshapes.com/",
 				locations: ["LA"],
 			},
 			"Midnight Commercial": {
-				careerLink: "N/A",
 				keywords: "unite the disparate digital and physical worlds",
 				link: "http://midnightcommercial.com/",
 				locations: ["NYC"],
 			},
 			"MindBuffer": {
-				careerLink: "N/A",
 				keywords: "audiovisual research and digital design studio",
 				link: "https://mindbuffer.net/",
 				locations: ["Berlin"],
@@ -465,7 +441,6 @@ export const list: List = [
 				locations: ["Shenzhen"],
 			},
 			"NCompass": {
-				careerLink: "N/A",
 				keywords:
 					"brand and marketing solutions creating experiences that integrate the latest technology and creative",
 				link: "https://ncompassonline.com/",
@@ -484,7 +459,6 @@ export const list: List = [
 				locations: ["Vancouver"],
 			},
 			"NeoPangea": {
-				careerLink: "N/A",
 				keywords: "microsites, games, VR/AR, digital, social",
 				link: "https://www.neopangea.com/",
 				locations: ["Reading, PA"],
@@ -501,22 +475,11 @@ export const list: List = [
 				link: "https://www.whatscookin.com/",
 				locations: ["Philadelphia"],
 			},
-			"RadicalMedia": {
-				keywords:
-					"commercials, documentaries, music videos, branded experiences, & immersive environments",
-				link: "https://www.radicalmedia.com/",
-				locations: ["NYC", "LA"],
-			},
 			"Nohlab": {
 				careerLink: "apply@nohlab.com",
 				keywords: "producing interdisciplinary experiences around art, design and technology",
 				link: "https://nohlab.com/works",
 				locations: ["Istanbul"],
-			},
-			"THG": {
-				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
-				link: "https://thehettemagroup.com/",
-				locations: ["LA"],
 			},
 			"Normal": {
 				careerLink: "cv@normal.studio",
@@ -525,13 +488,11 @@ export const list: List = [
 				locations: ["Montreal"],
 			},
 			"Nowhere": {
-				careerLink: "N/A",
 				keywords: "marketing events, interactive experiences",
 				link: "https://studionowhere.com/",
 				locations: ["Shanghai"],
 			},
 			"OIO": {
-				careerLink: "N/A",
 				keywords: "creative company working on future products and tools for a less boring future",
 				link: "https://oio.studio/",
 				locations: ["London"],
@@ -594,7 +555,6 @@ export const list: List = [
 				locations: ["NYC"],
 			},
 			"Relative Scale": {
-				careerLink: "N/A",
 				keywords: "bespoke digital products and experiences for brands and institutions",
 				link: "https://relativescale.com/",
 				locations: ["Raleigh"],
@@ -606,7 +566,6 @@ export const list: List = [
 				locations: ["London", "Amsterdam", "NYC"],
 			},
 			"S1T2": {
-				careerLink: "N/A",
 				keywords:
 					"We create interactive experiences that immerse audiences in the future of storytelling through technology.",
 				link: "https://s1t2.com/",
@@ -633,13 +592,11 @@ export const list: List = [
 				locations: ["Atlanta", "Portland", "NYC"],
 			},
 			"Seeeklab": {
-				careerLink: "N/A",
 				keywords: "marketing events, interactive installation",
 				link: "https://www.seeeklab.com/en/",
 				locations: ["Xiamen"],
 			},
 			"Set Reset": {
-				careerLink: "N/A",
 				keywords:
 					"transforming data into compelling stories that fuel growth and create opportunity",
 				link: "https://set-reset.com/",
@@ -653,13 +610,11 @@ export const list: List = [
 				locations: ["London"],
 			},
 			"Spectacle": {
-				careerLink: "N/A",
 				keywords: "expertise in fabricating experiences that drive engagement and wow participants",
 				link: "https://spectacle.works/",
 				locations: ["Phoenix"],
 			},
 			"Spectra Studio": {
-				careerLink: "N/A",
 				keywords: "installations, projection, sculpture, robotics, light and sound",
 				link: "https://spectra.studio/",
 				locations: ["LA"],
@@ -672,7 +627,6 @@ export const list: List = [
 				locations: ["Amsterdam"],
 			},
 			"Stimulant": {
-				careerLink: "N/A",
 				keywords:
 					"experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications",
 				link: "https://stimulant.com/",
@@ -685,19 +639,16 @@ export const list: List = [
 				locations: ["London"],
 			},
 			"Studio Black": {
-				careerLink: "N/A",
 				keywords: "technical production, design advisory, content management, digital content",
 				link: "https://www.studioblack.org/",
 				locations: ["LA", "NYC"],
 			},
 			"Studio Elsewhere": {
-				careerLink: "N/A",
 				keywords: "bio-experiential design and technology to support brain health",
 				link: "https://www.studioelsewhere.co/",
 				locations: ["NYC"],
 			},
 			"Super A-OK": {
-				careerLink: "N/A",
 				keywords: "A multi-modal service bureau for the 21st century, fabrication, electronics",
 				link: "https://superaok.com/",
 				locations: ["NYC"],
@@ -715,7 +666,6 @@ export const list: List = [
 				locations: ["NYC", "London"],
 			},
 			"THG": {
-				careerLink: "N/A",
 				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
 				link: "https://thehettemagroup.com/",
 				locations: ["LA"],
@@ -741,13 +691,11 @@ export const list: List = [
 				locations: ["NYC"],
 			},
 			"The Lab at Rockwell Group": {
-				careerLink: "N/A",
 				keywords: "architecture and design, branded experiences, immersive environments, pop ups",
 				link: "https://www.labatrockwellgroup.com",
 				locations: ["NYC"],
 			},
 			"The Projects": {
-				careerLink: "N/A",
 				keywords: "brand consultancy, meaningful experiences, tell stories",
 				link: "http://theprojects.com/",
 				locations: ["London", "LA", "NYC", "Sydney"],
@@ -760,7 +708,6 @@ export const list: List = [
 				locations: ["LA", "Montreal", "Abu Dhabi", "Riyadh"],
 			},
 			"Tool": {
-				careerLink: "N/A",
 				keywords:
 					"help brands and agencies with ideation, content, and experience production that generate buzz",
 				link: "https://www.toolofna.com/",
@@ -773,7 +720,6 @@ export const list: List = [
 				locations: ["Boston"],
 			},
 			"Two Goats": {
-				careerLink: "N/A",
 				keywords: "AR, interactive branded experiences",
 				link: "https://www.twogoats.us/",
 				locations: ["NYC", "LA", "London"],
@@ -818,7 +764,6 @@ export const list: List = [
 				locations: ["LA", "Seattle"],
 			},
 			"We're Magnetic": {
-				careerLink: "N/A",
 				closureReason: "COVID-19",
 				keywords: "immersive, authentic, culturally relevant experiences",
 				link: "https://weremagnetic.com/",
@@ -850,7 +795,6 @@ export const list: List = [
 				locations: ["Portland", "LA", "NYC"],
 			},
 			"fuse": {
-				careerLink: "N/A",
 				keywords: "live-media performances, experimentation, electronic music, digital arts",
 				link: "https://www.fuseworks.it/en/",
 				locations: ["Modena, Italy"],
@@ -863,21 +807,18 @@ export const list: List = [
 				locations: ["Basel"],
 			},
 			"m ss ng p eces": {
-				careerLink: "N/A",
 				keywords:
 					"new wave production and entertainment partner for content and immersive experiences that inspire culture",
 				link: "https://mssngpeces.com/",
 				locations: ["NYC", "LA"],
 			},
 			"mycotoo": {
-				careerLink: "N/A",
 				keywords:
 					"entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide",
 				link: "https://mycotoo.com/",
 				locations: ["LA", "Barcelona"],
 			},
 			"pretty bloody simple": {
-				careerLink: "N/A",
 				keywords: "interactive experiences, analog and digital, musuems",
 				link: "https://www.prettybloodysimple.com",
 				locations: ["Munich"],
