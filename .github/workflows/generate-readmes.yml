@@ -14,24 +14,24 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
-      
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: "16"
           cache: npm
-      
+
       - name: Install
         run: npm ci
 
       - name: Format
         run: npm run format
-      
+
       - name: Generate READMEs
         run: npm run generate
-      
+
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
+          add_options: "--force README.md UP.md CLOSED.md"
           commit_message: Generate READMEs
-      
