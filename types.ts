@@ -11,3 +11,12 @@ export type List = {
 	description?: string;
 	rows: Record<string, CreativeTechnologist>;
 }[];
+
+export type Issue = {
+	type: string;
+	name: string;
+	keywords: string;
+	website: string;
+	careers?: string;
+	locations: string;
+};
