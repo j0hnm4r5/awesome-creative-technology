@@ -1047,6 +1047,11 @@ export const list: List = [
 		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description: "Groups that mostly fabricate pieces for creative technology companies.",
 		rows: {
+			"5 Ten": {
+				keywords: "LED technology design, fabrication, and integration",
+				link: "https://www.510visuals.com/",
+				locations: ["NYC"],
+			},
 			"Bednark": {
 				keywords: "full-service fabrication, production, install",
 				link: "https://builtbybednark.com/",
