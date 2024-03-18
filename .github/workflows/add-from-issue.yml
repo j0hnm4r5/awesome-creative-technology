@@ -39,4 +39,4 @@ jobs:
           commit-message: "Added from issue ${{github.event.issue.number}}"
           branch: add-from-issue/${{github.event.issue.number}}
           title: "Pull request for '${{github.event.issue.title}}'"
-          body: "Closes ${{github.event.issue.number}}"
+          body: "Closes #${{github.event.issue.number}}"
