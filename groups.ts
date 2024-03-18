@@ -1057,6 +1057,12 @@ export const list: List = [
 				link: "https://builtbybednark.com/",
 				locations: ["NYC"],
 			},
+			"Bridgewater Studio": {
+				careerLink: "https://www.bridgewaterstudio.net/about",
+				keywords: "full service design and fabrication",
+				link: "https://www.bridgewaterstudio.net",
+				locations: ["Chicago"],
+			},
 			"Eventscape": {
 				keywords: "building the extraordinary, full service",
 				link: "https://eventscape.com/",
