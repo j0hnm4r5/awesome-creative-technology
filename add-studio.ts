@@ -35,7 +35,7 @@ export function parseIssue(input: String): Issue {
 				issue.website = entry;
 				break;
 			case 4:
-				if (entry !== "No response") {
+				if (!entry.toLowerCase().includes("no response")) {
 					issue.careers = entry;
 				}
 				break;
