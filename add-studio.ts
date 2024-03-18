@@ -114,7 +114,10 @@ export function addStudio(issue: Issue) {
 process.argv.shift(); // skip node.exe
 process.argv.shift(); // skip name of js file
 
-const issue = parseIssue(process.argv.join(" "));
-console.log(`Process issue:`);
+const input = process.argv.join(" ");
+console.log("Input is:");
+console.log(input);
+const issue = parseIssue(input);
+console.log(`Add from issue:`);
 console.log(issue);
 addStudio(issue);
