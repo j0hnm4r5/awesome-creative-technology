@@ -557,6 +557,11 @@ export const list: List = [
 				link: "https://optimistinc.com/",
 				locations: ["LA", "NYC", "London", "Amsterdam", "Hamburg", "Berlin", "Prague"],
 			},
+			"Ouchhh Studio": {
+				keywords: "public art, poetic public experiences, data as a paint, algorithm as a brush",
+				link: "https://ouchhh.tv/",
+				locations: ["Istanbul"],
+			},
 			"Patten Studio": {
 				careerLink: "https://www.pattenstudio.com/about/",
 				keywords: "informed by research at the MIT Media Lab, experiences that connect people",
