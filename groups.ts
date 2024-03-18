@@ -951,6 +951,11 @@ export const list: List = [
 				link: "https://www.nonotak.com/",
 				locations: ["Paris"],
 			},
+			"NightLight Labs": {
+				keywords: "installations, activations, narrative experiences",
+				link: "https://nightlight.io/",
+				locations: ["LA"],
+			},
 			"Random International": {
 				keywords:
 					"experimental practice within contemporary art, human condition in an increasingly mechanised world",
