@@ -19,7 +19,7 @@ export function parseIssue(input: String): Issue {
 	const sections = input.split("###").slice(1);
 	for (let i = 0; i < sections.length; i += 1) {
 		const section = sections[i];
-		const els = section.split("\\n\\n");
+		const els = section.split("\\n  \\n");
 		const entry = els.slice(1).join("").trim();
 		switch (i) {
 			case 0:
@@ -82,7 +82,7 @@ export function addStudio(issue: Issue) {
 					console.log(`${issue.name} should go before ${otherStudio}`);
 					for (let j = 0; j < data.length; j += 1) {
 						if (data[j].includes(`"${otherStudio}"`)) {
-							console.log(`We need to add our text in at line ${j}`);
+							console.log(`Adding in at at line ${j}`);
 							insertStudio(data, studioString, j);
 							return;
 						}
@@ -93,7 +93,7 @@ export function addStudio(issue: Issue) {
 			const lastStudio = studios[studios.length - 1];
 			for (let i = 0; i < data.length; i += 1) {
 				if (data[i].includes(`"${lastStudio}"`)) {
-					console.log(`This studio will be last at line ${i}`);
+					console.log(`This item will be last at line ${i}`);
 					insertStudio(data, studioString, i);
 					return;
 				}
@@ -111,18 +111,10 @@ export function addStudio(issue: Issue) {
 // 	website: "https://brig.ht/",
 // };
 
-// const last: Issue = {
-// 	keywords: "data visualization, digital installations, experiential sites, video games",
-// 	locations: "Atlanta",
-// 	name: "zzz",
-// 	type: "Creative Technology",
-// 	website: "https://zzz.com",
-// };
-
-// addStudio(last);
-
 process.argv.shift(); // skip node.exe
 process.argv.shift(); // skip name of js file
 
 const issue = parseIssue(process.argv.join(" "));
+console.log(`Process issue:`);
+console.log(issue);
 addStudio(issue);
