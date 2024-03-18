@@ -842,6 +842,7 @@ export const list: List = [
 				link: "https://www.xorxor.hu",
 				locations: ["Budapest"],
 			},
+"y=f(x)": {"keywords":"creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design","link":"https://www.yfxlab.com/","locations":["Amsterdam"],"careerLink":"_No response_"},
 			"Yellow Studio": {
 				careerLink: "join our team link broken",
 				keywords: "artistically-minded design, tv/concert/event production design, set design",
