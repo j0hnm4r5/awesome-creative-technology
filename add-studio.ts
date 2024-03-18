@@ -1,5 +1,6 @@
 import { Issue, CreativeTechnologist } from "./types";
 import { list } from "./groups";
+
 const fs = require("fs");
 
 function insertStudio(data: string[], insertText: string, lineNumber: number) {
@@ -12,15 +13,15 @@ function insertStudio(data: string[], insertText: string, lineNumber: number) {
 	});
 }
 
-export function parseIssue(input: String) : Issue {
-	let issue = {} as Issue;
+export function parseIssue(input: String): Issue {
+	const issue = {} as Issue;
 	// split issue into sections and skip the first item which is just '###'
-	let sections = input.split("###").slice(1);
-	for (let i = 0; i < sections.length; i+=1){
+	const sections = input.split("###").slice(1);
+	for (let i = 0; i < sections.length; i += 1) {
 		const section = sections[i];
 		const els = section.split("\\n\\n");
 		const entry = els.slice(1).join("").trim();
-		switch (i){
+		switch (i) {
 			case 0:
 				issue.type = entry;
 				break;
@@ -34,23 +35,23 @@ export function parseIssue(input: String) : Issue {
 				issue.website = entry;
 				break;
 			case 4:
-				if (entry !== "No response"){
+				if (entry !== "No response") {
 					issue.careers = entry;
 				}
 				break;
-			case 5:
+			case 5: {
 				const regex = /(".*?"|[^",\s]+)(?=\s*,|\s*$)/g;
-				let found = entry.match(regex);
-				if (found){
-					for(let i = 0; i < found.length; i+=1){
-						found[i] = found[i].replace(/"/g, '');
+				const found = entry.match(regex);
+				if (found) {
+					for (let j = 0; j < found.length; j += 1) {
+						found[j] = found[j].replace(/"/g, "");
 					}
 					issue.locations = found;
-				}
-				else {
+				} else {
 					issue.locations = [];
 				}
 				break;
+			}
 			default:
 				break;
 		}
@@ -63,8 +64,8 @@ export function addStudio(issue: Issue) {
 		keywords: issue.keywords,
 		link: issue.website,
 		locations: issue.locations,
-	}
-;	if (issue.careers) {
+	};
+	if (issue.careers) {
 		tech.careerLink = issue.careers;
 	}
 
@@ -120,9 +121,8 @@ export function addStudio(issue: Issue) {
 
 // addStudio(last);
 
-process.argv.shift()  // skip node.exe
-process.argv.shift()  // skip name of js file
+process.argv.shift(); // skip node.exe
+process.argv.shift(); // skip name of js file
 
 const issue = parseIssue(process.argv.join(" "));
-// console.log(issue);
 addStudio(issue);
