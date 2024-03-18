@@ -57,6 +57,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Augmented Magic**](https:&#x2F;&#x2F;www.augmented-magic.com&#x2F;) | [Paris] | augmented magic shows, digital installations | [📧](mailto:contact@augmented-magic.com)
 | [**AV Controls**](https:&#x2F;&#x2F;www.av-controls.com&#x2F;) | [NYC] | site-specific technology installations, digital landmarks | [🌐](https:&#x2F;&#x2F;www.av-controls.com&#x2F;jobs-current)
 | [**Barbarian**](https:&#x2F;&#x2F;wearebarbarian.com&#x2F;) | [NYC] | marketing and advertising, new media | [🌐](https:&#x2F;&#x2F;wearebarbarian.hire.trakstar.com&#x2F;jobs?)
+| [**batwin + robin productions**](https:&#x2F;&#x2F;www.batwinandrobin.com&#x2F;) | [NYC] | environments, interactives, theaters, events | 
 | [**Beaudry Interactive**](https:&#x2F;&#x2F;www.binteractive.com&#x2F;) | [LA] | themed entertainment, museum exhibitions, live shows, and branded experiences | 
 | [**Blackbow**](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;) | [Beijing] | projection mapping, digital art and cultural experiences | [🌐](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;career&#x2F;)
 | [**Blublu**](http:&#x2F;&#x2F;www.blu-blu.com&#x2F;) | [Hangzhou] | projection mapping, immersive experiences for museums and workspace | [📧](mailto:blu@blu-blu.com)
@@ -206,6 +207,7 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**Dave + Gabe**](https:&#x2F;&#x2F;www.daveandgabe.care&#x2F;) | [NYC] | interactive installation studio, real-time animation, generative 3D sound | 
 | [**Hypersonic**](https:&#x2F;&#x2F;www.hypersonic.cc&#x2F;) | [NYC] | groundbreaking new media sculptures and physical installations | 
 | [**Kimchi and Chips**](https:&#x2F;&#x2F;www.kimchiandchips.com&#x2F;) | [South Korea] | intersection of art, science and philosophy through ambitious large-scale installations | 
+| [**NightLight Labs**](https:&#x2F;&#x2F;nightlight.io&#x2F;) | [LA] | installations, activations, narrative experiences | 
 | [**NONOTAK Studio**](https:&#x2F;&#x2F;www.nonotak.com&#x2F;) | [Paris] | light and sound installations, ethereal, immersive, dreamlike | 
 | [**panGenerator**](https:&#x2F;&#x2F;pangenerator.com&#x2F;) | [Warsaw] | new media art and design collective, mixing bits &amp; atoms | 
 | [**Random International**](https:&#x2F;&#x2F;www.random-international.com&#x2F;) | [London] [Berlin] | experimental practice within contemporary art, human condition in an increasingly mechanised world | 
@@ -239,7 +241,9 @@ Groups that mostly fabricate pieces for creative technology companies.
 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
+| [**5 Ten**](https:&#x2F;&#x2F;www.510visuals.com&#x2F;) | [NYC] | LED technology design, fabrication, and integration | 
 | [**Bednark**](https:&#x2F;&#x2F;builtbybednark.com&#x2F;) | [NYC] | full-service fabrication, production, install | 
+| [**Bridgewater Studio**](https:&#x2F;&#x2F;www.bridgewaterstudio.net) | [Chicago] | full service design and fabrication | [🌐](https:&#x2F;&#x2F;www.bridgewaterstudio.net&#x2F;about)
 | [**Eventscape**](https:&#x2F;&#x2F;eventscape.com&#x2F;) | [Toronto] | building the extraordinary, full service | 
 | [**Gamma**](https:&#x2F;&#x2F;gamma.nyc&#x2F;) | [NYC] | large scale robotic cnc, install, sculptures | 
 | [**Pink Sparrow**](https:&#x2F;&#x2F;www.pinksparrow.com&#x2F;) | [NYC] [LA] | environmental design, project management | 

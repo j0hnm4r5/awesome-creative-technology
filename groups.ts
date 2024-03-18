@@ -111,11 +111,6 @@ export const list: List = [
 				link: "https://www.breezecreative.com/",
 				locations: ["NYC", "Miami"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Bright": {
 				careerLink: "https://brig.ht/contact",
 				keywords: "data visualization, digital installations, experiential sites, video games",
@@ -178,6 +173,11 @@ export const list: List = [
 				keywords: "AR, music videos, interactive installations, games",
 				link: "https://dotdot.studio/about/",
 				locations: ["Auckland", "NYC", "Brisbane"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"Deeplocal": {
 				careerLink: "https://deeplocal.applytojob.com/",
