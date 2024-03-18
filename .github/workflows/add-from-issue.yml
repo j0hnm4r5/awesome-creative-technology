@@ -25,11 +25,19 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: Print Test 
-        run: echo "body-> ${{ github.event.issue.body }} event."
+      # - name: Print Test 
+      #   run: echo "body-> ${{ github.event.issue.body }} event."
 
-      # - name: Commit
-      #   uses: stefanzweifel/git-auto-commit-action@v4
-      #   with:
-      #     add_options: "--force README.md UP.md CLOSED.md"
-      #     commit_message: Generate READMEs
+      - name: Create branch
+        run: git checkout -b ${{github.event.issue.title}}
+
+      - name: Add from body of issue
+        run: npm run add-from-issue $'${{ github.event.issue.body }}'
+
+      - name: Commit group update
+        run: git add groups.ts && git commit -m "Added from issue '${{github.event.issue.title}}'" && git push origin ${{github.event.issue.title}}
+
+      - name: create pull request
+        run: gh pr create -B main -H ${{github.event.issue.title}} --title 'Merge ${{github.event.issue.title}} into main' --body 'closes ${{github.event.issue.number}}'
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
