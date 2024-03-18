@@ -26,10 +26,7 @@ jobs:
         run: npm ci
 
       - name: Print Test 
-        uses: actions/github-script@v1
-        with:
-          script: |
-            console.log('${{ github.event.issue.body }}')
+        run: echo "body-> ${{ github.event.issue.body }} event."
 
       # - name: Commit
       #   uses: stefanzweifel/git-auto-commit-action@v4
