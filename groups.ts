@@ -842,7 +842,6 @@ export const list: List = [
 				link: "https://www.xorxor.hu",
 				locations: ["Budapest"],
 			},
-"y=f(x)": {"keywords":"creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design","link":"https://www.yfxlab.com/","locations":["Amsterdam"],"careerLink":"_No response_"},
 			"Yellow Studio": {
 				careerLink: "join our team link broken",
 				keywords: "artistically-minded design, tv/concert/event production design, set design",
@@ -894,6 +893,13 @@ export const list: List = [
 				keywords: "a tech-driven creative agency",
 				link: "https://www.space150.com/",
 				locations: ["Minneapolis", "LA", "NYC"],
+			},
+			"y=f(x)": {
+				keywords:
+					"creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design",
+				link: "https://www.yfxlab.com/",
+				locations: ["Amsterdam"],
+				careerLink: "_No response_",
 			},
 		},
 	},
@@ -952,6 +958,11 @@ export const list: List = [
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.thecuttlefish.com/",
 				locations: ["USA"],
+			},
+			"Ultravioletto": {
+				keywords: "exhibitions, fairs, museums, brand experiences and events",
+				link: "https://ultraviolet.to/",
+				locations: ["Rome"],
 			},
 			"United Visual Artists": {
 				keywords:
