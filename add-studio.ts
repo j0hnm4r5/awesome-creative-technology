@@ -1,6 +1,5 @@
 import { Issue, CreativeTechnologist } from "./types";
 import { list } from "./groups";
-
 const fs = require("fs");
 
 function insertStudio(data: string[], insertText: string, lineNumber: number) {
@@ -13,14 +12,59 @@ function insertStudio(data: string[], insertText: string, lineNumber: number) {
 	});
 }
 
+export function parseIssue(input: String) : Issue {
+	let issue = {} as Issue;
+	// split issue into sections and skip the first item which is just '###'
+	let sections = input.split("###").slice(1);
+	for (let i = 0; i < sections.length; i+=1){
+		const section = sections[i];
+		const els = section.split("\\n\\n");
+		const entry = els.slice(1).join("").trim();
+		switch (i){
+			case 0:
+				issue.type = entry;
+				break;
+			case 1:
+				issue.name = entry;
+				break;
+			case 2:
+				issue.keywords = entry;
+				break;
+			case 3:
+				issue.website = entry;
+				break;
+			case 4:
+				if (entry !== "No response"){
+					issue.careers = entry;
+				}
+				break;
+			case 5:
+				const regex = /(".*?"|[^",\s]+)(?=\s*,|\s*$)/g;
+				let found = entry.match(regex);
+				if (found){
+					for(let i = 0; i < found.length; i+=1){
+						found[i] = found[i].replace(/"/g, '');
+					}
+					issue.locations = found;
+				}
+				else {
+					issue.locations = [];
+				}
+				break;
+			default:
+				break;
+		}
+	}
+	return issue;
+}
+
 export function addStudio(issue: Issue) {
-	// console.log(list);
 	const tech: CreativeTechnologist = {
 		keywords: issue.keywords,
 		link: issue.website,
-		locations: issue.locations.split(","),
-	};
-	if (issue.careers) {
+		locations: issue.locations,
+	}
+;	if (issue.careers) {
 		tech.careerLink = issue.careers;
 	}
 
@@ -36,7 +80,7 @@ export function addStudio(issue: Issue) {
 				if (issue.name.toLowerCase() < otherStudio.toLowerCase()) {
 					console.log(`${issue.name} should go before ${otherStudio}`);
 					for (let j = 0; j < data.length; j += 1) {
-						if (data[i].includes(`"${otherStudio}"`)) {
+						if (data[j].includes(`"${otherStudio}"`)) {
 							console.log(`We need to add our text in at line ${j}`);
 							insertStudio(data, studioString, j);
 							return;
@@ -75,3 +119,10 @@ export function addStudio(issue: Issue) {
 // };
 
 // addStudio(last);
+
+process.argv.shift()  // skip node.exe
+process.argv.shift()  // skip name of js file
+
+const issue = parseIssue(process.argv.join(" "));
+// console.log(issue);
+addStudio(issue);
