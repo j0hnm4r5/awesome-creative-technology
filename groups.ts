@@ -899,7 +899,6 @@ export const list: List = [
 					"creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design",
 				link: "https://www.yfxlab.com/",
 				locations: ["Amsterdam"],
-				careerLink: "_No response_",
 			},
 		},
 	},
