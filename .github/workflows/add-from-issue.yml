@@ -9,6 +9,7 @@ jobs:
     if: github.event.label.name == 'new addition'
     permissions:
       issues: write
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
