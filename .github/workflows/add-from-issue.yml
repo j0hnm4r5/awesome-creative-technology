@@ -32,6 +32,9 @@ jobs:
       - name: Add from body of issue
         run: npm run add-from-issue $'${{ github.event.issue.body }}'
 
+      - name: Format
+        run: npm run format
+
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
