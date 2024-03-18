@@ -8,7 +8,7 @@
 	"scripts": {
 		"format": "npx eslint . --fix",
 		"generate": "ts-node index.ts",
-		"add-studio": "ts-node add-studio.ts"
+		"add-from-issue": "ts-node add-studio.ts"
 	},
 	"dependencies": {
 		"github-slugger": "^1.4.0",
