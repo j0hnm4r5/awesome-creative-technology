@@ -18,5 +18,5 @@ export type Issue = {
 	keywords: string;
 	website: string;
 	careers?: string;
-	locations: string;
+	locations: string[];
 };
