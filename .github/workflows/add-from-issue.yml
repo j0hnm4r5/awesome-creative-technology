@@ -29,15 +29,16 @@ jobs:
       #   run: echo "body-> ${{ github.event.issue.body }} event."
 
       - name: Create branch
-        run: git checkout -b ${{github.event.issue.title}}
+        # branch name will be add-item-{issue-number}
+        run: git checkout -b add-item-${{github.event.issue.number}}
 
       - name: Add from body of issue
         run: npm run add-from-issue $'${{ github.event.issue.body }}'
 
       - name: Commit group update
-        run: git add groups.ts && git commit -m "Added from issue '${{github.event.issue.title}}'" && git push origin ${{github.event.issue.title}}
+        run: git add groups.ts && git commit -m "Added from issue '${{github.event.issue.title}}'" && git push origin add-item-${{github.event.issue.number}}
 
       - name: create pull request
-        run: gh pr create -B main -H ${{github.event.issue.title}} --title 'Merge ${{github.event.issue.title}} into main' --body 'closes ${{github.event.issue.number}}'
+        run: gh pr create -B main -H add-item-${{github.event.issue.number}} --title 'Merge ${{github.event.issue.title}} into main' --body 'closes ${{github.event.issue.number}}'
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
