@@ -19,7 +19,7 @@ export function parseIssue(input: String): Issue {
 	const sections = input.split("###").slice(1);
 	for (let i = 0; i < sections.length; i += 1) {
 		const section = sections[i];
-		const els = section.split("\\n  \\n");
+		const els = section.split("\n");
 		const entry = els.slice(1).join("").trim();
 		switch (i) {
 			case 0:
