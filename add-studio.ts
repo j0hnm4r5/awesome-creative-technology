@@ -115,8 +115,8 @@ process.argv.shift(); // skip node.exe
 process.argv.shift(); // skip name of js file
 
 const input = process.argv.join(" ");
-console.log("Input is:");
-console.log(input);
+// console.log("Input is:");
+// console.log(input);
 const issue = parseIssue(input);
 console.log(`Add from issue:`);
 console.log(issue);
