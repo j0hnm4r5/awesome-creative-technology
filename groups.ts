@@ -53,6 +53,11 @@ export const list: List = [
 				link: "https://www.artprocessors.net",
 				locations: ["Melbourne", "NYC"],
 			},
+			"Artists & Engineers": {
+				keywords: "production and technology studio, showrooms, concerts, art installations",
+				link: "https://www.artistsandengineers.co.uk/",
+				locations: ["London"],
+			},
 			"Augmented Magic": {
 				careerLink: "contact@augmented-magic.com",
 				keywords: "augmented magic shows, digital installations",
@@ -232,11 +237,6 @@ export const list: List = [
 				link: "https://dpt.co/",
 				locations: ["Montreal"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"ESI Design": {
 				careerLink: "https://esidesign.nbbj.com/jobs/",
 				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
@@ -294,6 +294,11 @@ export const list: List = [
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "experiential technologies in advertising and entertainment and art",
 				link: "https://www.futurecolossal.com/",
+				locations: ["NYC"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
 				locations: ["NYC"],
 			},
 			"Gallagher & Associates": {
