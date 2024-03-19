@@ -148,6 +148,11 @@ export const list: List = [
 				link: "https://cocolab.mx/en/",
 				locations: ["Mexico City"],
 			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
+			},
 			"Code and Theory": {
 				careerLink: "https://www.codeandtheory.com/careers",
 				keywords:
@@ -302,11 +307,6 @@ export const list: List = [
 				link: "https://www.futurecolossal.com/",
 				locations: ["NYC"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Gallagher & Associates": {
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "harmony between technology, narrative, and physical design",
@@ -367,11 +367,6 @@ export const list: List = [
 					"mobile apps, interactive screens, web development, application design and visualization",
 				link: "https://intergalactic.com",
 				locations: ["Vancouver", "London"],
-			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
 			},
 			"Invisible North": {
 				careerLink: "jobs@invisiblenorth.com",
@@ -806,12 +801,6 @@ export const list: List = [
 				link: "https://www.toolofna.com/",
 				locations: ["LA"],
 			},
-			"tamschick": {
-				keywords: "media and architectural narrative design, exhibitions, branded space, musuems",
-				link: "https://tamschick.com/",
-				locations: ["Berlin"],
-				careerLink: "https://tamschick.factorialhr.com/",
-			},
 			"Trivium Interactive": {
 				careerLink: "https://www.triviuminteractive.com/careers",
 				keywords: "experience design and production",
@@ -932,6 +921,12 @@ export const list: List = [
 				keywords: "interactive experiences, analog and digital, musuems",
 				link: "https://www.prettybloodysimple.com",
 				locations: ["Munich"],
+			},
+			"tamschick": {
+				careerLink: "https://tamschick.factorialhr.com/",
+				keywords: "media and architectural narrative design, exhibitions, branded space, musuems",
+				link: "https://tamschick.com/",
+				locations: ["Berlin"],
 			},
 			"space150": {
 				careerLink: "https://www.space150.com/careers",
