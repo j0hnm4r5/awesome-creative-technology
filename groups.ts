@@ -801,6 +801,12 @@ export const list: List = [
 				link: "https://www.toolofna.com/",
 				locations: ["LA"],
 			},
+			"tamschick": {
+				keywords: "media and architectural narrative design, exhibitions, branded space, musuems",
+				link: "https://tamschick.com/",
+				locations: ["Berlin"],
+				careerLink: "https://tamschick.factorialhr.com/",
+			},
 			"Trivium Interactive": {
 				careerLink: "https://www.triviuminteractive.com/careers",
 				keywords: "experience design and production",
