@@ -232,11 +232,6 @@ export const list: List = [
 				link: "https://dpt.co/",
 				locations: ["Montreal"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"ESI Design": {
 				careerLink: "https://esidesign.nbbj.com/jobs/",
 				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
@@ -294,6 +289,11 @@ export const list: List = [
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "experiential technologies in advertising and entertainment and art",
 				link: "https://www.futurecolossal.com/",
+				locations: ["NYC"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
 				locations: ["NYC"],
 			},
 			"Gallagher & Associates": {
@@ -782,6 +782,12 @@ export const list: List = [
 					"help brands and agencies with ideation, content, and experience production that generate buzz",
 				link: "https://www.toolofna.com/",
 				locations: ["LA"],
+			},
+			"tamschick": {
+				keywords: "media and architectural narrative design, exhibitions, branded space, musuems",
+				link: "https://tamschick.com/",
+				locations: ["Berlin"],
+				careerLink: "https://tamschick.factorialhr.com/",
 			},
 			"Trivium Interactive": {
 				careerLink: "https://www.triviuminteractive.com/careers",
