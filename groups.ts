@@ -174,11 +174,6 @@ export const list: List = [
 				link: "https://dotdot.studio/about/",
 				locations: ["Auckland", "NYC", "Brisbane"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Deeplocal": {
 				careerLink: "https://deeplocal.applytojob.com/",
 				keywords: "creative engineers, inventors, interactive experiences, human stories",
@@ -236,6 +231,11 @@ export const list: List = [
 				keywords: "generating wonder with immersive platforms, AR, & VR",
 				link: "https://dpt.co/",
 				locations: ["Montreal"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"ESI Design": {
 				careerLink: "https://esidesign.nbbj.com/jobs/",
