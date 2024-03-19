@@ -162,6 +162,12 @@ export const list: List = [
 				link: "https://www.comuzi.xyz/",
 				locations: ["London"],
 			},
+			"Cosm": {
+				careerLink: "https://www.cosm.com/careers",
+				keywords: "immersive entertainment and media, planetariums, LED domes",
+				link: "https://www.cosm.com/",
+				locations: ["Dallas", "LA", "City", "Pittsburgh", "Gurgaon"],
+			},
 			"DE-YAN": {
 				careerLink: "CAREERS@DE-YAN.COM",
 				keywords:
@@ -289,6 +295,11 @@ export const list: List = [
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "experiential technologies in advertising and entertainment and art",
 				link: "https://www.futurecolossal.com/",
+				locations: ["NYC"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
 				locations: ["NYC"],
 			},
 			"Gallagher & Associates": {
