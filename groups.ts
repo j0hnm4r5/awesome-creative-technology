@@ -291,11 +291,6 @@ export const list: List = [
 				link: "https://www.futurecolossal.com/",
 				locations: ["NYC"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Gallagher & Associates": {
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "harmony between technology, narrative, and physical design",
@@ -356,6 +351,11 @@ export const list: List = [
 					"mobile apps, interactive screens, web development, application design and visualization",
 				link: "https://intergalactic.com",
 				locations: ["Vancouver", "London"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"Invisible North": {
 				careerLink: "jobs@invisiblenorth.com",
@@ -440,13 +440,6 @@ export const list: List = [
 				link: "https://mindbuffer.net/",
 				locations: ["Berlin"],
 			},
-			"Mousetrappe Media": {
-				keywords:
-					"media design and production, architecturally mapped projection, immersive films, exhibits, attractions, and live events",
-				link: "https://www.mousetrappe.com/",
-				locations: ["LA"],
-				careerLink: "https://www.mousetrappe.com/244-2/jobs/",
-			},
 			"Moment Factory": {
 				careerLink: "https://momentfactory.com/careers",
 				keywords: "shows, destinations, content, interactive, scenography",
@@ -491,6 +484,13 @@ export const list: List = [
 				keywords: "digital art",
 				link: "https://www.behance.net/motseart/projects",
 				locations: ["Shenzhen"],
+			},
+			"Mousetrappe Media": {
+				careerLink: "https://www.mousetrappe.com/244-2/jobs/",
+				keywords:
+					"media design and production, architecturally mapped projection, immersive films, exhibits, attractions, and live events",
+				link: "https://www.mousetrappe.com/",
+				locations: ["LA"],
 			},
 			"NCompass": {
 				keywords:
