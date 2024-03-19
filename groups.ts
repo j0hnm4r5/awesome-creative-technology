@@ -53,6 +53,11 @@ export const list: List = [
 				link: "https://www.artprocessors.net",
 				locations: ["Melbourne", "NYC"],
 			},
+			"Artists & Engineers": {
+				keywords: "production and technology studio, showrooms, concerts, art installations",
+				link: "https://www.artistsandengineers.co.uk/",
+				locations: ["London"],
+			},
 			"Augmented Magic": {
 				careerLink: "contact@augmented-magic.com",
 				keywords: "augmented magic shows, digital installations",
