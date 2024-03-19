@@ -208,11 +208,6 @@ export const list: List = [
 				link: "https://www.digitalambiance.com/",
 				locations: ["Berkeley, CA"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Digital Kitchen": {
 				keywords:
 					"iconic main titles, multimedia content, imaginative experiences, and immersive spaces",
@@ -271,6 +266,11 @@ export const list: List = [
 					"lighting and audiovisual design, themed attractions, museums, architecture, public spaces, building facades, presentation centers, and public art installations",
 				link: "https://www.eoslightmedia.com/",
 				locations: ["Vancouver", "NYC", "Orlando"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"Extrapolation Factory": {
 				keywords: "research studio, futures studies, collaborative prototyping",
