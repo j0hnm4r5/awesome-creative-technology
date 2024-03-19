@@ -948,6 +948,11 @@ export const list: List = [
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
+			"3-Legged Dog": {
+				keywords: "original works in theater, performance, dance, media and hybrid forms",
+				link: "https://www.3ld.org/",
+				locations: ["NYC"],
+			},
 			"Brooklyn Research": {
 				keywords:
 					"we build interactive systems for a range of clients including museums, artists, and leading technology firms",
