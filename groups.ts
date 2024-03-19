@@ -148,11 +148,6 @@ export const list: List = [
 				link: "https://cocolab.mx/en/",
 				locations: ["Mexico City"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Code and Theory": {
 				careerLink: "https://www.codeandtheory.com/careers",
 				keywords:
@@ -212,6 +207,11 @@ export const list: List = [
 				keywords: "lighting design, projection mapping, interactive design",
 				link: "https://www.digitalambiance.com/",
 				locations: ["Berkeley, CA"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"Digital Kitchen": {
 				keywords:
@@ -922,17 +922,17 @@ export const list: List = [
 				link: "https://www.prettybloodysimple.com",
 				locations: ["Munich"],
 			},
-			"tamschick": {
-				careerLink: "https://tamschick.factorialhr.com/",
-				keywords: "media and architectural narrative design, exhibitions, branded space, musuems",
-				link: "https://tamschick.com/",
-				locations: ["Berlin"],
-			},
 			"space150": {
 				careerLink: "https://www.space150.com/careers",
 				keywords: "a tech-driven creative agency",
 				link: "https://www.space150.com/",
 				locations: ["Minneapolis", "LA", "NYC"],
+			},
+			"tamschick": {
+				careerLink: "https://tamschick.factorialhr.com/",
+				keywords: "media and architectural narrative design, exhibitions, branded space, musuems",
+				link: "https://tamschick.com/",
+				locations: ["Berlin"],
 			},
 			"y=f(x)": {
 				keywords:

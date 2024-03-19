@@ -54,6 +54,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Alt Ethos**](https:&#x2F;&#x2F;altethos.com&#x2F;) | [Denver] | experiential, metaverse, and event design agency | 
 | [**Art + Com**](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;) | [Berlin] | media sculptures, data installations, new media | [🌐](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;jobs&#x2F;)
 | [**Art Processors**](https:&#x2F;&#x2F;www.artprocessors.net) | [Melbourne] [NYC] | partner with cultural and tourism organisations to invent new realities of human experience | [🌐](https:&#x2F;&#x2F;www.artprocessors.net&#x2F;job-opportunities)
+| [**Artists &amp; Engineers**](https:&#x2F;&#x2F;www.artistsandengineers.co.uk&#x2F;) | [London] | production and technology studio, showrooms, concerts, art installations | 
 | [**Augmented Magic**](https:&#x2F;&#x2F;www.augmented-magic.com&#x2F;) | [Paris] | augmented magic shows, digital installations | [📧](mailto:contact@augmented-magic.com)
 | [**AV Controls**](https:&#x2F;&#x2F;www.av-controls.com&#x2F;) | [NYC] | site-specific technology installations, digital landmarks | [🌐](https:&#x2F;&#x2F;www.av-controls.com&#x2F;jobs-current)
 | [**Barbarian**](https:&#x2F;&#x2F;wearebarbarian.com&#x2F;) | [NYC] | marketing and advertising, new media | [🌐](https:&#x2F;&#x2F;wearebarbarian.hire.trakstar.com&#x2F;jobs?)
@@ -74,6 +75,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Code and Theory**](https:&#x2F;&#x2F;www.codeandtheory.com&#x2F;) | [NYC] [San Francisco] [London] [Manila] | strategically driven, digital-first agency that lives at the intersection of creativity and technology | [🌐](https:&#x2F;&#x2F;www.codeandtheory.com&#x2F;careers)
 | [**Cognition**](https:&#x2F;&#x2F;cognitionlabs.io&#x2F;) | [LA] | an interactive studio designed to enrich experiences by building creative technology with human empathy | [🌐](https:&#x2F;&#x2F;www.codeandtheory.com&#x2F;careers)
 | [**Comuzi**](https:&#x2F;&#x2F;www.comuzi.xyz&#x2F;) | [London] | explore and imagine and prototyp and creatr future-forward creative concepts | 
+| [**Cosm**](https:&#x2F;&#x2F;www.cosm.com&#x2F;) | [Dallas] [LA] [City] [Pittsburgh] [Gurgaon] | immersive entertainment and media, planetariums, LED domes | [🌐](https:&#x2F;&#x2F;www.cosm.com&#x2F;careers)
 | [**DE-YAN**](https:&#x2F;&#x2F;de-yan.com&#x2F;) | [NYC] | creative concepting, experiential, motion, graphic &amp; interactive design within luxury, fashion, beauty, &amp; lifestyle | [📧](mailto:CAREERS@DE-YAN.COM)
 | [**Deeplocal**](https:&#x2F;&#x2F;www.deeplocal.com&#x2F;) | [Pittsburgh] | creative engineers, inventors, interactive experiences, human stories | [🌐](https:&#x2F;&#x2F;deeplocal.applytojob.com&#x2F;)
 | [**Design I&#x2F;O**](https:&#x2F;&#x2F;www.design-io.com&#x2F;) | [NYC] [San Francisco] | immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space | 
@@ -173,6 +175,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**SUPERBIEN**](https:&#x2F;&#x2F;www.superbien.studio) | [Paris] [NYC] [Dubai] | Creative studio for visually extended experiences, merging digital &amp; physical environments. | [🌐](https:&#x2F;&#x2F;www.superbien.studio&#x2F;career)
 | [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects | [🌐](https:&#x2F;&#x2F;superflypresents.applytojob.com&#x2F;apply)
 | [**TAD**](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;) | [NYC] [London] | digital experiences, technology and architecture, designed to inspire people. | [🌐](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;home&#x2F;opportunities)
+| [**tamschick**](https:&#x2F;&#x2F;tamschick.com&#x2F;) | [Berlin] | media and architectural narrative design, exhibitions, branded space, musuems | [🌐](https:&#x2F;&#x2F;tamschick.factorialhr.com&#x2F;)
 | [**Team Epiphany**](https:&#x2F;&#x2F;www.teamepiphany.com&#x2F;) | [NYC] [LA] | influencer marketing, IRL, vertical integration | [📧](mailto:info@teamepiphany.com)
 | [**Tellart**](https:&#x2F;&#x2F;www.tellart.com&#x2F;) | [Providence] [Amsterdam] [San Francisco] | transformative experiences, invention, physical &amp; digital experiences, new technologies | [📧](mailto:careers@tellart.com)
 | [**The Gathery**](http:&#x2F;&#x2F;www.thegathery.com&#x2F;) | [NYC] | editorially-born creative agency specializing in brand marketing and content creation | [🌐](https:&#x2F;&#x2F;www.thegathery.com&#x2F;careers)
