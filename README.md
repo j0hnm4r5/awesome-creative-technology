@@ -207,6 +207,7 @@ Established artist collectives&#x2F;practices that work with creative technology
 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
+| [**3-Legged Dog**](https:&#x2F;&#x2F;www.3ld.org&#x2F;) | [NYC] | original works in theater, performance, dance, media and hybrid forms | 
 | [**Brooklyn Research**](https:&#x2F;&#x2F;brooklynresearch.com&#x2F;) | [NYC] | we build interactive systems for a range of clients including museums, artists, and leading technology firms | 
 | [**Dave + Gabe**](https:&#x2F;&#x2F;www.daveandgabe.care&#x2F;) | [NYC] | interactive installation studio, real-time animation, generative 3D sound | 
 | [**Hypersonic**](https:&#x2F;&#x2F;www.hypersonic.cc&#x2F;) | [NYC] | groundbreaking new media sculptures and physical installations | 
