@@ -6,7 +6,7 @@ const fs = require("fs");
 function insertStudio(data: string[], insertText: string, lineNumber: number) {
 	data.splice(lineNumber, 0, insertText);
 	const text = data.join("\n");
-	fs.writeFile("groups.ts", text, function (err: Error) {
+	fs.writeFile("groups.ts", text, (err: Error) => {
 		if (err) {
 			console.log(err);
 		}
