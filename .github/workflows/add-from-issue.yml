@@ -20,14 +20,11 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: "20"
           cache: npm
 
       - name: Install
         run: npm ci
-
-      # - name: Print Test 
-      #   run: echo "body-> ${{ github.event.issue.body }} event."
 
       - name: Add from body of issue
         run: npm run add-from-issue $'${{ github.event.issue.body }}'
