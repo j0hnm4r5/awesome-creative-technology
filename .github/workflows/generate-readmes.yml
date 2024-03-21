@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: "20"
           cache: npm
 
       - name: Install
@@ -33,5 +33,6 @@ jobs:
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          add_options: "--force README.md UP.md CLOSED.md"
+          file_pattern: "--force README.md UP.md CLOSED.md"
+          disable_globbing: true
           commit_message: Generate READMEs

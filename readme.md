@@ -54,11 +54,9 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Alt Ethos**](https:&#x2F;&#x2F;altethos.com&#x2F;) | [Denver] | experiential, metaverse, and event design agency | 
 | [**Art + Com**](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;) | [Berlin] | media sculptures, data installations, new media | [🌐](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;jobs&#x2F;)
 | [**Art Processors**](https:&#x2F;&#x2F;www.artprocessors.net) | [Melbourne] [NYC] | partner with cultural and tourism organisations to invent new realities of human experience | [🌐](https:&#x2F;&#x2F;www.artprocessors.net&#x2F;job-opportunities)
-| [**Artists &amp; Engineers**](https:&#x2F;&#x2F;www.artistsandengineers.co.uk&#x2F;) | [London] | production and technology studio, showrooms, concerts, art installations | 
 | [**Augmented Magic**](https:&#x2F;&#x2F;www.augmented-magic.com&#x2F;) | [Paris] | augmented magic shows, digital installations | [📧](mailto:contact@augmented-magic.com)
 | [**AV Controls**](https:&#x2F;&#x2F;www.av-controls.com&#x2F;) | [NYC] | site-specific technology installations, digital landmarks | [🌐](https:&#x2F;&#x2F;www.av-controls.com&#x2F;jobs-current)
 | [**Barbarian**](https:&#x2F;&#x2F;wearebarbarian.com&#x2F;) | [NYC] | marketing and advertising, new media | [🌐](https:&#x2F;&#x2F;wearebarbarian.hire.trakstar.com&#x2F;jobs?)
-| [**batwin + robin productions**](https:&#x2F;&#x2F;www.batwinandrobin.com&#x2F;) | [NYC] | environments, interactives, theaters, events | 
 | [**Beaudry Interactive**](https:&#x2F;&#x2F;www.binteractive.com&#x2F;) | [LA] | themed entertainment, museum exhibitions, live shows, and branded experiences | 
 | [**Blackbow**](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;) | [Beijing] | projection mapping, digital art and cultural experiences | [🌐](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;career&#x2F;)
 | [**Blublu**](http:&#x2F;&#x2F;www.blu-blu.com&#x2F;) | [Hangzhou] | projection mapping, immersive experiences for museums and workspace | [📧](mailto:blu@blu-blu.com)
@@ -67,7 +65,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**BRDG Studios**](https:&#x2F;&#x2F;www.brdg.co&#x2F;) | [Philadelphia] | digital moments in physical spaces, retail environments, art galleries, events | [🌐](https:&#x2F;&#x2F;brdg.co&#x2F;careers&#x2F;)
 | [**BREAKFAST**](https:&#x2F;&#x2F;breakfastny.com&#x2F;) | [NYC] | software-&#x2F;hardware-driven artworks, flip discs | [🌐](https:&#x2F;&#x2F;breakfaststudio.com&#x2F;jobs)
 | [**Breeze Creative**](https:&#x2F;&#x2F;www.breezecreative.com&#x2F;) | [NYC] [Miami] | interactive experience design, family entertainment, museums, playgrounds, educational institutions | 
-| [**Bright**](https:&#x2F;&#x2F;brig.ht&#x2F;) | [Paris] | data visualization, digital installations, experiential sites, video games | [🌐](https:&#x2F;&#x2F;brig.ht&#x2F;contact)
 | [**C&amp;G Partners**](https:&#x2F;&#x2F;www.cgpartnersllc.com&#x2F;) | [NYC] | branding, digital installations, exhibits and environments, signage, wayfinding, websites | [🌐](https:&#x2F;&#x2F;www.cgpartnersllc.com&#x2F;about&#x2F;careers&#x2F;)
 | [**Charcoalblue**](https:&#x2F;&#x2F;www.charcoalblue.com&#x2F;) | [NYC] [Melbourne] [Chicago] [UK] [London] | amazing spaces where stories are told and experiences are shared | [🌐](https:&#x2F;&#x2F;www.charcoalblue.com&#x2F;work-with-us)
 | [**Cinimod Studio**](https:&#x2F;&#x2F;www.cinimodstudio.com) | [London] | location based work where technology, environment, content and real life interaction meet | [🌐](https:&#x2F;&#x2F;www.cinimodstudio.com&#x2F;about)
@@ -75,7 +72,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Code and Theory**](https:&#x2F;&#x2F;www.codeandtheory.com&#x2F;) | [NYC] [San Francisco] [London] [Manila] | strategically driven, digital-first agency that lives at the intersection of creativity and technology | [🌐](https:&#x2F;&#x2F;www.codeandtheory.com&#x2F;careers)
 | [**Cognition**](https:&#x2F;&#x2F;cognitionlabs.io&#x2F;) | [LA] | an interactive studio designed to enrich experiences by building creative technology with human empathy | [🌐](https:&#x2F;&#x2F;www.codeandtheory.com&#x2F;careers)
 | [**Comuzi**](https:&#x2F;&#x2F;www.comuzi.xyz&#x2F;) | [London] | explore and imagine and prototyp and creatr future-forward creative concepts | 
-| [**Cosm**](https:&#x2F;&#x2F;www.cosm.com&#x2F;) | [Dallas] [LA] [City] [Pittsburgh] [Gurgaon] | immersive entertainment and media, planetariums, LED domes | [🌐](https:&#x2F;&#x2F;www.cosm.com&#x2F;careers)
 | [**DE-YAN**](https:&#x2F;&#x2F;de-yan.com&#x2F;) | [NYC] | creative concepting, experiential, motion, graphic &amp; interactive design within luxury, fashion, beauty, &amp; lifestyle | [📧](mailto:CAREERS@DE-YAN.COM)
 | [**Deeplocal**](https:&#x2F;&#x2F;www.deeplocal.com&#x2F;) | [Pittsburgh] | creative engineers, inventors, interactive experiences, human stories | [🌐](https:&#x2F;&#x2F;deeplocal.applytojob.com&#x2F;)
 | [**Design I&#x2F;O**](https:&#x2F;&#x2F;www.design-io.com&#x2F;) | [NYC] [San Francisco] | immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space | 
@@ -128,7 +124,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Moment Factory**](https:&#x2F;&#x2F;momentfactory.com&#x2F;home) | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | shows, destinations, content, interactive, scenography | [🌐](https:&#x2F;&#x2F;momentfactory.com&#x2F;careers)
 | [**Momentum Worldwide**](https:&#x2F;&#x2F;www.momentumww.com&#x2F;) | [NYC] [Athens] [Atlanta] [Bogota] [Bucharest] [Cairo] [Chicago] [Dubai] [Frankfurt] [Gothenburg] [Lima] [London] [Madrid] [Manchester] [Mexico City] [Milan] [New Delhi] [Santiago] [Sao Paulo] [Seattle] [Seoul] [St. Louis] [Sydney] [Toronto] [Tokyo] | disruptive, entertaining, shareable, unforgettable experiences for clients and their fans | [🌐](https:&#x2F;&#x2F;www.momentumww.com&#x2F;opportunities&#x2F;)
 | [**Motse**](https:&#x2F;&#x2F;www.behance.net&#x2F;motseart&#x2F;projects) | [Shenzhen] | digital art | [📧](mailto:lixuanjie@silkroadcg.com)
-| [**Mousetrappe Media**](https:&#x2F;&#x2F;www.mousetrappe.com&#x2F;) | [LA] | media design and production, architecturally mapped projection, immersive films, exhibits, attractions, and live events | [🌐](https:&#x2F;&#x2F;www.mousetrappe.com&#x2F;244-2&#x2F;jobs&#x2F;)
 | [**MSCHF**](https:&#x2F;&#x2F;mschf.xyz&#x2F;) | [NYC] | viral stunts and products, trying to do stuff that the world can&#39;t even define | 
 | [**mycotoo**](https:&#x2F;&#x2F;mycotoo.com&#x2F;) | [LA] [Barcelona] | entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide | 
 | [**NCompass**](https:&#x2F;&#x2F;ncompassonline.com&#x2F;) | [LA] | brand and marketing solutions creating experiences that integrate the latest technology and creative | 
@@ -144,7 +139,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**OIO**](https:&#x2F;&#x2F;oio.studio&#x2F;) | [London] | creative company working on future products and tools for a less boring future | 
 | [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [🌐](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)
-| [**Ouchhh Studio**](https:&#x2F;&#x2F;ouchhh.tv&#x2F;) | [Istanbul] | public art, poetic public experiences, data as a paint, algorithm as a brush | 
 | [**Patten Studio**](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;) | [NYC] | informed by research at the MIT Media Lab, experiences that connect people | [🌐](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;about&#x2F;)
 | [**Potion Design**](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;) | [NYC] | design and technology studio, interactive, musuems | [🌐](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;work-with-us)
 | [**pretty bloody simple**](https:&#x2F;&#x2F;www.prettybloodysimple.com) | [Munich] | interactive experiences, analog and digital, musuems | 
@@ -175,7 +169,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**SUPERBIEN**](https:&#x2F;&#x2F;www.superbien.studio) | [Paris] [NYC] [Dubai] | Creative studio for visually extended experiences, merging digital &amp; physical environments. | [🌐](https:&#x2F;&#x2F;www.superbien.studio&#x2F;career)
 | [**Superfly**](https:&#x2F;&#x2F;superf.ly&#x2F;) | [NYC] | create shared experiences that shape how the world plays &amp; connects | [🌐](https:&#x2F;&#x2F;superflypresents.applytojob.com&#x2F;apply)
 | [**TAD**](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;) | [NYC] [London] | digital experiences, technology and architecture, designed to inspire people. | [🌐](https:&#x2F;&#x2F;technologyarchitecturedesign.com&#x2F;home&#x2F;opportunities)
-| [**tamschick**](https:&#x2F;&#x2F;tamschick.com&#x2F;) | [Berlin] | media and architectural narrative design, exhibitions, branded space, musuems | [🌐](https:&#x2F;&#x2F;tamschick.factorialhr.com&#x2F;)
 | [**Team Epiphany**](https:&#x2F;&#x2F;www.teamepiphany.com&#x2F;) | [NYC] [LA] | influencer marketing, IRL, vertical integration | [📧](mailto:info@teamepiphany.com)
 | [**Tellart**](https:&#x2F;&#x2F;www.tellart.com&#x2F;) | [Providence] [Amsterdam] [San Francisco] | transformative experiences, invention, physical &amp; digital experiences, new technologies | [📧](mailto:careers@tellart.com)
 | [**The Gathery**](http:&#x2F;&#x2F;www.thegathery.com&#x2F;) | [NYC] | editorially-born creative agency specializing in brand marketing and content creation | [🌐](https:&#x2F;&#x2F;www.thegathery.com&#x2F;careers)
@@ -196,7 +189,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation | [🌐](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;channels&#x2F;219.html)
 | [**XORXOR**](https:&#x2F;&#x2F;www.xorxor.hu) | [Budapest] | collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design | [🌐](https:&#x2F;&#x2F;www.xorxor.hu&#x2F;jobs.html)
-| [**y&#x3D;f(x)**](https:&#x2F;&#x2F;www.yfxlab.com&#x2F;) | [Amsterdam] | creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design | 
 | [**Yellow Studio**](https:&#x2F;&#x2F;yellowstudio.com&#x2F;) | [NYC] | artistically-minded design, tv&#x2F;concert&#x2F;event production design, set design | 
 | [**Zebradog**](https:&#x2F;&#x2F;www.zebradog.com&#x2F;) | [Madison] | communication design and the built environment, higher education | 
 
@@ -207,12 +199,10 @@ Established artist collectives&#x2F;practices that work with creative technology
 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
-| [**3-Legged Dog**](https:&#x2F;&#x2F;www.3ld.org&#x2F;) | [NYC] | original works in theater, performance, dance, media and hybrid forms | 
 | [**Brooklyn Research**](https:&#x2F;&#x2F;brooklynresearch.com&#x2F;) | [NYC] | we build interactive systems for a range of clients including museums, artists, and leading technology firms | 
 | [**Dave + Gabe**](https:&#x2F;&#x2F;www.daveandgabe.care&#x2F;) | [NYC] | interactive installation studio, real-time animation, generative 3D sound | 
 | [**Hypersonic**](https:&#x2F;&#x2F;www.hypersonic.cc&#x2F;) | [NYC] | groundbreaking new media sculptures and physical installations | 
 | [**Kimchi and Chips**](https:&#x2F;&#x2F;www.kimchiandchips.com&#x2F;) | [South Korea] | intersection of art, science and philosophy through ambitious large-scale installations | 
-| [**NightLight Labs**](https:&#x2F;&#x2F;nightlight.io&#x2F;) | [LA] | installations, activations, narrative experiences | 
 | [**NONOTAK Studio**](https:&#x2F;&#x2F;www.nonotak.com&#x2F;) | [Paris] | light and sound installations, ethereal, immersive, dreamlike | 
 | [**panGenerator**](https:&#x2F;&#x2F;pangenerator.com&#x2F;) | [Warsaw] | new media art and design collective, mixing bits &amp; atoms | 
 | [**Random International**](https:&#x2F;&#x2F;www.random-international.com&#x2F;) | [London] [Berlin] | experimental practice within contemporary art, human condition in an increasingly mechanised world | 
@@ -220,7 +210,6 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**Taller Estampa**](https:&#x2F;&#x2F;www.tallerestampa.com) | [Barcelona] | group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments. | 
 | [**teamLab**](https:&#x2F;&#x2F;www.teamlab.art&#x2F;) | [Tokyo] | full-room interactive projection mapping, interdisciplinary group of ultratechnologists | 
 | [**The Cuttelfish**](https:&#x2F;&#x2F;www.thecuttlefish.com&#x2F;) | [USA] | explore and imagine and prototyp and creatr future-forward creative concepts | 
-| [**Ultravioletto**](https:&#x2F;&#x2F;ultraviolet.to&#x2F;) | [Rome] | exhibitions, fairs, museums, brand experiences and events | 
 | [**United Visual Artists**](https:&#x2F;&#x2F;www.uva.co.uk&#x2F;) | [London] | new technologies with traditional media, site-specific, instruments that manipulate perception | 
 | [**WHYIXD**](https:&#x2F;&#x2F;www.whyixd.com&#x2F;) | [Taiwan] | cross-disciplinary art installations, dance, architecture, music | 
 
@@ -246,9 +235,7 @@ Groups that mostly fabricate pieces for creative technology companies.
 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
-| [**5 Ten**](https:&#x2F;&#x2F;www.510visuals.com&#x2F;) | [NYC] | LED technology design, fabrication, and integration | 
 | [**Bednark**](https:&#x2F;&#x2F;builtbybednark.com&#x2F;) | [NYC] | full-service fabrication, production, install | 
-| [**Bridgewater Studio**](https:&#x2F;&#x2F;www.bridgewaterstudio.net) | [Chicago] | full service design and fabrication | [🌐](https:&#x2F;&#x2F;www.bridgewaterstudio.net&#x2F;about)
 | [**Eventscape**](https:&#x2F;&#x2F;eventscape.com&#x2F;) | [Toronto] | building the extraordinary, full service | 
 | [**Gamma**](https:&#x2F;&#x2F;gamma.nyc&#x2F;) | [NYC] | large scale robotic cnc, install, sculptures | 
 | [**Pink Sparrow**](https:&#x2F;&#x2F;www.pinksparrow.com&#x2F;) | [NYC] [LA] | environmental design, project management | 

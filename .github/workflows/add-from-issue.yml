@@ -1,0 +1,42 @@
+name: add-from-issue
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  add-item:
+    if: github.event.label.name == 'new addition'
+    permissions:
+      contents: write           # 'write' access to repository contents
+      pull-requests: write      # 'write' access to pull requests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Add from body of issue
+        run: npm run add-from-issue $'${{ github.event.issue.body }}'
+
+      - name: Format
+        run: npm run format
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Added from issue ${{github.event.issue.number}}"
+          branch: add-from-issue/${{github.event.issue.number}}
+          title: "Pull request for '${{github.event.issue.title}}'"
+          body: "Closes #${{github.event.issue.number}}"

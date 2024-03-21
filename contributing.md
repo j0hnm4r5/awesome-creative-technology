@@ -1,10 +1,8 @@
 # Contribution Guidelines
 
-## Easy, but slow (for now)
+## The Easy Way
 
-Submit a [new issue](/issues/new?assignees=j0hnm4r5&labels=new+addition&projects=&template=request-addition.yaml&title=%5BAdd%5D:+) and the maintainers will add it to the list.
-
-We are working on a way to make this process more automatic.
+Submit a [new issue](https://github.com/j0hnm4r5/awesome-creative-technology/issues/new/choose) using the "Request an addition" issue template. This will automatically create a pull request which the maintainers will be able to merge in.
 
 ## DIY
 
