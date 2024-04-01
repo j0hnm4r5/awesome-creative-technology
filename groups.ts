@@ -267,11 +267,6 @@ export const list: List = [
 				link: "https://www.eoslightmedia.com/",
 				locations: ["Vancouver", "NYC", "Orlando"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Extrapolation Factory": {
 				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
@@ -330,6 +325,11 @@ export const list: List = [
 				keywords: "translate cultural trends into big ideas, experiential, gaming",
 				link: "https://giantspoon.com/",
 				locations: ["NYC", "LA"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"HUSH": {
 				careerLink: "https://www.heyhush.com/people",
@@ -849,6 +849,11 @@ export const list: List = [
 					"public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals",
 				link: "https://www.whitevoid.com/",
 				locations: ["Berlin", "Shanghai"],
+			},
+			"WOA STUDIO": {
+				keywords: "immersive experiences, multimedia, video mapping, digital artistry",
+				link: "https://www.woastudio.it/",
+				locations: ["Milan"],
 			},
 			"We Are Royale": {
 				careerLink: "jobs@weareroyale.com",
