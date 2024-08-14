@@ -326,10 +326,11 @@ export const list: List = [
 				link: "https://giantspoon.com/",
 				locations: ["NYC", "LA"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
+			"Groove Jones": {
+				careerLink: "https://groovejones.com/workwithus/",
+				keywords: "XR, AR, VR, volumetric scanning, popups",
+				link: "https://groovejones.com/",
+				locations: ["Dallas"],
 			},
 			"HUSH": {
 				careerLink: "https://www.heyhush.com/people",
@@ -379,6 +380,11 @@ export const list: List = [
 				keywords: "create modern experiences for tomorrow's brands",
 				link: "https://www.jam3.com",
 				locations: ["Toronto", "LA", "Montevideo", "Amsterdam"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"Jason Sherwood Design": {
 				keywords: "television and broadway and concert stage design",
