@@ -199,6 +199,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**y&#x3D;f(x)**](https:&#x2F;&#x2F;www.yfxlab.com&#x2F;) | [Amsterdam] | creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design | 
 | [**Yellow Studio**](https:&#x2F;&#x2F;yellowstudio.com&#x2F;) | [NYC] | artistically-minded design, tv&#x2F;concert&#x2F;event production design, set design | 
 | [**Zebradog**](https:&#x2F;&#x2F;www.zebradog.com&#x2F;) | [Madison] | communication design and the built environment, higher education | 
+| [**Zebrar**](https:&#x2F;&#x2F;www.zebrar.com&#x2F;) | [Sydney] | immersive technology &amp; interactive design, AR, VR, digital activations | 
 
 
 ## Collectives &amp; Practices
