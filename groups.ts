@@ -267,11 +267,6 @@ export const list: List = [
 				link: "https://www.eoslightmedia.com/",
 				locations: ["Vancouver", "NYC", "Orlando"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"Extrapolation Factory": {
 				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
@@ -330,6 +325,11 @@ export const list: List = [
 				keywords: "translate cultural trends into big ideas, experiential, gaming",
 				link: "https://giantspoon.com/",
 				locations: ["NYC", "LA"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"HUSH": {
 				careerLink: "https://www.heyhush.com/people",
@@ -886,6 +886,11 @@ export const list: List = [
 				keywords: "communication design and the built environment, higher education",
 				link: "https://www.zebradog.com/",
 				locations: ["Madison"],
+			},
+			"Zebrar": {
+				keywords: "immersive technology & interactive design, AR, VR, digital activations",
+				link: "https://www.zebrar.com/",
+				locations: ["Sydney"],
 			},
 			"dotdotdash": {
 				careerLink: "https://www.dotdotdash.io/careers",
