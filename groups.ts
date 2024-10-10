@@ -632,6 +632,12 @@ export const list: List = [
 				link: "https://www.pattenstudio.com/",
 				locations: ["NYC"],
 			},
+			"Pneuhaus": {
+				keywords:
+					"using inflatables to investigate the fundamental properties of perceptual experience in order to incite curiosity and wonder",
+				link: "https://pneu.haus",
+				locations: ["Island"],
+			},
 			"Potion Design": {
 				careerLink: "https://www.potiondesign.com/work-with-us",
 				keywords: "design and technology studio, interactive, musuems",
