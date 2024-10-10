@@ -104,6 +104,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Game Seven**](https:&#x2F;&#x2F;www.gamesevenmktg.com&#x2F;) | [NYC] [LA] | intersection of sport and culture, brand stories | [🌐](https:&#x2F;&#x2F;www.gameseven.agency&#x2F;careers)
 | [**Geeksart**](http:&#x2F;&#x2F;geeks-art.com&#x2F;) | [Guangzhou] [Shanghai] | media sculptures, new media exhibition | [🌐](http:&#x2F;&#x2F;geeks-art.com&#x2F;join-us&#x2F;)
 | [**Giant Spoon**](https:&#x2F;&#x2F;giantspoon.com&#x2F;) | [NYC] [LA] | translate cultural trends into big ideas, experiential, gaming | [🌐](https:&#x2F;&#x2F;giantspoon.com&#x2F;#careers)
+| [**Groove Jones**](https:&#x2F;&#x2F;groovejones.com&#x2F;) | [Dallas] | XR, AR, VR, volumetric scanning, popups | [🌐](https:&#x2F;&#x2F;groovejones.com&#x2F;workwithus&#x2F;)
 | [**Hotel Creative**](https:&#x2F;&#x2F;hotelcreative.com&#x2F;) | [London] | retail, branding, exhibitions, events | [📧](mailto:jobs@hotelcreative.com)
 | [**Hovercraft**](https:&#x2F;&#x2F;www.hovercraftstudio.com&#x2F;) | [Denver] [Portland] | interactive installations, site-specific content, retail, sports | [🌐](https:&#x2F;&#x2F;hovercraftstudio.com&#x2F;careers?job&#x3D;freelance-creative-partners)
 | [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)

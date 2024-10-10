@@ -6,7 +6,7 @@
 	"author": "John Mars <john@hellomars.dev>",
 	"license": "MIT",
 	"scripts": {
-		"format": "npx eslint . --fix",
+		"format": "eslint . --fix",
 		"generate": "ts-node index.ts",
 		"add-from-issue": "ts-node add-studio.ts"
 	},

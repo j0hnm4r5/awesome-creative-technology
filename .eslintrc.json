@@ -14,6 +14,6 @@
 	"rules": {
 		"import/prefer-default-export": "off",
 		"no-console": "off",
-		"sort-keys-fix/sort-keys-fix": "warn"
+		"sort-keys-fix/sort-keys-fix": ["error", "asc", { "caseSensitive": false, "natural": true }]
 	}
 }
