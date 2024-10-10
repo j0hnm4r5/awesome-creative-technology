@@ -110,6 +110,11 @@ export const list: List = [
 				link: "https://www.bluecadet.com/",
 				locations: ["Philadelphia", "NYC"],
 			},
+			"Brain": {
+				keywords: "s very serious art studio",
+				link: "https://brain.wtf",
+				locations: ["LA"],
+			},
 			"Breeze Creative": {
 				keywords:
 					"interactive experience design, family entertainment, museums, playgrounds, educational institutions",
@@ -326,11 +331,6 @@ export const list: List = [
 				link: "https://giantspoon.com/",
 				locations: ["NYC", "LA"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"HUSH": {
 				careerLink: "https://www.heyhush.com/people",
 				keywords: "marketing and advertising, retail and DTC, architecture",
@@ -390,6 +390,11 @@ export const list: List = [
 				keywords: "products, platforms, and services that solve fundamental human challenges",
 				link: "https://www.leftfieldlabs.com/",
 				locations: ["LA"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
 			},
 			"Listen": {
 				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
