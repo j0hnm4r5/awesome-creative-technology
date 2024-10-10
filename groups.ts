@@ -64,6 +64,11 @@ export const list: List = [
 				link: "https://www.augmented-magic.com/",
 				locations: ["Paris"],
 			},
+      "batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
+				locations: ["NYC"],
+			},
 			"BRC Imagination Arts": {
 				keywords: "brand and cultural stories, strategy, animation, digital and hybrid experiences",
 				link: "https://www.brcweb.com/",
@@ -109,6 +114,11 @@ export const list: List = [
 				keywords: "experience design across digital and physical environments, visitor centers",
 				link: "https://www.bluecadet.com/",
 				locations: ["Philadelphia", "NYC"],
+			},
+			"Brain": {
+				keywords: "s very serious art studio",
+				link: "https://brain.wtf",
+				locations: ["LA"],
 			},
 			"Breeze Creative": {
 				keywords:
@@ -470,7 +480,7 @@ export const list: List = [
 				link: "https://www.momentumww.com/",
 				locations: [
 					"NYC",
-					"Athens",
+				"Athens",
 					"Atlanta",
 					"Bogota",
 					"Bucharest",
