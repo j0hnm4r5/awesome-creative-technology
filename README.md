@@ -217,6 +217,7 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**Brooklyn Research**](https:&#x2F;&#x2F;brooklynresearch.com&#x2F;) | [NYC] | we build interactive systems for a range of clients including museums, artists, and leading technology firms | 
 | [**Dave + Gabe**](https:&#x2F;&#x2F;www.daveandgabe.care&#x2F;) | [NYC] | interactive installation studio, real-time animation, generative 3D sound | 
 | [**Hypersonic**](https:&#x2F;&#x2F;www.hypersonic.cc&#x2F;) | [NYC] | groundbreaking new media sculptures and physical installations | 
+| [**Jen Lewin Studio**](https:&#x2F;&#x2F;www.jenlewinstudio.com&#x2F;) | [NYC] | interactive light landscapes | 
 | [**Kimchi and Chips**](https:&#x2F;&#x2F;www.kimchiandchips.com&#x2F;) | [South Korea] | intersection of art, science and philosophy through ambitious large-scale installations | 
 | [**NightLight Labs**](https:&#x2F;&#x2F;nightlight.io&#x2F;) | [LA] | installations, activations, narrative experiences | 
 | [**NONOTAK Studio**](https:&#x2F;&#x2F;www.nonotak.com&#x2F;) | [Paris] | light and sound installations, ethereal, immersive, dreamlike | 
