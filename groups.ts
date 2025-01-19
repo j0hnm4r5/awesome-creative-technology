@@ -669,6 +669,13 @@ export const list: List = [
 				link: "https://rarevolume.com/",
 				locations: ["NYC"],
 			},
+			"Recursive": {
+				careerLink: "https://recursive.digital/career",
+				keywords:
+					"AV, Lighting, Content and Software to transform spaces for brands, venues, and people",
+				link: "https://recursive.digital/",
+				locations: ["Eastbourne", "UK"],
+			},
 			"Red Paper Heart": {
 				careerLink: "jobs@redpaperheart.com",
 				keywords: "art from real world interaction",
