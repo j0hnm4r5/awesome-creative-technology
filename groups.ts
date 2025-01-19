@@ -1473,6 +1473,11 @@ export const list: List = [
 				link: "https://nlprod.com/",
 				locations: ["Boston"],
 			},
+			"Recursive": {
+				keywords: "immersive shows, projection, visitor experience design",
+				link: "https://www.tknl.com/en/experiences",
+				locations: ["Montreal"],
+			},
 			"RLMG": {
 				keywords:
 					"story-driven, interactive, dynamic, immersive, and educational installations for public spaces.",
