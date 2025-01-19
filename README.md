@@ -154,7 +154,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**pretty bloody simple**](https:&#x2F;&#x2F;www.prettybloodysimple.com) | [Munich] | interactive experiences, analog and digital, musuems | 
 | [**RadicalMedia**](https:&#x2F;&#x2F;www.radicalmedia.com&#x2F;) | [NYC] [LA] | commercials, documentaries, music videos, branded experiences, &amp; immersive environments | [📧](mailto:careers@radicalmedia.com)
 | [**Rare Volume**](https:&#x2F;&#x2F;rarevolume.com&#x2F;) | [NYC] | design and technology studio, interactive video walls | [🌐](https:&#x2F;&#x2F;rarevolume.com&#x2F;about&#x2F;)
-| [**Recursive**](https:&#x2F;&#x2F;recursive.digital&#x2F;) | [Eastbourne] [UK] | AV, Lighting, Content and Software to transform spaces for brands, venues, and people | 
+| [**Recursive**](https:&#x2F;&#x2F;recursive.digital&#x2F;) | [Eastbourne, UK] | AV, Lighting, Content and Software to transform spaces for brands, venues, and people | 
 | [**Red Paper Heart**](https:&#x2F;&#x2F;redpaperheart.com) | [NYC] | art from real world interaction | [📧](mailto:jobs@redpaperheart.com)
 | [**Relative Scale**](https:&#x2F;&#x2F;relativescale.com&#x2F;) | [Raleigh] | bespoke digital products and experiences for brands and institutions | 
 | [**RGI Creative**](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;) | [Cleveland] | corporate experience design, museums exhibits and displays | [🌐](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;contactform)
@@ -324,7 +324,7 @@ Groups that generally focus on designing museums and similar experiences using c
 | [**Monadnock Media**](https:&#x2F;&#x2F;monadnock.org&#x2F;) | [Massachusetts] | multimedia experiences for museums, historic sites and public places | 
 | [**Northern Light Productions**](https:&#x2F;&#x2F;nlprod.com&#x2F;) | [Boston] | immersive media environments, interactive experiences, or documentary films. | 
 | [**Recursive**](https:&#x2F;&#x2F;www.tknl.com&#x2F;en&#x2F;experiences) | [Montreal] | immersive shows, projection, visitor experience design | 
-| [**Riggs Ward Design**](https:&#x2F;&#x2F;riggsward.com&#x2F;) | [Richmond] [Virginia] | exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions | 
+| [**Riggs Ward Design**](https:&#x2F;&#x2F;riggsward.com&#x2F;) | [Richmond, Virginia] | exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions | 
 | [**RLMG**](https:&#x2F;&#x2F;www.rlmg.com&#x2F;) | [Boston] | story-driven, interactive, dynamic, immersive, and educational installations for public spaces. | 
 | [**Roto**](https:&#x2F;&#x2F;roto.com&#x2F;) | [Columbus, OH] | experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking. | 
 | [**Thinc**](https:&#x2F;&#x2F;www.thincdesign.com&#x2F;) | [NYC] | provoke meaningful conversations about the world in which we live | 
