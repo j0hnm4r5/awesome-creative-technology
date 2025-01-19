@@ -224,7 +224,6 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**NONOTAK Studio**](https:&#x2F;&#x2F;www.nonotak.com&#x2F;) | [Paris] | light and sound installations, ethereal, immersive, dreamlike | 
 | [**panGenerator**](https:&#x2F;&#x2F;pangenerator.com&#x2F;) | [Warsaw] | new media art and design collective, mixing bits &amp; atoms | 
 | [**Random International**](https:&#x2F;&#x2F;www.random-international.com&#x2F;) | [London] [Berlin] | experimental practice within contemporary art, human condition in an increasingly mechanised world | 
-| [**Riggs Ward Design**](https:&#x2F;&#x2F;riggsward.com&#x2F;) | [Richmond] [Virginia] | exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions | 
 | [**Smooth Technology**](https:&#x2F;&#x2F;smooth.technology&#x2F;) | [NYC] | cutting-edge technology and artistic sensibility, wireless wearables, create the impossible | 
 | [**Taller Estampa**](https:&#x2F;&#x2F;www.tallerestampa.com) | [Barcelona] | group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments. | 
 | [**teamLab**](https:&#x2F;&#x2F;www.teamlab.art&#x2F;) | [Tokyo] | full-room interactive projection mapping, interdisciplinary group of ultratechnologists | 
@@ -325,6 +324,7 @@ Groups that generally focus on designing museums and similar experiences using c
 | [**Monadnock Media**](https:&#x2F;&#x2F;monadnock.org&#x2F;) | [Massachusetts] | multimedia experiences for museums, historic sites and public places | 
 | [**Northern Light Productions**](https:&#x2F;&#x2F;nlprod.com&#x2F;) | [Boston] | immersive media environments, interactive experiences, or documentary films. | 
 | [**Recursive**](https:&#x2F;&#x2F;www.tknl.com&#x2F;en&#x2F;experiences) | [Montreal] | immersive shows, projection, visitor experience design | 
+| [**Riggs Ward Design**](https:&#x2F;&#x2F;riggsward.com&#x2F;) | [Richmond] [Virginia] | exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions | 
 | [**RLMG**](https:&#x2F;&#x2F;www.rlmg.com&#x2F;) | [Boston] | story-driven, interactive, dynamic, immersive, and educational installations for public spaces. | 
 | [**Roto**](https:&#x2F;&#x2F;roto.com&#x2F;) | [Columbus, OH] | experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking. | 
 | [**Thinc**](https:&#x2F;&#x2F;www.thincdesign.com&#x2F;) | [NYC] | provoke meaningful conversations about the world in which we live | 
