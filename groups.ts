@@ -353,6 +353,13 @@ export const list: List = [
 				link: "https://groovejones.com/",
 				locations: ["Dallas"],
 			},
+			"Hirsch & Mann": {
+				careerLink: "https://www.hirschandmann.com/jobs/",
+				keywords:
+					"digital and physical experiences for premium brands worldwide, experiential retail marketing, installation design",
+				link: "https://www.hirschandmann.com/",
+				locations: ["London"],
+			},
 			"Hotel Creative": {
 				careerLink: "jobs@hotelcreative.com",
 				keywords: "retail, branding, exhibitions, events",
