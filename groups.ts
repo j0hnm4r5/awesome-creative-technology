@@ -674,7 +674,7 @@ export const list: List = [
 				keywords:
 					"AV, Lighting, Content and Software to transform spaces for brands, venues, and people",
 				link: "https://recursive.digital/",
-				locations: ["Eastbourne", "UK"],
+				locations: ["Eastbourne, UK"],
 			},
 			"Red Paper Heart": {
 				careerLink: "jobs@redpaperheart.com",
@@ -1476,7 +1476,7 @@ export const list: List = [
 				keywords:
 					"exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions",
 				link: "https://riggsward.com/",
-				locations: ["Richmond", "Virginia"],
+				locations: ["Richmond, Virginia"],
 			},
 			"RLMG": {
 				keywords:
