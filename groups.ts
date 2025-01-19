@@ -1003,6 +1003,11 @@ export const list: List = [
 				link: "https://www.hypersonic.cc/",
 				locations: ["NYC"],
 			},
+			"Jen Lewin Studio": {
+				keywords: "interactive light landscapes",
+				link: "https://www.jenlewinstudio.com/",
+				locations: ["NYC"],
+			},
 			"Kimchi and Chips": {
 				keywords:
 					"intersection of art, science and philosophy through ambitious large-scale installations",
