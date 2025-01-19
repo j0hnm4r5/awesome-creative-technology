@@ -1467,6 +1467,11 @@ export const list: List = [
 				link: "https://nlprod.com/",
 				locations: ["Boston"],
 			},
+			"Recursive": {
+				keywords: "immersive shows, projection, visitor experience design",
+				link: "https://www.tknl.com/en/experiences",
+				locations: ["Montreal"],
+			},
 			"Riggs Ward Design": {
 				keywords:
 					"exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions",
