@@ -1042,12 +1042,6 @@ export const list: List = [
 				link: "https://www.random-international.com/",
 				locations: ["London", "Berlin"],
 			},
-			"Riggs Ward Design": {
-				keywords:
-					"exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions",
-				link: "https://riggsward.com/",
-				locations: ["Richmond", "Virginia"],
-			},
 			"Smooth Technology": {
 				keywords:
 					"cutting-edge technology and artistic sensibility, wireless wearables, create the impossible",
@@ -1472,6 +1466,12 @@ export const list: List = [
 				keywords: "immersive media environments, interactive experiences, or documentary films.",
 				link: "https://nlprod.com/",
 				locations: ["Boston"],
+			},
+			"Riggs Ward Design": {
+				keywords:
+					"exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions",
+				link: "https://riggsward.com/",
+				locations: ["Richmond", "Virginia"],
 			},
 			"RLMG": {
 				keywords:
