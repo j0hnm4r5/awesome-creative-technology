@@ -323,11 +323,11 @@ Groups that generally focus on designing museums and similar experiences using c
 | [**Local Projects**](https:&#x2F;&#x2F;localprojects.com&#x2F;) | [NYC] | experience Designers pushing the boundaries of human interaction | 
 | [**Monadnock Media**](https:&#x2F;&#x2F;monadnock.org&#x2F;) | [Massachusetts] | multimedia experiences for museums, historic sites and public places | 
 | [**Northern Light Productions**](https:&#x2F;&#x2F;nlprod.com&#x2F;) | [Boston] | immersive media environments, interactive experiences, or documentary films. | 
-| [**Recursive**](https:&#x2F;&#x2F;www.tknl.com&#x2F;en&#x2F;experiences) | [Montreal] | immersive shows, projection, visitor experience design | 
 | [**Riggs Ward Design**](https:&#x2F;&#x2F;riggsward.com&#x2F;) | [Richmond, Virginia] | exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions | 
 | [**RLMG**](https:&#x2F;&#x2F;www.rlmg.com&#x2F;) | [Boston] | story-driven, interactive, dynamic, immersive, and educational installations for public spaces. | 
 | [**Roto**](https:&#x2F;&#x2F;roto.com&#x2F;) | [Columbus, OH] | experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking. | 
 | [**Thinc**](https:&#x2F;&#x2F;www.thincdesign.com&#x2F;) | [NYC] | provoke meaningful conversations about the world in which we live | 
+| [**TKNL**](https:&#x2F;&#x2F;www.tknl.com&#x2F;en&#x2F;experiences) | [Montreal] | immersive shows, projection, visitor experience design | 
 
 
 ## Festivals &amp; Conferences
