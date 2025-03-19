@@ -353,6 +353,13 @@ export const list: List = [
 				link: "https://groovejones.com/",
 				locations: ["Dallas"],
 			},
+			"Hirsch & Mann": {
+				careerLink: "https://www.hirschandmann.com/jobs/",
+				keywords:
+					"digital and physical experiences for premium brands worldwide, experiential retail marketing, installation design",
+				link: "https://www.hirschandmann.com/",
+				locations: ["London"],
+			},
 			"Hotel Creative": {
 				careerLink: "jobs@hotelcreative.com",
 				keywords: "retail, branding, exhibitions, events",
@@ -662,6 +669,13 @@ export const list: List = [
 				link: "https://rarevolume.com/",
 				locations: ["NYC"],
 			},
+			"Recursive": {
+				careerLink: "https://recursive.digital/career",
+				keywords:
+					"AV, Lighting, Content and Software to transform spaces for brands, venues, and people",
+				link: "https://recursive.digital/",
+				locations: ["Eastbourne, UK"],
+			},
 			"Red Paper Heart": {
 				careerLink: "jobs@redpaperheart.com",
 				keywords: "art from real world interaction",
@@ -962,6 +976,11 @@ export const list: List = [
 				link: "https://www.zebradog.com/",
 				locations: ["Madison"],
 			},
+			"Zebrar": {
+				keywords: "immersive technology & interactive design, AR, VR, digital activations",
+				link: "https://www.zebrar.com/",
+				locations: ["Sydney"],
+			},
 		},
 	},
 	{
@@ -989,6 +1008,11 @@ export const list: List = [
 			"Hypersonic": {
 				keywords: "groundbreaking new media sculptures and physical installations",
 				link: "https://www.hypersonic.cc/",
+				locations: ["NYC"],
+			},
+			"Jen Lewin Studio": {
+				keywords: "interactive light landscapes",
+				link: "https://www.jenlewinstudio.com/",
 				locations: ["NYC"],
 			},
 			"Kimchi and Chips": {
@@ -1443,6 +1467,12 @@ export const list: List = [
 				link: "https://nlprod.com/",
 				locations: ["Boston"],
 			},
+			"Riggs Ward Design": {
+				keywords:
+					"exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions",
+				link: "https://riggsward.com/",
+				locations: ["Richmond, Virginia"],
+			},
 			"RLMG": {
 				keywords:
 					"story-driven, interactive, dynamic, immersive, and educational installations for public spaces.",
@@ -1459,6 +1489,11 @@ export const list: List = [
 				keywords: "provoke meaningful conversations about the world in which we live",
 				link: "https://www.thincdesign.com/",
 				locations: ["NYC"],
+			},
+			"TKNL": {
+				keywords: "immersive shows, projection, visitor experience design",
+				link: "https://www.tknl.com/en/experiences",
+				locations: ["Montreal"],
 			},
 		},
 	},
