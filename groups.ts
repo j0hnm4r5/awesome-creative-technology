@@ -259,6 +259,11 @@ export const list: List = [
 				link: "https://dpt.co/",
 				locations: ["Montreal"],
 			},
+			"EMMA Co-op": {
+				keywords: "We develop software for clients in the video game, theater, public installation and media arts spaces among others.",
+				link: "https://emma.coop",
+				locations: ["NYC"],
+			},
 			"Eness": {
 				careerLink: "https://www.eness.com/jobs",
 				keywords: "evocative interactive experiences for public, commercial and cultural entities",
@@ -299,6 +304,11 @@ export const list: List = [
 				keywords: "a truly integrated creative agency",
 				link: "https://www.fasthorseinc.com/",
 				locations: ["Minneapolis"],
+			},
+			"Five Stone Studios": {
+				keywords: "Our creative arsenal spans design, live action, animation, & experiential storytelling",
+				link: "https://fivestonestudios.com/",
+				locations: ["Nashville"],
 			},
 			"FIELD": {
 				careerLink: "https://field.systems/join-us",
@@ -574,6 +584,12 @@ export const list: List = [
 				link: "https://www.nextnowagency.com/",
 				locations: ["Chicago"],
 			},
+			"Nexus Studios": {
+				careerLink: "https://apply.workable.com/nexusstudios/",
+				keywords: "film, experiential, AR",
+				link: "https://nexusstudios.com/",
+				locations: ["London", "Los Angeles"],
+			},
 			"NGX Interactive": {
 				careerLink: "https://ngxinteractive.recruitee.com/",
 				keywords: "pushing new technologies to create experiences that are vivid and meaningful",
@@ -721,6 +737,12 @@ export const list: List = [
 					"transforming data into compelling stories that fuel growth and create opportunity",
 				link: "https://set-reset.com/",
 				locations: ["London"],
+			},
+			"Sitara Systems": {
+				keywords:
+					"we create interactive and immersive experiences that break down complex ideas, inspire reflection, and ignite curiosity.",
+				link: "https://sitara.systems",
+				locations: ["Las Vegas"],
 			},
 			"SOSO": {
 				careerLink: "https://www.sosolimited.com/careers/",
@@ -916,9 +938,9 @@ export const list: List = [
 				link: "https://vtprodesign.com/",
 				locations: ["LA"],
 			},
-			"VVOX": {
+			"Volvox Labs": {
 				careerLink: "https://volvoxlabs.com/contact/",
-				keywords: "high-end design, code, fabrication, sound",
+				keywords: "high-end design, code, fabrication, sound, robotics",
 				link: "https://volvoxlabs.com/",
 				locations: ["NYC", "LA"],
 			},
@@ -1060,10 +1082,15 @@ export const list: List = [
 				link: "https://www.teamlab.art/",
 				locations: ["Tokyo"],
 			},
-			"The Cuttelfish": {
+			"The Cuttlefish": {
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.thecuttlefish.com/",
 				locations: ["USA"],
+			},
+			"TUNDRA": {
+				keywords: "In our artworks, we blend light, sound, space and use technology as a tool to interact with rapidly-changing environmental context.",
+				link: "https://www.wearetundra.com/",
+				locations: ["St. Petersburg"],
 			},
 			"Ultravioletto": {
 				keywords: "exhibitions, fairs, museums, brand experiences and events",
