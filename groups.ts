@@ -260,7 +260,8 @@ export const list: List = [
 				locations: ["Montreal"],
 			},
 			"EMMA Co-op": {
-				keywords: "We develop software for clients in the video game, theater, public installation and media arts spaces among others.",
+				keywords:
+					"We develop software for clients in the video game, theater, public installation and media arts spaces among others.",
 				link: "https://emma.coop",
 				locations: ["NYC"],
 			},
@@ -305,16 +306,17 @@ export const list: List = [
 				link: "https://www.fasthorseinc.com/",
 				locations: ["Minneapolis"],
 			},
-			"Five Stone Studios": {
-				keywords: "Our creative arsenal spans design, live action, animation, & experiential storytelling",
-				link: "https://fivestonestudios.com/",
-				locations: ["Nashville"],
-			},
 			"FIELD": {
 				careerLink: "https://field.systems/join-us",
 				keywords: "future aesthetics for design, motion, experiential",
 				link: "https://www.field.io/",
 				locations: ["London"],
+			},
+			"Five Stone Studios": {
+				keywords:
+					"Our creative arsenal spans design, live action, animation, & experiential storytelling",
+				link: "https://fivestonestudios.com/",
+				locations: ["Nashville"],
 			},
 			"Float4": {
 				careerLink: "https://float4.com/en/life-at-float4/",
@@ -932,17 +934,17 @@ export const list: List = [
 				link: "https://hello-upswell.com/",
 				locations: ["Portland"],
 			},
-			"VTProDesign": {
-				careerLink: "jobs@vtprodesign.com",
-				keywords: "high tech robotics and projection mapping",
-				link: "https://vtprodesign.com/",
-				locations: ["LA"],
-			},
 			"Volvox Labs": {
 				careerLink: "https://volvoxlabs.com/contact/",
 				keywords: "high-end design, code, fabrication, sound, robotics",
 				link: "https://volvoxlabs.com/",
 				locations: ["NYC", "LA"],
+			},
+			"VTProDesign": {
+				careerLink: "jobs@vtprodesign.com",
+				keywords: "high tech robotics and projection mapping",
+				link: "https://vtprodesign.com/",
+				locations: ["LA"],
 			},
 			"We Are Royale": {
 				careerLink: "jobs@weareroyale.com",
@@ -1088,7 +1090,8 @@ export const list: List = [
 				locations: ["USA"],
 			},
 			"TUNDRA": {
-				keywords: "In our artworks, we blend light, sound, space and use technology as a tool to interact with rapidly-changing environmental context.",
+				keywords:
+					"In our artworks, we blend light, sound, space and use technology as a tool to interact with rapidly-changing environmental context.",
 				link: "https://www.wearetundra.com/",
 				locations: ["St. Petersburg"],
 			},
@@ -1558,6 +1561,12 @@ export const list: List = [
 		description:
 			"Undergrad programs, masters and open course teaching and researching creative technologies",
 		rows: {
+			"Design and Technology at Parsons": {
+				keywords:
+					"critical computation, physical computing, game design, data visualization, creative coding, bio design",
+				link: "https://www.newschool.edu/parsons/mfa-design-technology/",
+				locations: ["NYC"],
+			},
 			"Goldsmiths": {
 				keywords:
 					"a degree which develops your arts practice through the expressive world of creative computation",
