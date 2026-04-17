@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1381,6 +1382,12 @@ export const list: List = [
 				keywords: "collaborative interactive exhibit",
 				link: "https://www.colorfactory.co/",
 				locations: ["NYC", "Houston"],
+			},
+			"Falcon’s Creative Group": {
+				careerLink: "https://falconscreativegroup.com/careers/",
+				keywords: "experience design for themed entertainment, attractions, and immersive media",
+				link: "https://falconscreativegroup.com/",
+				locations: ["Orlando"],
 			},
 			"Imagination": {
 				careerLink: "https://imagination.com/careers/",
