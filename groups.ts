@@ -1463,6 +1463,13 @@ export const list: List = [
 					"Tokyo",
 				],
 			},
+			"Set Creative": {
+				careerLink: "https://www.setcreative.com/careers",
+				keywords:
+					"experiential marketing, live events, B2B activations, brand experiences, event marketing",
+				link: "https://www.setcreative.com/",
+				locations: ["London", "NYC", "Portland"],
+			},
 			"SuperUber": {
 				keywords: "experiences that blend art, technology, architecture and design",
 				link: "https://www.superuber.com/",
