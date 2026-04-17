@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -539,6 +540,12 @@ export const list: List = [
 					"interactive experiences, installations, and digital activations for agencies, brands, and cultural organisations",
 				link: "https://kingdom-x.com/",
 				locations: ["London"],
+			},
+			"L3A UX Studio": {
+				keywords:
+					"ux research and design studio specializing in xr, digital experiences, and storytelling",
+				link: "https://l3astudio.com",
+				locations: ["Brooklyn, NY"],
 			},
 			"Left Field Labs": {
 				careerLink: "talent@leftfieldlabs.com",
