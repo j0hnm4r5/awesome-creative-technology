@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1707,6 +1708,11 @@ export const list: List = [
 					"product and experience innovation consultancy specializing in human-centered design, medical devices, and user experience",
 				link: "https://pddinnovation.com/",
 				locations: ["London", "Shanghai", "Boston", "Hong Kong"],
+			},
+			"Pilea": {
+				keywords: "video production and content creation for creators and brands",
+				link: "https://pilea.agency",
+				locations: ["Paris", "FR"],
 			},
 			"R/GA": {
 				keywords: "business, experience, and marketing transformation",
