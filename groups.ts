@@ -278,6 +278,13 @@ export const list: List = [
 				link: "https://dimin.com/",
 				locations: ["Kansas City", "Atlanta", "Minneapolis", "Denver", "LA", "Pittsburgh"],
 			},
+			"Dog Studio": {
+				careerLink: "https://dogstudio.co/careers/",
+				keywords:
+					"multidisciplinary creative studio specializing in design, technology, and immersive brand experiences",
+				link: "https://dogstudio.co/",
+				locations: ["Chicago", "Mexico City", "Amsterdam", "Namur"],
+			},
 			"Dome": {
 				keywords:
 					"experience design studio that gathers designers, technologists, and strategists to solve unusual problems",
