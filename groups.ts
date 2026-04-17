@@ -69,6 +69,12 @@ export const list: List = [
 				link: "https://apache.co.uk",
 				locations: ["St Albans, UK"],
 			},
+			"Array of Stars": {
+				keywords:
+					"strategic design studio creating experiences across physical, digital, and spatial dimensions",
+				link: "https://arrayofstars.com/",
+				locations: ["Toronto"],
+			},
 			"Art + Com": {
 				careerLink: "https://artcom.de/en/jobs/",
 				keywords: "media sculptures, data installations, new media",
@@ -1837,6 +1843,13 @@ export const list: List = [
 					"brand experience agency helping companies create connected consumer experiences across touchpoints and retail activations",
 				link: "https://sharpend.com/",
 				locations: ["London", "NYC"],
+			},
+			"Stink Studios": {
+				careerLink: "https://stinkstudios.com/careers",
+				keywords:
+					"global creative studio producing advertising, branding, and digital creative work in-house from thinking to making",
+				link: "https://stinkstudios.com/",
+				locations: ["London"],
 			},
 			"SuperUber": {
 				keywords: "experiences that blend art, technology, architecture and design",
