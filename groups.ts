@@ -500,6 +500,12 @@ export const list: List = [
 				link: "https://mindbuffer.net/",
 				locations: ["Berlin"],
 			},
+			"Modem": {
+				keywords:
+					"design and innovation studio exploring contemporary practice through time-bound experimentation",
+				link: "https://modemworks.com/",
+				locations: ["Amsterdam"],
+			},
 			"Moment Factory": {
 				careerLink: "https://momentfactory.com/careers",
 				keywords: "shows, destinations, content, interactive, scenography",
