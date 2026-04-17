@@ -1414,6 +1414,12 @@ export const list: List = [
 				link: "https://www.colorfactory.co/",
 				locations: ["NYC", "Houston"],
 			},
+			"Falcon’s Creative Group": {
+				careerLink: "https://falconscreativegroup.com/careers/",
+				keywords: "experience design for themed entertainment, attractions, and immersive media",
+				link: "https://falconscreativegroup.com/",
+				locations: ["Orlando"],
+			},
 			"Imagination": {
 				careerLink: "https://imagination.com/careers/",
 				keywords:
