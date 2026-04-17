@@ -1353,6 +1353,12 @@ export const list: List = [
 				link: "https://mvsm.com/",
 				locations: ["London", "LA"],
 			},
+			"MAS": {
+				keywords:
+					"bespoke experience agency, experiential marketing, physical and digital experiences, brand activation, creative technology",
+				link: "https://www.moremas.com/",
+				locations: ["response_"],
+			},
 			"Media Monks": {
 				keywords: "creative production",
 				link: "https://www.mediamonks.com/",
