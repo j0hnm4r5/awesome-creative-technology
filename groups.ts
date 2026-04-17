@@ -1579,6 +1579,12 @@ export const list: List = [
 				link: "https://www.gold.ac.uk/pg/ma-computational-arts/",
 				locations: ["London"],
 			},
+			"Interactive Media Arts at NYU Tisch": {
+				keywords:
+					"creative possibilities of technology, interactivity, emerging media, computation, physical and digital interactions, liberal arts",
+				link: "https://tisch.nyu.edu/itp",
+				locations: ["York", "NY"],
+			},
 			"ITP": {
 				keywords:
 					"ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.",
