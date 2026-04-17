@@ -869,6 +869,13 @@ export const list: List = [
 				link: "https://territorystudio.com/project-category/experiential/",
 				locations: ["London", "SF", "Barcelona"],
 			},
+			"Tetro": {
+				careerLink: "https://tetro.typeform.com/talents",
+				keywords:
+					"creative agency and artistic production company offering event design, spatial experiences, and immersive cultural exhibitions",
+				link: "https://tetro.fr/en",
+				locations: ["Lyon", "Paris"],
+			},
 			"The Gathery": {
 				careerLink: "https://www.thegathery.com/careers",
 				keywords:
