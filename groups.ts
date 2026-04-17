@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -92,6 +93,13 @@ export const list: List = [
 					"interactive experiences bridging physical and digital worlds through technology and creative innovation",
 				link: "https://baast.studio",
 				locations: ["Amsterdam"],
+			},
+			"Bakken & Bæck": {
+				careerLink: "https://bakkenbaeck.com/join",
+				keywords:
+					"design and technology studio building digital products and brands from strategy through development",
+				link: "https://bakkenbaeck.com",
+				locations: ["Oslo", "Amsterdam", "London", "Bonn", "Barcelona"],
 			},
 			"Barbarian": {
 				careerLink: "https://wearebarbarian.hire.trakstar.com/jobs?",
