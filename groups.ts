@@ -1405,6 +1405,13 @@ export const list: List = [
 				link: "https://www.themill.com/",
 				locations: ["London", "NYC", "LA", "Chicago", "Bangalore", "Berlin"],
 			},
+			"We Are Amplify": {
+				careerLink: "https://weareamplify.com/join-the-team",
+				keywords:
+					"global creative agency specialising in brand experience, entertainment, and cultural storytelling",
+				link: "https://weareamplify.com/",
+				locations: ["London", "Paris", "LA", "Sydney", "NYC"],
+			},
 			"Weber Shandwick": {
 				keywords:
 					"we work at the intersection of technology, society, policy and media, adding value to culture — to shape and re-shape it",
