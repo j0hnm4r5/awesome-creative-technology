@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -632,6 +633,12 @@ export const list: List = [
 					"audiovisual systems integration, interactive exhibits, video walls, touch-screen interactives, museum AV, automated control systems",
 				link: "https://www.modesystems.com/",
 				locations: ["Castle Rock, CO"],
+			},
+			"Modem": {
+				keywords:
+					"design and innovation studio exploring contemporary practice through time-bound experimentation",
+				link: "https://modemworks.com/",
+				locations: ["Amsterdam"],
 			},
 			"Moment Factory": {
 				careerLink: "https://momentfactory.com/careers",
