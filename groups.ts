@@ -524,6 +524,12 @@ export const list: List = [
 				link: "https://mindbuffer.net/",
 				locations: ["Berlin"],
 			},
+			"MODE Systems": {
+				keywords:
+					"audiovisual systems integration, interactive exhibits, video walls, touch-screen interactives, museum AV, automated control systems",
+				link: "https://www.modesystems.com/",
+				locations: ["Castle Rock, CO"],
+			},
 			"Moment Factory": {
 				careerLink: "https://momentfactory.com/careers",
 				keywords: "shows, destinations, content, interactive, scenography",
