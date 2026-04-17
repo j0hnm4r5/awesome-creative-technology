@@ -1527,6 +1527,13 @@ export const list: List = [
 					"Singapore",
 				],
 			},
+			"PDD": {
+				careerLink: "https://www.pddinnovation.com/careers/",
+				keywords:
+					"product and experience innovation consultancy specializing in human-centered design, medical devices, and user experience",
+				link: "https://pddinnovation.com/",
+				locations: ["London", "Shanghai", "Boston", "Hong Kong"],
+			},
 			"R/GA": {
 				keywords: "business, experience, and marketing transformation",
 				link: "https://www.rga.com/",
