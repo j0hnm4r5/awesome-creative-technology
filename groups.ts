@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1371,6 +1372,13 @@ export const list: List = [
 					"story-driven design, immersive experiences, stage design, live events, light and sound, technical design",
 				link: "https://59.studio/",
 				locations: ["London", "NYC"],
+			},
+			"Atelier Brückner": {
+				careerLink: "https://www.atelier-brueckner.com/en/jobs/",
+				keywords:
+					"narrative architecture, exhibition design, scenography, museum and cultural spaces, brand experiences",
+				link: "https://www.atelier-brueckner.com/en",
+				locations: ["Stuttgart"],
 			},
 			"Cascade": {
 				keywords: "interactive art experience",
