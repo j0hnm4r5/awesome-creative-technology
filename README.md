@@ -58,6 +58,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Alt Ethos**](https:&#x2F;&#x2F;altethos.com&#x2F;) | [Denver] | experiential, metaverse, and event design agency | 
 | [**Ambient Interactive**](https:&#x2F;&#x2F;www.ambientinteractive.com&#x2F;) | [Calgary, AB] | digital interactive exhibits, immersive experiences, museum technology, touch table interactives, audio-visual media, educational games | 
 | [**Apache**](https:&#x2F;&#x2F;apache.co.uk) | [St Albans, UK] | virtual reality, augmented reality, body-tracking, and immersive experiential production | 
+| [**Array of Stars**](https:&#x2F;&#x2F;arrayofstars.com&#x2F;) | [Toronto] | strategic design studio creating experiences across physical, digital, and spatial dimensions | 
 | [**Art + Com**](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;) | [Berlin] | media sculptures, data installations, new media | [🌐](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;jobs&#x2F;)
 | [**Art Processors**](https:&#x2F;&#x2F;www.artprocessors.net) | [Melbourne] [NYC] | partner with cultural and tourism organisations to invent new realities of human experience | [🌐](https:&#x2F;&#x2F;www.artprocessors.net&#x2F;job-opportunities)
 | [**Artists &amp; Engineers**](https:&#x2F;&#x2F;www.artistsandengineers.co.uk&#x2F;) | [London] | production and technology studio, showrooms, concerts, art installations | 
@@ -372,6 +373,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 | [**Radical Media**](https:&#x2F;&#x2F;radicalmedia.com&#x2F;) | [NYC] [LA] [London] [Berlin] | production company specializing in documentaries, commercials, music content, and immersive experiences for global brands | 
 | [**Set Creative**](https:&#x2F;&#x2F;www.setcreative.com&#x2F;) | [London] [NYC] [Portland] | experiential marketing, live events, B2B activations, brand experiences, event marketing | [🌐](https:&#x2F;&#x2F;www.setcreative.com&#x2F;careers)
 | [**SharpEnd**](https:&#x2F;&#x2F;sharpend.com&#x2F;) | [London] [NYC] | brand experience agency helping companies create connected consumer experiences across touchpoints and retail activations | [🌐](https:&#x2F;&#x2F;sharpend.com&#x2F;careers)
+| [**Stink Studios**](https:&#x2F;&#x2F;stinkstudios.com&#x2F;) | [London] | global creative studio producing advertising, branding, and digital creative work in-house from thinking to making | [🌐](https:&#x2F;&#x2F;stinkstudios.com&#x2F;careers)
 | [**SuperUber**](https:&#x2F;&#x2F;www.superuber.com&#x2F;) | [Rio de Janeiro] [São Paulo] | experiences that blend art, technology, architecture and design | 
 | [**The Mill**](https:&#x2F;&#x2F;www.themill.com&#x2F;) | [London] [NYC] [LA] [Chicago] [Bangalore] [Berlin] | experience makers, media and brand activation, innovative design, and inventive technologies | 
 | [**We Are Amplify**](https:&#x2F;&#x2F;weareamplify.com&#x2F;) | [London] [Paris] [LA] [Sydney] [NYC] | global creative agency specialising in brand experience, entertainment, and cultural storytelling | [🌐](https:&#x2F;&#x2F;weareamplify.com&#x2F;join-the-team)
