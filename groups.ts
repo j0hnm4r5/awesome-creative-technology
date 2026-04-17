@@ -64,6 +64,13 @@ export const list: List = [
 				link: "https://www.av-controls.com/",
 				locations: ["NYC"],
 			},
+			"Bakken & Bæck": {
+				careerLink: "https://bakkenbaeck.com/join",
+				keywords:
+					"design and technology studio building digital products and brands from strategy through development",
+				link: "https://bakkenbaeck.com",
+				locations: ["Oslo", "Amsterdam", "London", "Bonn", "Barcelona"],
+			},
 			"Barbarian": {
 				careerLink: "https://wearebarbarian.hire.trakstar.com/jobs?",
 				keywords: "marketing and advertising, new media",
