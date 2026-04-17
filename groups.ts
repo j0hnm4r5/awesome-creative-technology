@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1923,6 +1924,12 @@ export const list: List = [
 					"critical computation, physical computing, game design, data visualization, creative coding, bio design",
 				link: "https://www.newschool.edu/parsons/mfa-design-technology/",
 				locations: ["NYC"],
+			},
+			"Design Media Arts at UCLA": {
+				keywords:
+					"multidisciplinary artistic practice, experimentation, innovative thinking, hybridizing technologies, media arts",
+				link: "https://dma.ucla.edu/",
+				locations: ["Angeles", "CA"],
 			},
 			"Digital + Media at RISD": {
 				keywords:
