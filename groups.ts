@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -56,6 +57,12 @@ export const list: List = [
 					"digital interactive exhibits, immersive experiences, museum technology, touch table interactives, audio-visual media, educational games",
 				link: "https://www.ambientinteractive.com/",
 				locations: ["Calgary, AB"],
+			},
+			"Array of Stars": {
+				keywords:
+					"strategic design studio creating experiences across physical, digital, and spatial dimensions",
+				link: "https://arrayofstars.com/",
+				locations: ["Toronto"],
 			},
 			"Art + Com": {
 				careerLink: "https://artcom.de/en/jobs/",
