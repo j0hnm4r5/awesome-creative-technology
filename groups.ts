@@ -784,6 +784,13 @@ export const list: List = [
 				locations: ["Minneapolis", "LA", "NYC"],
 			},
 			"Sparks": {
+				careerLink: "https://www.wearesparks.com/contact/careers",
+				keywords:
+					"global brand experience agency, experiential marketing, exhibit design, environmental design, fabrication, digital and hybrid experiences, brand activations",
+				link: "https://www.wearesparks.com/",
+				locations: ["Philadelphia", "PA"],
+			},
+			"Sparks": {
 				keywords: "conferences, popups, event production, fabrication",
 				link: "https://www.wearesparks.com/",
 				locations: ["Philadelphia", "Shanghai", "Paris", "Berlin", "Amsterdam"],
