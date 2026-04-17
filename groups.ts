@@ -237,6 +237,12 @@ export const list: List = [
 				link: "https://dada-projects.com/",
 				locations: ["London"],
 			},
+			"Daily Tous Les Jours": {
+				careerLink: "https://www.dailytouslesjours.com/en/job-offers",
+				keywords: "interactive public art and design creating collective human experiences",
+				link: "https://dailytouslesjours.com/en",
+				locations: ["Montreal"],
+			},
 			"DE-YAN": {
 				careerLink: "CAREERS@DE-YAN.COM",
 				keywords:
