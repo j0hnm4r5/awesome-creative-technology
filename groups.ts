@@ -1038,6 +1038,12 @@ export const list: List = [
 				link: "https://www.wonderlabsstudio.com/",
 				locations: ["Shanghai"],
 			},
+			"wonderMakr": {
+				keywords:
+					"experiential innovation, brand activations, interactive installations, fabrication, event experiences, digital and physical hybrid experiences, technology integration",
+				link: "https://www.wondermakr.com/",
+				locations: ["Mississauga, ON"],
+			},
 			"XORXOR": {
 				careerLink: "https://www.xorxor.hu/jobs.html",
 				keywords:
