@@ -34,6 +34,12 @@ export const list: List = [
 				link: "https://altethos.com/",
 				locations: ["Denver"],
 			},
+			"Array of Stars": {
+				keywords:
+					"strategic design studio creating experiences across physical, digital, and spatial dimensions",
+				link: "https://arrayofstars.com/",
+				locations: ["Toronto"],
+			},
 			"Art + Com": {
 				careerLink: "https://artcom.de/en/jobs/",
 				keywords: "media sculptures, data installations, new media",
