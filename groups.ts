@@ -1005,6 +1005,13 @@ export const list: List = [
 				link: "http://theprojects.com/",
 				locations: ["London", "LA", "NYC", "Sydney"],
 			},
+			"The Workers": {
+				careerLink: "https://theworkers.net/jobs",
+				keywords:
+					"experience design studio creating interactive digital installations and immersive displays for museums, cultural institutions, and brands",
+				link: "https://theworkers.net/",
+				locations: ["London"],
+			},
 			"THG": {
 				keywords: "experiential, exhibit, live shows, theme parks, retail, dining, museums",
 				link: "https://thehettemagroup.com/",
