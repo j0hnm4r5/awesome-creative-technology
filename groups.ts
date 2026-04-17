@@ -1573,6 +1573,12 @@ export const list: List = [
 				link: "https://www.newschool.edu/parsons/mfa-design-technology/",
 				locations: ["NYC"],
 			},
+			"Digital + Media at RISD": {
+				keywords:
+					"art and technology, sound, experimental design, new media, digital practice, critical investigation",
+				link: "https://www.risd.edu/academics/digital-media/",
+				locations: ["Providence", "RI"],
+			},
 			"Goldsmiths": {
 				keywords:
 					"a degree which develops your arts practice through the expressive world of creative computation",
