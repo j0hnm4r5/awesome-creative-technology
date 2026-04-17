@@ -449,6 +449,12 @@ export const list: List = [
 				link: "https://loremipsumcorp.com/",
 				locations: ["NYC", "Moscow", "London"],
 			},
+			"Lusion": {
+				keywords:
+					"3D visual storytelling, interactive web experiences, design, motion, animation, development",
+				link: "https://lusion.co/",
+				locations: ["Bristol"],
+			},
 			"m ss ng p eces": {
 				keywords:
 					"new wave production and entertainment partner for content and immersive experiences that inspire culture",
