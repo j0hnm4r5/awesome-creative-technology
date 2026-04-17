@@ -773,6 +773,12 @@ export const list: List = [
 				link: "https://redpaperheart.com",
 				locations: ["NYC"],
 			},
+			"Reflektor Digital": {
+				keywords:
+					"creative technology studio building world-class brand experiences and activations powered by AI, WebGL, and AR",
+				link: "https://reflektor.digital/",
+				locations: ["Toronto"],
+			},
 			"Relative Scale": {
 				keywords: "bespoke digital products and experiences for brands and institutions",
 				link: "https://relativescale.com/",
