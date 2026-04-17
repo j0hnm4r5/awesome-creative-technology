@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -562,6 +563,12 @@ export const list: List = [
 				keywords: "experience design, narrative, physical and digital environments",
 				link: "https://loremipsumcorp.com/",
 				locations: ["NYC", "Moscow", "London"],
+			},
+			"Luci Creative": {
+				keywords:
+					"museum experience design, brand experiences, experiential design, memory-focused design, behavioral science",
+				link: "https://www.lucicreative.com/",
+				locations: ["response_"],
 			},
 			"Lusion": {
 				keywords:
