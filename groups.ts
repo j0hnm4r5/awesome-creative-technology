@@ -746,6 +746,13 @@ export const list: List = [
 				link: "https://sitara.systems",
 				locations: ["Las Vegas"],
 			},
+			"Skycar Creative": {
+				careerLink: "https://skycar.tv/careers",
+				keywords:
+					"film production, motion graphics, animation, and design studio specializing in moving image and visual effects",
+				link: "https://skycar.tv/",
+				locations: ["Richmond, CA"],
+			},
 			"SOSO": {
 				careerLink: "https://www.sosolimited.com/careers/",
 				keywords:
