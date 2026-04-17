@@ -187,6 +187,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**tamschick**](https:&#x2F;&#x2F;tamschick.com&#x2F;) | [Berlin] | media and architectural narrative design, exhibitions, branded space, musuems | [🌐](https:&#x2F;&#x2F;tamschick.factorialhr.com&#x2F;)
 | [**Team Epiphany**](https:&#x2F;&#x2F;www.teamepiphany.com&#x2F;) | [NYC] [LA] | influencer marketing, IRL, vertical integration | [📧](mailto:info@teamepiphany.com)
 | [**Tellart**](https:&#x2F;&#x2F;www.tellart.com&#x2F;) | [Providence] [Amsterdam] [San Francisco] | transformative experiences, invention, physical &amp; digital experiences, new technologies | [📧](mailto:careers@tellart.com)
+| [**Territory Studio**](https:&#x2F;&#x2F;territorystudio.com&#x2F;project-category&#x2F;experiential&#x2F;) | [London] [SF] [Barcelona] | narrative-led creative design to imagine, realise and build new worlds | [🌐](https:&#x2F;&#x2F;territorystudio.com&#x2F;jobs&#x2F;)
 | [**The Gathery**](http:&#x2F;&#x2F;www.thegathery.com&#x2F;) | [NYC] | editorially-born creative agency specializing in brand marketing and content creation | [🌐](https:&#x2F;&#x2F;www.thegathery.com&#x2F;careers)
 | [**The Lab at Rockwell Group**](https:&#x2F;&#x2F;www.labatrockwellgroup.com) | [NYC] | architecture and design, branded experiences, immersive environments, pop ups | 
 | [**The Projects**](http:&#x2F;&#x2F;theprojects.com&#x2F;) | [London] [LA] [NYC] [Sydney] | brand consultancy, meaningful experiences, tell stories | 
