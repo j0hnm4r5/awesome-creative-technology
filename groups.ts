@@ -664,6 +664,12 @@ export const list: List = [
 				link: "https://nohlab.com/works",
 				locations: ["Istanbul"],
 			},
+			"Non-Linear": {
+				keywords:
+					"independent studio crafting digital experiences connecting brand, design, and technology",
+				link: "https://non-linear.studio/",
+				locations: ["Park City, UT", "Tallinn"],
+			},
 			"Normal": {
 				careerLink: "cv@normal.studio",
 				keywords: "public installations, entertainment, performing arts, stage design",
