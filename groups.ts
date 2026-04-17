@@ -1715,6 +1715,11 @@ export const list: List = [
 					"Wellington",
 				],
 			},
+			"Boron Studio": {
+				keywords: "digital design, branding, and web development",
+				link: "https://boronstudio.com",
+				locations: ["Montevideo"],
+			},
 			"BUCK": {
 				keywords: "VR, AR, installation, real-time animation, 3D, experiential",
 				link: "https://buck.co/",
@@ -2002,21 +2007,41 @@ export const list: List = [
 		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		description: "Meetups for creative technologists.",
 		rows: {
+			"CODAsummit": {
+				keywords: "public art, art and technology, placemaking, artists, commissioners, fabricators, creative professionals, interactive installations",
+				link: "https://codaworx.com/codasummit",
+				locations: ["Washington, D.C.", "Santa Fe, NM"],
+			},
 			Eyeo: {
 				closureReason: "Likely discontinued in 2022",
 				keywords: "a gathering for the creative technology community",
 				link: "https://www.eyeofestival.com/",
 				locations: ["Minneapolis"],
 			},
+			"ISE (Integrated Systems Europe)": {
+				keywords: "professional audiovisual, AV systems integration, smart buildings, immersive environments, digital signage, broadcast AV, live demos",
+				link: "https://www.iseurope.org/",
+				locations: ["Barcelona, Spain"],
+			},
 			ISEA: {
 				keywords: "the crossroads where art, design, science, technology and society meet",
 				link: "https://isea2022.isea-international.org/",
 				locations: ["Barcelona", "Paris"],
 			},
+			"KIKK Festival": {
+				keywords: "digital and creative cultures, art, science, technology, creative coding, interactive installations, data visualization, VR/XR, motion design",
+				link: "https://www.kikk.be/",
+				locations: ["Namur, Belgium"],
+			},
 			MUTEK: {
 				keywords: "electronic music, audiovisual performance, digital art",
 				link: "https://montreal.mutek.org/",
 				locations: ["Montreal"],
+			},
+			"Sónar+D": {
+				keywords: "music, innovation, creativity, technology, talks, workshops, interactive exhibitions, AI and music, digital arts",
+				link: "https://sonar.es/en/programa/sonar-d",
+				locations: ["Barcelona, Spain"],
 			},
 			SXSW: {
 				keywords: "film, music, interactive arts",
@@ -2024,6 +2049,76 @@ export const list: List = [
 				locations: ["Austin"],
 			},
 		},
+			"Visualized": {
+				keywords: "data visualization, data storytelling, design conference, information communication, multimedia, artificial intelligence",
+				link: "http://visualized.com/",
+				locations: ["United States", "Europe"],
+			},
+			"Transmediale": {
+				keywords: "digital culture, media arts, contemporary arts festival, art and technology, critical media practice",
+				link: "http://www.transmediale.de/",
+				locations: ["Berlin, Germany"],
+			},
+			"SIGGRAPH": {
+				keywords: "computer graphics, interactive techniques, digital art, interactive design, researchers, artists, developers, filmmakers",
+				link: "https://www.siggraph.org/",
+				locations: ["Los Angeles, CA"],
+			},
+			"OFFF Barcelona": {
+				keywords: "visual creativity, design, branding, digital design, creative processes, motion design, masterclasses, emerging talent",
+				link: "https://offf.barcelona/",
+				locations: ["Barcelona, Spain", "Seville, Spain", "Montreal, QC", "Mexico City"],
+			},
+			"NODE Forum for Digital Arts": {
+				keywords: "digital arts, creative technology, artistic research, media education, meetups, workshops, open hardware, digital practice",
+				link: "https://nodeforum.org/",
+				locations: ["Frankfurt am Main, Germany"],
+			},
+			"New Media Castle": {
+				keywords: "digital art, audiovisual installations, light art, laser technology, immersive experiences, contemporary digital artists",
+				link: "https://electriccastle.ro/new-media-castle",
+				locations: ["Cluj, Romania"],
+			},
+			"InfoComm": {
+				keywords: "professional audiovisual, AV systems integration, conferencing, digital signage, immersive environments, AV over IP, smart buildings",
+				link: "https://www.infocommshow.org/",
+				locations: ["Las Vegas, NV"],
+			},
+			"Hackaday Superconference": {
+				keywords: "hardware hacking, open hardware, technical workshops, maker community, electronics, DIY, embedded systems",
+				link: "https://hackaday.io/superconference/",
+				locations: ["Pasadena, CA"],
+			},
+			"Gray Area Festival": {
+				keywords: "art and technology, creative technology, performances, exhibitions, workshops, bodily practice, digital culture, technoculture",
+				link: "https://grayareafestival.io/",
+				locations: ["San Francisco, CA"],
+			},
+			"GDC (Game Developers Conference)": {
+				keywords: "game development, game design, industry conference, coding, publishing, marketing, interactive entertainment",
+				link: "https://gdconf.com/",
+				locations: ["San Francisco, CA"],
+			},
+			"FITC": {
+				keywords: "design and technology events, digital creatives, inspiration, education, future, innovation, technology, creativity",
+				link: "https://fitc.ca/",
+				locations: ["Toronto, ON", "Amsterdam", "Tokyo"],
+			},
+			"CanUX": {
+				keywords: "UX design, user experience, experience research, service design, design strategy, workshops, Canadian conference",
+				link: "https://canux.io/",
+				locations: ["Ottawa, ON"],
+			},
+			"AWE (Augmented World Expo)": {
+				keywords: "augmented reality, virtual reality, spatial computing, XR, spatial AI, immersive technology, wearable technology",
+				link: "https://www.awexr.com/",
+				locations: ["Long Beach, CA", "Europe", "Asia"],
+			},
+			"Ars Electronica": {
+				keywords: "art, technology and society, media art, festival, museum of the future, school of the future, digital culture",
+				link: "https://ars.electronica.art/",
+				locations: ["Linz, Austria"],
+			},
 	},
 	{
 		title: "Education",
