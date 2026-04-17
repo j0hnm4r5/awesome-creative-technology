@@ -390,6 +390,11 @@ export const list: List = [
 				link: "https://float4.com/en/",
 				locations: ["Montreal", "NYC"],
 			},
+			"Friendly Vengeance": {
+				keywords: "interactive experiences and experiential design",
+				link: "https://friendlyvengeance.com/",
+				locations: ["Culver City, CA"],
+			},
 			"fuse": {
 				keywords: "live-media performances, experimentation, electronic music, digital arts",
 				link: "https://www.fuseworks.it/en/",
