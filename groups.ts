@@ -754,6 +754,13 @@ export const list: List = [
 				link: "https://www.radicalmedia.com/",
 				locations: ["NYC", "LA"],
 			},
+			"Random Studio": {
+				careerLink: "https://random.studio/studio",
+				keywords:
+					"immersive digital experiences and spatial design for brand activations and retail environments",
+				link: "https://random.studio/",
+				locations: ["Amsterdam", "Paris"],
+			},
 			"Rare Volume": {
 				careerLink: "https://rarevolume.com/about/",
 				keywords: "design and technology studio, interactive video walls",
