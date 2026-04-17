@@ -810,6 +810,12 @@ export const list: List = [
 				link: "https://www.studioblack.org/",
 				locations: ["LA", "NYC"],
 			},
+			"Studio Coat": {
+				keywords:
+					"data-driven studio making new technology tangible through deep learning visualization, AI applications, and interactive media installations",
+				link: "https://studiocoat.nl/",
+				locations: ["Utrecht"],
+			},
 			"Studio Elsewhere": {
 				keywords: "bio-experiential design and technology to support brain health",
 				link: "https://www.studioelsewhere.co/",
