@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1650,6 +1651,13 @@ export const list: List = [
 					"virtual, augmented and mixed realities, location-based entertainment, and theme park rides",
 				link: "https://www.framestore.com/",
 				locations: ["London", "NYC", "Montreal"],
+			},
+			"Frog": {
+				careerLink: "https://www.frog.co/careers",
+				keywords:
+					"design and innovation consultancy specializing in product, service, and experience reinvention with ai integration",
+				link: "https://frog.co/",
+				locations: ["Global"],
 			},
 			"Jack Morton": {
 				careerLink: "https://jackmorton.com/culture-careers/",
