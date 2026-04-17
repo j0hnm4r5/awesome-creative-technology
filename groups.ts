@@ -40,6 +40,12 @@ export const list: List = [
 				link: "https://altethos.com/",
 				locations: ["Denver"],
 			},
+			"Ambient Interactive": {
+				keywords:
+					"digital interactive exhibits, immersive experiences, museum technology, touch table interactives, audio-visual media, educational games",
+				link: "https://www.ambientinteractive.com/",
+				locations: ["Calgary, AB"],
+			},
 			"Art + Com": {
 				careerLink: "https://artcom.de/en/jobs/",
 				keywords: "media sculptures, data installations, new media",
