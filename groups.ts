@@ -64,6 +64,12 @@ export const list: List = [
 				link: "https://www.av-controls.com/",
 				locations: ["NYC"],
 			},
+			"Baast Studio": {
+				keywords:
+					"interactive experiences bridging physical and digital worlds through technology and creative innovation",
+				link: "https://baast.studio",
+				locations: ["Amsterdam"],
+			},
 			"Barbarian": {
 				careerLink: "https://wearebarbarian.hire.trakstar.com/jobs?",
 				keywords: "marketing and advertising, new media",
