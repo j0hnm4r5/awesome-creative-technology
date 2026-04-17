@@ -528,6 +528,12 @@ export const list: List = [
 				link: "http://jasonsherwooddesign.com/",
 				locations: ["NYC"],
 			},
+			"Kingdom X": {
+				keywords:
+					"interactive experiences, installations, and digital activations for agencies, brands, and cultural organisations",
+				link: "https://kingdom-x.com/",
+				locations: ["London"],
+			},
 			"Left Field Labs": {
 				careerLink: "talent@leftfieldlabs.com",
 				keywords: "products, platforms, and services that solve fundamental human challenges",
