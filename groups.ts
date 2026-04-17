@@ -318,6 +318,12 @@ export const list: List = [
 				link: "https://fivestonestudios.com/",
 				locations: ["Nashville"],
 			},
+			"Fjord": {
+				keywords:
+					"light art curation and production for festivals, installations, and stage productions",
+				link: "https://fjordstudio.no/",
+				locations: ["Oslo"],
+			},
 			"Float4": {
 				careerLink: "https://float4.com/en/life-at-float4/",
 				keywords: "integrates digital experiences into physical spaces to amplify their identity",
