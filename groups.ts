@@ -365,6 +365,12 @@ export const list: List = [
 				link: "https://groovejones.com/",
 				locations: ["Dallas"],
 			},
+			"Happy Finish": {
+				keywords:
+					"creative production studio specializing in visual effects, immersive xr, and heroic imagery",
+				link: "https://happyfinish.com/",
+				locations: ["London", "Portland", "Verona", "Milan"],
+			},
 			"Hirsch & Mann": {
 				careerLink: "https://www.hirschandmann.com/jobs/",
 				keywords:
