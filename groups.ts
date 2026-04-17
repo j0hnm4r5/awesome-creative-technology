@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1929,6 +1930,12 @@ export const list: List = [
 					"art and technology, sound, experimental design, new media, digital practice, critical investigation",
 				link: "https://www.risd.edu/academics/digital-media/",
 				locations: ["Providence", "RI"],
+			},
+			"Entertainment Technology Center at Carnegie Mellon University": {
+				keywords:
+					"interactive entertainment, emerging media, game design, VR, AR, storytelling, project-based learning, creative technology, XR",
+				link: "https://www.etc.cmu.edu/",
+				locations: ["Pittsburgh", "PA"],
 			},
 			"Goldsmiths": {
 				keywords:
