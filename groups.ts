@@ -289,6 +289,12 @@ export const list: List = [
 				link: "https://esidesign.nbbj.com/",
 				locations: ["NYC"],
 			},
+			"Evidence Design": {
+				keywords:
+					"museum exhibit design, spatial communication, information environments, architecture, graphic design, industrial design",
+				link: "https://www.evidencedesign.com/",
+				locations: ["Brooklyn", "NY"],
+			},
 			"Extrapolation Factory": {
 				keywords: "research studio, futures studies, collaborative prototyping",
 				link: "https://extrapolationfactory.com/",
