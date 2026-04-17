@@ -968,6 +968,13 @@ export const list: List = [
 				link: "https://schemadesign.com/",
 				locations: ["Seattle", "Fairfield, CT"],
 			},
+			"Schnelle Bunte Bilder": {
+				careerLink: "https://schnellebuntebilder.de/jobs",
+				keywords:
+					"studio for media scenography and time-based media creating interactive installations, digital art, and audiovisual performances",
+				link: "https://schnellebuntebilder.de/",
+				locations: ["Berlin"],
+			},
 			"Second Story": {
 				careerLink: "https://careers.smartrecruiters.com/PublicisGroupe/razorfish",
 				keywords: "exhibition, interactive, software, experience, hardware, VR, AR, projection",
