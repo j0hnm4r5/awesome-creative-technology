@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -924,6 +925,13 @@ export const list: List = [
 					"data visualization, information design, intelligent interfaces, frontier technologies, interactive interfaces, UX design",
 				link: "https://schemadesign.com/",
 				locations: ["Seattle", "Fairfield, CT"],
+			},
+			"Schnelle Bunte Bilder": {
+				careerLink: "https://schnellebuntebilder.de/jobs",
+				keywords:
+					"studio for media scenography and time-based media creating interactive installations, digital art, and audiovisual performances",
+				link: "https://schnellebuntebilder.de/",
+				locations: ["Berlin"],
 			},
 			"Second Story": {
 				careerLink: "https://careers.smartrecruiters.com/PublicisGroupe/razorfish",
