@@ -132,6 +132,12 @@ export const list: List = [
 				link: "https://brig.ht/",
 				locations: ["Paris"],
 			},
+			"Buoy Studio": {
+				keywords:
+					"interactive digital and physical experiences across spatial design, ai, content, and gaming for brands and entertainment",
+				link: "https://buoy.studio/",
+				locations: ["LA", "NYC", "London", "Stockholm", "Sydney"],
+			},
 			"C&G Partners": {
 				careerLink: "https://www.cgpartnersllc.com/about/careers/",
 				keywords:
