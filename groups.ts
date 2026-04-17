@@ -183,6 +183,12 @@ export const list: List = [
 				link: "https://www.cosm.com/",
 				locations: ["Dallas", "LA", "City", "Pittsburgh", "Gurgaon"],
 			},
+			"Dada Projects": {
+				keywords:
+					"female-led creative studio specializing in 3D animation, CGI design, motion graphics, and immersive digital experiences",
+				link: "https://dada-projects.com/",
+				locations: ["London"],
+			},
 			"DE-YAN": {
 				careerLink: "CAREERS@DE-YAN.COM",
 				keywords:
