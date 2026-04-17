@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1737,6 +1738,13 @@ export const list: List = [
 					"experiential marketing, live events, B2B activations, brand experiences, event marketing",
 				link: "https://www.setcreative.com/",
 				locations: ["London", "NYC", "Portland"],
+			},
+			"SharpEnd": {
+				careerLink: "https://sharpend.com/careers",
+				keywords:
+					"brand experience agency helping companies create connected consumer experiences across touchpoints and retail activations",
+				link: "https://sharpend.com/",
+				locations: ["London", "NYC"],
 			},
 			"SuperUber": {
 				keywords: "experiences that blend art, technology, architecture and design",
