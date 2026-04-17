@@ -1371,6 +1371,11 @@ export const list: List = [
 					"Singapore",
 				],
 			},
+			"Monwest Studio": {
+				keywords: "digital design, branding, web development, and motion",
+				link: "https://monwest.nl/",
+				locations: ["Amsterdam"],
+			},
 			"R/GA": {
 				keywords: "business, experience, and marketing transformation",
 				link: "https://www.rga.com/",
