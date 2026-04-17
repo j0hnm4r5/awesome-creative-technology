@@ -863,6 +863,12 @@ export const list: List = [
 				link: "https://www.tellart.com/",
 				locations: ["Providence", "Amsterdam", "San Francisco"],
 			},
+			"Territory Studio": {
+				careerLink: "https://territorystudio.com/jobs/",
+				keywords: "narrative-led creative design to imagine, realise and build new worlds",
+				link: "https://territorystudio.com/project-category/experiential/",
+				locations: ["London", "SF", "Barcelona"],
+			},
 			"The Gathery": {
 				careerLink: "https://www.thegathery.com/careers",
 				keywords:
