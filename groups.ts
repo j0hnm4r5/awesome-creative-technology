@@ -1371,6 +1371,11 @@ export const list: List = [
 					"Singapore",
 				],
 			},
+			"Pilea": {
+				keywords: "video production and content creation for creators and brands",
+				link: "https://pilea.agency",
+				locations: ["Paris", "FR"],
+			},
 			"R/GA": {
 				keywords: "business, experience, and marketing transformation",
 				link: "https://www.rga.com/",
