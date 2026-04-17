@@ -753,6 +753,13 @@ export const list: List = [
 				link: "https://s1t2.com/",
 				locations: ["Sydney", "Melbourne", "Shanghai"],
 			},
+			"Schema Design": {
+				careerLink: "https://schemadesign.com/jobs",
+				keywords:
+					"data visualization, information design, intelligent interfaces, frontier technologies, interactive interfaces, UX design",
+				link: "https://schemadesign.com/",
+				locations: ["Seattle", "Fairfield, CT"],
+			},
 			"Second Story": {
 				careerLink: "https://careers.smartrecruiters.com/PublicisGroupe/razorfish",
 				keywords: "exhibition, interactive, software, experience, hardware, VR, AR, projection",
