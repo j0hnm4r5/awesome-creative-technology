@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1085,6 +1086,12 @@ export const list: List = [
 					"creative agency and artistic production company offering event design, spatial experiences, and immersive cultural exhibitions",
 				link: "https://tetro.fr/en",
 				locations: ["Lyon", "Paris"],
+			},
+			"The Experience Machine": {
+				keywords:
+					"creative studio specializing in immersive narrative environments using physical engineering, lighting, video, and code",
+				link: "https://the-experience-machine.com/",
+				locations: ["London"],
 			},
 			"The Gathery": {
 				careerLink: "https://www.thegathery.com/careers",
