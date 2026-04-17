@@ -604,6 +604,13 @@ export const list: List = [
 				link: "https://masterofshapes.com/",
 				locations: ["LA"],
 			},
+			"MESO Digital Interiors": {
+				careerLink: "https://meso.design/en/pages/join-us",
+				keywords:
+					"digital design and technology for physical spaces, blending interactive installations, showrooms, and experiential environments",
+				link: "https://meso.design",
+				locations: ["Frankfurt"],
+			},
 			"Midnight Commercial": {
 				keywords: "unite the disparate digital and physical worlds",
 				link: "http://midnightcommercial.com/",
