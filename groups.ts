@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -453,6 +454,12 @@ export const list: List = [
 					"immersive storytelling, experience design, museum exhibitions, interactive installations, public space activations, technology-integrated brand experiences",
 				link: "https://www.halfsisterstudio.com/",
 				locations: ["response_"],
+			},
+			"Happy Finish": {
+				keywords:
+					"creative production studio specializing in visual effects, immersive xr, and heroic imagery",
+				link: "https://happyfinish.com/",
+				locations: ["London", "Portland", "Verona", "Milan"],
 			},
 			"Hirsch & Mann": {
 				careerLink: "https://www.hirschandmann.com/jobs/",
