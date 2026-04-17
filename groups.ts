@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -1730,6 +1731,12 @@ export const list: List = [
 					"Sydney",
 					"Tokyo",
 				],
+			},
+			"Radical Media": {
+				keywords:
+					"production company specializing in documentaries, commercials, music content, and immersive experiences for global brands",
+				link: "https://radicalmedia.com/",
+				locations: ["NYC", "LA", "London", "Berlin"],
 			},
 			"Set Creative": {
 				careerLink: "https://www.setcreative.com/careers",
