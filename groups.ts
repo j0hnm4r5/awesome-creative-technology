@@ -1260,6 +1260,34 @@ export const list: List = [
 		description:
 			"Groups that generally design architecture often incorporating creative technology.",
 		rows: {
+			"Cannon Design": {
+				careerLink: "https://www.cannondesign.com/careers",
+				keywords:
+					"architecture, immersive branded experiences, design strategy, environments, planning, sustainable design",
+				link: "https://www.cannondesign.com/",
+				locations: [
+					"NYC",
+					"LA",
+					"Chicago",
+					"Boston",
+					"Baltimore",
+					"Buffalo",
+					"Charlotte",
+					"Dallas",
+					"Denver",
+					"Houston",
+					"Irvine",
+					"Minneapolis",
+					"Pittsburgh",
+					"Portland",
+					"San Diego",
+					"Seattle",
+					"St. Louis",
+					"Toronto",
+					"DC",
+					"Mumbai",
+				],
+			},
 			"Carlo Ratti Associatti": {
 				keywords: "design and innovation office, MIT Media Lab: Senseable City Lab",
 				link: "https://carloratti.com/",
