@@ -1394,6 +1394,12 @@ export const list: List = [
 					"Tokyo",
 				],
 			},
+			"Radical Media": {
+				keywords:
+					"production company specializing in documentaries, commercials, music content, and immersive experiences for global brands",
+				link: "https://radicalmedia.com/",
+				locations: ["NYC", "LA", "London", "Berlin"],
+			},
 			"SuperUber": {
 				keywords: "experiences that blend art, technology, architecture and design",
 				link: "https://www.superuber.com/",
