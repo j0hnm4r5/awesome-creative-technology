@@ -479,6 +479,12 @@ export const list: List = [
 				link: "https://heyhush.com/",
 				locations: ["NYC"],
 			},
+			"Hyper Studio": {
+				keywords:
+					"art, design, and technology studio integrating digital and physical worlds through experiential and interactive work",
+				link: "https://hyperstudio.es/en/",
+				locations: ["Madrid"],
+			},
 			"iart": {
 				careerLink: "https://iart.ch/en/jobs",
 				keywords:
