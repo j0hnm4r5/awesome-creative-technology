@@ -433,6 +433,12 @@ export const list: List = [
 				link: "http://jasonsherwooddesign.com/",
 				locations: ["NYC"],
 			},
+			"L3A UX Studio": {
+				keywords:
+					"ux research and design studio specializing in xr, digital experiences, and storytelling",
+				link: "https://l3astudio.com",
+				locations: ["Brooklyn, NY"],
+			},
 			"Left Field Labs": {
 				careerLink: "talent@leftfieldlabs.com",
 				keywords: "products, platforms, and services that solve fundamental human challenges",
