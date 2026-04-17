@@ -1066,6 +1066,12 @@ export const list: List = [
 				link: "https://www.unit9.com/",
 				locations: ["London", "LA", "NYC", "Berlin"],
 			},
+			"Universal Everything": {
+				keywords:
+					"studio working across experience design, media art, and experimental digital installations for major brands and galleries",
+				link: "https://universaleverything.com/",
+				locations: ["Remote"],
+			},
 			"Upswell": {
 				careerLink: "https://upswell.studio/contact",
 				keywords: "digital and physical content first experiences",
