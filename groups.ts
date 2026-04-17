@@ -439,6 +439,13 @@ export const list: List = [
 				link: "https://www.leftfieldlabs.com/",
 				locations: ["LA"],
 			},
+			"LG2 - Digital Experience": {
+				careerLink: "https://lg2.com/carrieres",
+				keywords:
+					"digital agency offering e-commerce, ux/ui design, mobile apps, and experiential design for brands",
+				link: "https://digital-xp.lg2.com/",
+				locations: ["Montreal", "Quebec", "Toronto"],
+			},
 			"Listen": {
 				keywords: "sensory-driven brand assets, modern cultural landscape, sound, experiences",
 				link: "https://wearelisten.com/",
