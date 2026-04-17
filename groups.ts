@@ -711,6 +711,12 @@ export const list: List = [
 				link: "https://www.rgicreative.com/",
 				locations: ["Cleveland"],
 			},
+			"RNDR": {
+				keywords:
+					"design studio for interactive media developing installations, data visualizations, and interactive software that are only finished by how they are used",
+				link: "https://rndr.studio/",
+				locations: ["The Hague"],
+			},
 			"Rosie Lee Creative": {
 				careerLink: "https://rosieleecreative.com/jobs",
 				keywords: "design, creative, digital and consultancy",
