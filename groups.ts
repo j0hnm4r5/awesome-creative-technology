@@ -600,6 +600,12 @@ export const list: List = [
 				link: "https://loremipsumcorp.com/",
 				locations: ["NYC", "Moscow", "London"],
 			},
+			"Luci Creative": {
+				keywords:
+					"museum experience design, brand experiences, experiential design, memory-focused design, behavioral science",
+				link: "https://www.lucicreative.com/",
+				locations: ["response_"],
+			},
 			"Lusion": {
 				keywords:
 					"3D visual storytelling, interactive web experiences, design, motion, animation, development",
