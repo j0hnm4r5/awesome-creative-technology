@@ -335,6 +335,12 @@ export const list: List = [
 				link: "https://www.futurecolossal.com/",
 				locations: ["NYC"],
 			},
+			"FutureDeluxe": {
+				keywords:
+					"design, technology, and moving image for future-facing brands across brand, product, campaign, and experience",
+				link: "https://futuredeluxe.com/",
+				locations: ["London", "LA", "NYC", "Sydney"],
+			},
 			"Gallagher & Associates": {
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "harmony between technology, narrative, and physical design",
