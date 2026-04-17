@@ -968,11 +968,6 @@ export const list: List = [
 				link: "https://www.wearesparks.com/",
 				locations: ["Philadelphia", "PA"],
 			},
-			"Sparks": {
-				keywords: "conferences, popups, event production, fabrication",
-				link: "https://www.wearesparks.com/",
-				locations: ["Philadelphia", "Shanghai", "Paris", "Berlin", "Amsterdam"],
-			},
 			"Special Projects": {
 				careerLink: "careers@specialprojects.studio",
 				keywords:
