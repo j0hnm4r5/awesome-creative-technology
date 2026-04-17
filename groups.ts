@@ -724,6 +724,12 @@ export const list: List = [
 				link: "https://www.pattenstudio.com/",
 				locations: ["NYC"],
 			},
+			"Phantom": {
+				keywords:
+					"technology-led creative agency crafting brand experiences using interactive design, AI, WebGL, and augmented reality",
+				link: "https://phantom.land/",
+				locations: ["London", "Auckland"],
+			},
 			"Pneuhaus": {
 				keywords:
 					"using inflatables to investigate the fundamental properties of perceptual experience in order to incite curiosity and wonder",
