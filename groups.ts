@@ -1800,6 +1800,13 @@ export const list: List = [
 				link: "https://www.setcreative.com/",
 				locations: ["London", "NYC", "Portland"],
 			},
+			"SharpEnd": {
+				careerLink: "https://sharpend.com/careers",
+				keywords:
+					"brand experience agency helping companies create connected consumer experiences across touchpoints and retail activations",
+				link: "https://sharpend.com/",
+				locations: ["London", "NYC"],
+			},
 			"SuperUber": {
 				keywords: "experiences that blend art, technology, architecture and design",
 				link: "https://www.superuber.com/",
