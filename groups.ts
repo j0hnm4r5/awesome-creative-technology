@@ -869,6 +869,12 @@ export const list: List = [
 				link: "https://territorystudio.com/project-category/experiential/",
 				locations: ["London", "SF", "Barcelona"],
 			},
+			"The Experience Machine": {
+				keywords:
+					"creative studio specializing in immersive narrative environments using physical engineering, lighting, video, and code",
+				link: "https://the-experience-machine.com/",
+				locations: ["London"],
+			},
 			"The Gathery": {
 				careerLink: "https://www.thegathery.com/careers",
 				keywords:
