@@ -5,6 +5,12 @@ export const list: List = [
 		title: "Creative Technology",
 		// eslint-disable-next-line sort-keys-fix/sort-keys-fix
 		rows: {
+			"17K": {
+				keywords:
+					"interactive experiences, digital installations, and creative technology for museums and exhibitions",
+				link: "https://17k.de/",
+				locations: ["Stuttgart", "Berlin"],
+			},
 			"1024 Architecture": {
 				careerLink: "job@1024architecture.net",
 				keywords: "architectural and digital works, orchestrated sound and light scores",
