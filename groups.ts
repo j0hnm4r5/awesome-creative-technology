@@ -449,6 +449,12 @@ export const list: List = [
 				link: "https://loremipsumcorp.com/",
 				locations: ["NYC", "Moscow", "London"],
 			},
+			"Luci Creative": {
+				keywords:
+					"museum experience design, brand experiences, experiential design, memory-focused design, behavioral science",
+				link: "https://www.lucicreative.com/",
+				locations: ["response_"],
+			},
 			"m ss ng p eces": {
 				keywords:
 					"new wave production and entertainment partner for content and immersive experiences that inspire culture",
