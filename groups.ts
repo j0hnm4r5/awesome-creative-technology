@@ -80,6 +80,12 @@ export const list: List = [
 				link: "https://www.binteractive.com/",
 				locations: ["LA"],
 			},
+			"Belle & Wissell Co": {
+				keywords:
+					"media experiences, interactive exhibits, brand storytelling, design and technology studio",
+				link: "https://bwco.info/",
+				locations: ["Seattle", "WA"],
+			},
 			"Blackbow": {
 				careerLink: "https://www.blackbow.cn/career/",
 				keywords: "projection mapping, digital art and cultural experiences",
