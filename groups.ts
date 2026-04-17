@@ -1212,6 +1212,12 @@ export const list: List = [
 		description:
 			"Groups that specialize in event production, often with a creative technology twist.",
 		rows: {
+			"Brandgage": {
+				keywords:
+					"interactive trade show experiences, touch and touchless displays, AR/VR experiences, digital booth activations, event marketing technology",
+				link: "https://www.brandgage.com/",
+				locations: ["response_"],
+			},
 			"Dera Lee Productions": {
 				keywords: "theatre arts, story-telling",
 				link: "http://www.deralee.com/",
