@@ -409,6 +409,12 @@ export const list: List = [
 				link: "https://www.immersive.international/",
 				locations: ["London", "Shanghai", "Ottawa", "Hong Kong", "Cape Town"],
 			},
+			"Incite CO": {
+				keywords:
+					"creative production and experiential design studio specializing in photography, film, and brand content",
+				link: "https://inciteco.com/",
+				locations: ["LA"],
+			},
 			"Intergalactic": {
 				careerLink: "https://intergalactic.com/careers",
 				keywords:
