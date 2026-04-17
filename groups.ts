@@ -627,6 +627,13 @@ export const list: List = [
 				link: "https://www.oatfoundry.com/",
 				locations: ["Philadelphia"],
 			},
+			"Observatory": {
+				careerLink: "https://www.observatory.design/jobs",
+				keywords:
+					"creative technology and content studio crafting end-to-end solutions for immersive experiences, brand spatialisation, and experiential content",
+				link: "https://observatory.design/",
+				locations: ["London"],
+			},
 			"OIO": {
 				keywords: "creative company working on future products and tools for a less boring future",
 				link: "https://oio.studio/",
