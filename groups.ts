@@ -971,6 +971,13 @@ export const list: List = [
 				link: "https://www.whitevoid.com/",
 				locations: ["Berlin", "Shanghai"],
 			},
+			"Wild Visual Effects": {
+				careerLink: "https://www.wildvfx.com/jobs/",
+				keywords:
+					"visual effects and 3D animation studio offering VFX services, AI solutions, and creative training",
+				link: "https://wildvfx.com/",
+				locations: ["Chennai"],
+			},
 			"WOA STUDIO": {
 				keywords: "immersive experiences, multimedia, video mapping, digital artistry",
 				link: "https://www.woastudio.it/",
