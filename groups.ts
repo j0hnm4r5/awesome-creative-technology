@@ -1135,6 +1135,13 @@ export const list: List = [
 				link: "https://www.29rooms.com/",
 				locations: ["USA"],
 			},
+			"59 Productions": {
+				careerLink: "https://59.studio/join/",
+				keywords:
+					"story-driven design, immersive experiences, stage design, live events, light and sound, technical design",
+				link: "https://59.studio/",
+				locations: ["London", "NYC"],
+			},
 			"Cascade": {
 				keywords: "interactive art experience",
 				link: "https://cascadeshow.com/",
