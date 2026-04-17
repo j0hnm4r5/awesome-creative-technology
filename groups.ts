@@ -1156,6 +1156,12 @@ export const list: List = [
 				link: "https://popupmob.com/",
 				locations: ["NYC", "LA", "London", "Paris"],
 			},
+			"Shared Studios": {
+				keywords:
+					"global immersive learning platform connecting communities through physical Portal spaces for real-time interactive programming",
+				link: "https://sharedstudios.com/",
+				locations: ["NYC", "SF"],
+			},
 			"Studio Daguet": {
 				keywords: "staging stories, show, music, theme parks, museums, hotels",
 				link: "http://www.daguet.com/",
