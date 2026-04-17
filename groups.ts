@@ -1139,6 +1139,13 @@ export const list: List = [
 				link: "https://www.colorfactory.co/",
 				locations: ["NYC", "Houston"],
 			},
+			"Imagination": {
+				careerLink: "https://imagination.com/careers/",
+				keywords:
+					"experience design and brand activation agency specializing in live events, destinations, content, and investor communications",
+				link: "https://imagination.com/",
+				locations: ["Global"],
+			},
 			"Meow Wolf": {
 				keywords:
 					"immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration",
