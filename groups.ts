@@ -1573,6 +1573,12 @@ export const list: List = [
 				link: "https://www.newschool.edu/parsons/mfa-design-technology/",
 				locations: ["NYC"],
 			},
+			"Design Media Arts at UCLA": {
+				keywords:
+					"multidisciplinary artistic practice, experimentation, innovative thinking, hybridizing technologies, media arts",
+				link: "https://dma.ucla.edu/",
+				locations: ["Angeles", "CA"],
+			},
 			"Goldsmiths": {
 				keywords:
 					"a degree which develops your arts practice through the expressive world of creative computation",
