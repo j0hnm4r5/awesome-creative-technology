@@ -1129,6 +1129,13 @@ export const list: List = [
 				link: "https://www.29rooms.com/",
 				locations: ["USA"],
 			},
+			"Atelier Brückner": {
+				careerLink: "https://www.atelier-brueckner.com/en/jobs/",
+				keywords:
+					"narrative architecture, exhibition design, scenography, museum and cultural spaces, brand experiences",
+				link: "https://www.atelier-brueckner.com/en",
+				locations: ["Stuttgart"],
+			},
 			"Cascade": {
 				keywords: "interactive art experience",
 				link: "https://cascadeshow.com/",
