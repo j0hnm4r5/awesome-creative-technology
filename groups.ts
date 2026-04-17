@@ -213,6 +213,12 @@ export const list: List = [
 				link: "https://cognitionlabs.io/",
 				locations: ["LA"],
 			},
+			"Collab": {
+				keywords:
+					"innovation and execution studio specializing in strategy, design, fabrication, and smart environments",
+				link: "https://collab.nyc/",
+				locations: ["NYC"],
+			},
 			"Comuzi": {
 				keywords: "explore and imagine and prototyp and creatr future-forward creative concepts",
 				link: "https://www.comuzi.xyz/",
