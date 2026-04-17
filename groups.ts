@@ -1315,6 +1315,13 @@ export const list: List = [
 				link: "https://andwalsh.com/",
 				locations: ["NYC"],
 			},
+			"2×4": {
+				careerLink: "https://2x4.org/about/jobs/",
+				keywords:
+					"branding, creative direction, digital design, exhibitions, environments, strategy, identity",
+				link: "https://2x4.org/",
+				locations: ["NYC", "Beijing"],
+			},
 			"AKQA": {
 				keywords: "the most powerful force in the universe isn’t technology, it’s imagination",
 				link: "https://www.akqa.com/",
