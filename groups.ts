@@ -1361,6 +1361,27 @@ export const list: List = [
 				link: "https://www.framestore.com/",
 				locations: ["London", "NYC", "Montreal"],
 			},
+			"Jack Morton": {
+				careerLink: "https://jackmorton.com/culture-careers/",
+				keywords:
+					"experiential marketing, brand experiences, event marketing, digital experiences, sponsorship activation, community building",
+				link: "https://jackmorton.com/",
+				locations: [
+					"Boston",
+					"Chicago",
+					"Detroit",
+					"LA",
+					"NYC",
+					"SF",
+					"London",
+					"Dubai",
+					"Doha",
+					"Singapore",
+					"Tokyo",
+					"Melbourne",
+					"Sydney",
+				],
+			},
 			"ManvsMachine": {
 				keywords: "multidimensional creative studio",
 				link: "https://mvsm.com/",
