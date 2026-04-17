@@ -652,6 +652,12 @@ export const list: List = [
 				link: "https://www.whatscookin.com/",
 				locations: ["Philadelphia"],
 			},
+			"No 130": {
+				keywords:
+					"immersive audiovisual experiences, digital art, CG, video installations, VR, and performing arts",
+				link: "https://no130.io/",
+				locations: ["Montreuil"],
+			},
 			"Nohlab": {
 				careerLink: "apply@nohlab.com",
 				keywords: "producing interdisciplinary experiences around art, design and technology",
