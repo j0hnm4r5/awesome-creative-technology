@@ -1337,6 +1337,11 @@ export const list: List = [
 					"Wellington",
 				],
 			},
+			"Boron Studio": {
+				keywords: "digital design, branding, and web development",
+				link: "https://boronstudio.com",
+				locations: ["Montevideo"],
+			},
 			"BUCK": {
 				keywords: "VR, AR, installation, real-time animation, 3D, experiential",
 				link: "https://buck.co/",
