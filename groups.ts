@@ -616,6 +616,12 @@ export const list: List = [
 				link: "https://www.neopangea.com/",
 				locations: ["Reading, PA"],
 			},
+			"NewReach": {
+				keywords:
+					"brand activation applications, art installations, event campaigns, video walls, wayfinding systems, mobile solutions, custom interactive applications",
+				link: "https://newreach.co/",
+				locations: ["response_"],
+			},
 			"NEXT/NOW": {
 				careerLink: "https://www.nextnowagency.com/careers",
 				keywords: "brand activations, immersive environments, emerging technologies",
