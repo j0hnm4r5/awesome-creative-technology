@@ -1569,6 +1569,12 @@ export const list: List = [
 				link: "https://buck.co/",
 				locations: ["LA", "NYC", "Sydney", "Amsterdam"],
 			},
+			"Design Systems International": {
+				keywords:
+					"digital design consultancy using code to create dynamic systems across the full product lifecycle",
+				link: "https://designsystems.international/",
+				locations: ["NYC", "Copenhagen", "Santiago, Chile", "Berlin", "Aachen"],
+			},
 			"Framestore": {
 				keywords:
 					"virtual, augmented and mixed realities, location-based entertainment, and theme park rides",
