@@ -696,6 +696,12 @@ export const list: List = [
 				link: "https://mschf.xyz/",
 				locations: ["NYC"],
 			},
+			"Munchingsquare": {
+				keywords:
+					"award-winning creative technology studio specializing in augmented reality, virtual reality, phygital, and mixed reality experiences",
+				link: "https://munchingsquare.com",
+				locations: ["London", "Katowice"],
+			},
 			"mycotoo": {
 				keywords:
 					"entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide",
