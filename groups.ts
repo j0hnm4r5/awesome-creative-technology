@@ -1573,6 +1573,12 @@ export const list: List = [
 				link: "https://www.newschool.edu/parsons/mfa-design-technology/",
 				locations: ["NYC"],
 			},
+			"Entertainment Technology Center at Carnegie Mellon University": {
+				keywords:
+					"interactive entertainment, emerging media, game design, VR, AR, storytelling, project-based learning, creative technology, XR",
+				link: "https://www.etc.cmu.edu/",
+				locations: ["Pittsburgh", "PA"],
+			},
 			"Goldsmiths": {
 				keywords:
 					"a degree which develops your arts practice through the expressive world of creative computation",
