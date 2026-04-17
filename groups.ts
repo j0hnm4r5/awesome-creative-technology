@@ -389,6 +389,12 @@ export const list: List = [
 				link: "https://groovejones.com/",
 				locations: ["Dallas"],
 			},
+			"Half Sister Studio": {
+				keywords:
+					"immersive storytelling, experience design, museum exhibitions, interactive installations, public space activations, technology-integrated brand experiences",
+				link: "https://www.halfsisterstudio.com/",
+				locations: ["response_"],
+			},
 			"Hirsch & Mann": {
 				careerLink: "https://www.hirschandmann.com/jobs/",
 				keywords:
