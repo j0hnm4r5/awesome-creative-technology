@@ -48,6 +48,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
 | [**1024 Architecture**](https:&#x2F;&#x2F;www.1024architecture.net&#x2F;) | [Paris] | architectural and digital works, orchestrated sound and light scores | [📧](mailto:job@1024architecture.net)
+| [**Acronym**](https:&#x2F;&#x2F;acronym.lol&#x2F;) | [LA] | end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign) | [🌐](https:&#x2F;&#x2F;acronym.lol&#x2F;jobs)
 | [**Acrylicize**](https:&#x2F;&#x2F;www.acrylicize.com&#x2F;) | [London] [NYC] [Seattle] | harness the power of art and creativity to help people fall in love with spaces | [📧](mailto:work@acrylicize.com)
 | [**Ada**](https:&#x2F;&#x2F;a-da.co&#x2F;) | [NYC] | experience innovation and design agency that partners with the world&#39;s most ambitious visionaries and brands in the culture, arts and social impact space | 
 | [**Adirondack Studios**](https:&#x2F;&#x2F;www.adkstudios.com&#x2F;) | [Glens Falls, NY] [Dubai] [Orlando] [Shanghai] [LA] [Singapore] | concept, schematic, design, construction, fabrication, installation, support | [🌐](https:&#x2F;&#x2F;www.adkstudios.com&#x2F;team&#x2F;#careers)
@@ -200,7 +201,6 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**UNIT9**](https:&#x2F;&#x2F;www.unit9.com&#x2F;) | [London] [LA] [NYC] [Berlin] | innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors | [🌐](https:&#x2F;&#x2F;www.unit9.com&#x2F;jobs)
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
 | [**Volvox Labs**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound, robotics | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
-| [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](mailto:jobs@vtprodesign.com)
 | [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 

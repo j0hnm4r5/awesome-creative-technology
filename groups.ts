@@ -11,6 +11,12 @@ export const list: List = [
 				link: "https://www.1024architecture.net/",
 				locations: ["Paris"],
 			},
+			"Acronym": {
+				careerLink: "https://acronym.lol/jobs",
+				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				link: "https://acronym.lol/",
+				locations: ["LA"],
+			},
 			"Acrylicize": {
 				careerLink: "work@acrylicize.com",
 				keywords: "harness the power of art and creativity to help people fall in love with spaces",
@@ -939,12 +945,6 @@ export const list: List = [
 				keywords: "high-end design, code, fabrication, sound, robotics",
 				link: "https://volvoxlabs.com/",
 				locations: ["NYC", "LA"],
-			},
-			"VTProDesign": {
-				careerLink: "jobs@vtprodesign.com",
-				keywords: "high tech robotics and projection mapping",
-				link: "https://vtprodesign.com/",
-				locations: ["LA"],
 			},
 			"We Are Royale": {
 				careerLink: "jobs@weareroyale.com",
