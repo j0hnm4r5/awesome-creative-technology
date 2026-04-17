@@ -19,7 +19,8 @@ export const list: List = [
 			},
 			"Acronym": {
 				careerLink: "https://acronym.lol/jobs",
-				keywords: "end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
+				keywords:
+					"end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)",
 				link: "https://acronym.lol/",
 				locations: ["LA"],
 			},
@@ -235,6 +236,12 @@ export const list: List = [
 					"female-led creative studio specializing in 3D animation, CGI design, motion graphics, and immersive digital experiences",
 				link: "https://dada-projects.com/",
 				locations: ["London"],
+			},
+			"Daily Tous Les Jours": {
+				careerLink: "https://www.dailytouslesjours.com/en/job-offers",
+				keywords: "interactive public art and design creating collective human experiences",
+				link: "https://dailytouslesjours.com/en",
+				locations: ["Montreal"],
 			},
 			"DE-YAN": {
 				careerLink: "CAREERS@DE-YAN.COM",
