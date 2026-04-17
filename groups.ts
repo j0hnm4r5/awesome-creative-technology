@@ -971,6 +971,12 @@ export const list: List = [
 				link: "https://www.whitevoid.com/",
 				locations: ["Berlin", "Shanghai"],
 			},
+			"Wireframe": {
+				keywords:
+					"public art agency specializing in the production and global distribution of interactive art installations for public spaces",
+				link: "https://wireframe.ca/",
+				locations: ["Montreal"],
+			},
 			"WOA STUDIO": {
 				keywords: "immersive experiences, multimedia, video mapping, digital artistry",
 				link: "https://www.woastudio.it/",
