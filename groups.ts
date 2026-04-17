@@ -539,6 +539,12 @@ export const list: List = [
 					"Tokyo",
 				],
 			},
+			"MONOGRID": {
+				keywords:
+					"creative technology studio specializing in brand experiences, interactive installations, and immersive digital work",
+				link: "https://monogrid.com/",
+				locations: ["Florence", "Milan"],
+			},
 			"Motse": {
 				careerLink: "lixuanjie@silkroadcg.com",
 				keywords: "digital art",
