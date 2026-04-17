@@ -29,6 +29,11 @@ export const list: List = [
 				link: "https://www.adkstudios.com/",
 				locations: ["Glens Falls, NY", "Dubai", "Orlando", "Shanghai", "LA", "Singapore"],
 			},
+			"Adoratorio Studio": {
+				keywords: "digital art, interactive graphics, and web experiences",
+				link: "https://adoratorio.studio/",
+				locations: ["Brescia"],
+			},
 			"Alt Ethos": {
 				keywords: "experiential, metaverse, and event design agency",
 				link: "https://altethos.com/",
