@@ -1394,6 +1394,13 @@ export const list: List = [
 					"Tokyo",
 				],
 			},
+			"Stink Studios": {
+				careerLink: "https://stinkstudios.com/careers",
+				keywords:
+					"global creative studio producing advertising, branding, and digital creative work in-house from thinking to making",
+				link: "https://stinkstudios.com/",
+				locations: ["London"],
+			},
 			"SuperUber": {
 				keywords: "experiences that blend art, technology, architecture and design",
 				link: "https://www.superuber.com/",
