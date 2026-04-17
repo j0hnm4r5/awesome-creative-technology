@@ -1683,6 +1683,13 @@ export const list: List = [
 				link: "https://www.framestore.com/",
 				locations: ["London", "NYC", "Montreal"],
 			},
+			"Frog": {
+				careerLink: "https://www.frog.co/careers",
+				keywords:
+					"design and innovation consultancy specializing in product, service, and experience reinvention with ai integration",
+				link: "https://frog.co/",
+				locations: ["Global"],
+			},
 			"Jack Morton": {
 				careerLink: "https://jackmorton.com/culture-careers/",
 				keywords:
